@@ -12,7 +12,7 @@ model = tf.keras.models.load_model("/Users/sandeepreddy/Desktop/Differentmodels/
 
 
 # desktop_path = "/Users/sandeepreddy/Desktop/Images/Images"
-desktop_path = "/Users/sandeepreddy/Desktop/Images/Images/"
+desktop_path = "/Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/5k/5k3/"
 def preprocess_image(image_path):
     img = image.load_img(image_path, target_size=(150, 150))
     img = image.img_to_array(img)
@@ -77,7 +77,7 @@ def main(input_path, output_csv_path):
     elif os.path.isdir(input_path): # Check if the input is a directory
         
         
-        folder_predictions, cpu_usage_list, memory_usage_list, runtime_list = predict_images_in_folder(input_path)
+        folder_predictions, runtime_list,memory_usage_list, cpu_usage_list = predict_images_in_folder(input_path)
         
         create_graphs(cpu_usage_list, memory_usage_list, runtime_list, folder_predictions.keys(), output_csv_path)
 
