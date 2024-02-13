@@ -1,0 +1,3808 @@
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33    128.1 MiB    128.1 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35    137.5 MiB      9.5 MiB           1       features = preprocess_image(image_path)
+    36    137.7 MiB      0.2 MiB           1       prediction = loaded_model.predict(features)
+    37    137.7 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     71.5 MiB     71.5 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     88.2 MiB     16.7 MiB           1       features = preprocess_image(image_path)
+    36     88.2 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     88.2 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     88.2 MiB     88.2 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     99.5 MiB     11.3 MiB           1       features = preprocess_image(image_path)
+    36     99.5 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     99.5 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     76.2 MiB     76.2 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     83.6 MiB      7.5 MiB           1       features = preprocess_image(image_path)
+    36     83.6 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     83.6 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     71.1 MiB     71.1 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     71.2 MiB      0.1 MiB           1       features = preprocess_image(image_path)
+    36     71.2 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     71.2 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     63.7 MiB     63.7 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     74.2 MiB     10.5 MiB           1       features = preprocess_image(image_path)
+    36     74.2 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     74.2 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     72.8 MiB     72.8 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     86.8 MiB     14.0 MiB           1       features = preprocess_image(image_path)
+    36     86.8 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     86.8 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     85.8 MiB     85.8 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     89.2 MiB      3.5 MiB           1       features = preprocess_image(image_path)
+    36     89.2 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     89.2 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     82.1 MiB     82.1 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     82.8 MiB      0.7 MiB           1       features = preprocess_image(image_path)
+    36     82.8 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     82.8 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     65.0 MiB     65.0 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     72.9 MiB      7.8 MiB           1       features = preprocess_image(image_path)
+    36     72.9 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     72.9 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     61.5 MiB     61.5 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     67.7 MiB      6.2 MiB           1       features = preprocess_image(image_path)
+    36     67.7 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     67.7 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     64.7 MiB     64.7 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     69.8 MiB      5.1 MiB           1       features = preprocess_image(image_path)
+    36     70.3 MiB      0.5 MiB           1       prediction = loaded_model.predict(features)
+    37     70.3 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     36.1 MiB     36.1 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     66.2 MiB     30.1 MiB           1       features = preprocess_image(image_path)
+    36     67.0 MiB      0.8 MiB           1       prediction = loaded_model.predict(features)
+    37     67.0 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     36.5 MiB     36.5 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     66.9 MiB     30.4 MiB           1       features = preprocess_image(image_path)
+    36     67.7 MiB      0.8 MiB           1       prediction = loaded_model.predict(features)
+    37     67.7 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     36.0 MiB     36.0 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     66.8 MiB     30.8 MiB           1       features = preprocess_image(image_path)
+    36     67.7 MiB      0.9 MiB           1       prediction = loaded_model.predict(features)
+    37     67.7 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     35.8 MiB     35.8 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     69.8 MiB     34.1 MiB           1       features = preprocess_image(image_path)
+    36     70.6 MiB      0.8 MiB           1       prediction = loaded_model.predict(features)
+    37     70.6 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     36.6 MiB     36.6 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     62.7 MiB     26.1 MiB           1       features = preprocess_image(image_path)
+    36     63.4 MiB      0.7 MiB           1       prediction = loaded_model.predict(features)
+    37     63.4 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     56.4 MiB     56.4 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     67.9 MiB     11.5 MiB           1       features = preprocess_image(image_path)
+    36     67.9 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     67.9 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     56.7 MiB     56.7 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     69.2 MiB     12.5 MiB           1       features = preprocess_image(image_path)
+    36     69.2 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     69.2 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     58.2 MiB     58.2 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     69.2 MiB     11.0 MiB           1       features = preprocess_image(image_path)
+    36     69.2 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     69.2 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     36.0 MiB     36.0 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     64.9 MiB     28.9 MiB           1       features = preprocess_image(image_path)
+    36     65.6 MiB      0.8 MiB           1       prediction = loaded_model.predict(features)
+    37     65.6 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     56.1 MiB     56.1 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     67.0 MiB     10.9 MiB           1       features = preprocess_image(image_path)
+    36     67.0 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     67.0 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     56.7 MiB     56.7 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     68.2 MiB     11.5 MiB           1       features = preprocess_image(image_path)
+    36     68.6 MiB      0.5 MiB           1       prediction = loaded_model.predict(features)
+    37     68.6 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     59.9 MiB     59.9 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     70.1 MiB     10.2 MiB           1       features = preprocess_image(image_path)
+    36     70.1 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     70.1 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     55.9 MiB     55.9 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     69.2 MiB     13.3 MiB           1       features = preprocess_image(image_path)
+    36     69.6 MiB      0.5 MiB           1       prediction = loaded_model.predict(features)
+    37     69.6 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     40.2 MiB     40.2 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     68.1 MiB     27.9 MiB           1       features = preprocess_image(image_path)
+    36     68.3 MiB      0.2 MiB           1       prediction = loaded_model.predict(features)
+    37     68.3 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     59.2 MiB     59.2 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     66.4 MiB      7.2 MiB           1       features = preprocess_image(image_path)
+    36     66.4 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     66.4 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     56.5 MiB     56.5 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     64.0 MiB      7.4 MiB           1       features = preprocess_image(image_path)
+    36     64.0 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     64.0 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     52.4 MiB     52.4 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     63.0 MiB     10.6 MiB           1       features = preprocess_image(image_path)
+    36     63.7 MiB      0.7 MiB           1       prediction = loaded_model.predict(features)
+    37     63.7 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     43.5 MiB     43.5 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     66.8 MiB     23.3 MiB           1       features = preprocess_image(image_path)
+    36     66.8 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     66.8 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     58.7 MiB     58.7 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     69.1 MiB     10.4 MiB           1       features = preprocess_image(image_path)
+    36     69.1 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     69.1 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     44.2 MiB     44.2 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     64.2 MiB     19.9 MiB           1       features = preprocess_image(image_path)
+    36     64.2 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     64.2 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     57.3 MiB     57.3 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     68.6 MiB     11.3 MiB           1       features = preprocess_image(image_path)
+    36     68.6 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     68.6 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     68.3 MiB     68.3 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     74.4 MiB      6.2 MiB           1       features = preprocess_image(image_path)
+    36     74.4 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     74.4 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     73.1 MiB     73.1 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     74.5 MiB      1.4 MiB           1       features = preprocess_image(image_path)
+    36     74.5 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     74.5 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     62.9 MiB     62.9 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     68.6 MiB      5.7 MiB           1       features = preprocess_image(image_path)
+    36     68.6 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     68.6 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     68.6 MiB     68.6 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     74.5 MiB      5.9 MiB           1       features = preprocess_image(image_path)
+    36     74.5 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     74.5 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     67.1 MiB     67.1 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     74.3 MiB      7.2 MiB           1       features = preprocess_image(image_path)
+    36     74.3 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     74.3 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     65.8 MiB     65.8 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     66.0 MiB      0.1 MiB           1       features = preprocess_image(image_path)
+    36     66.0 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     66.0 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     55.6 MiB     55.6 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     62.9 MiB      7.3 MiB           1       features = preprocess_image(image_path)
+    36     63.0 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     63.0 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     49.6 MiB     49.6 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     69.1 MiB     19.6 MiB           1       features = preprocess_image(image_path)
+    36     69.9 MiB      0.8 MiB           1       prediction = loaded_model.predict(features)
+    37     69.9 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     35.8 MiB     35.8 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     65.1 MiB     29.3 MiB           1       features = preprocess_image(image_path)
+    36     65.9 MiB      0.8 MiB           1       prediction = loaded_model.predict(features)
+    37     65.9 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     35.7 MiB     35.7 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     65.3 MiB     29.6 MiB           1       features = preprocess_image(image_path)
+    36     66.2 MiB      0.9 MiB           1       prediction = loaded_model.predict(features)
+    37     66.2 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     42.0 MiB     42.0 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     65.7 MiB     23.7 MiB           1       features = preprocess_image(image_path)
+    36     66.5 MiB      0.8 MiB           1       prediction = loaded_model.predict(features)
+    37     66.5 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     36.5 MiB     36.5 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     63.4 MiB     26.9 MiB           1       features = preprocess_image(image_path)
+    36     64.2 MiB      0.8 MiB           1       prediction = loaded_model.predict(features)
+    37     64.2 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     35.8 MiB     35.8 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     66.7 MiB     30.9 MiB           1       features = preprocess_image(image_path)
+    36     67.5 MiB      0.8 MiB           1       prediction = loaded_model.predict(features)
+    37     67.5 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     55.7 MiB     55.7 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     64.8 MiB      9.1 MiB           1       features = preprocess_image(image_path)
+    36     64.8 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     64.8 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     38.0 MiB     38.0 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     70.0 MiB     32.0 MiB           1       features = preprocess_image(image_path)
+    36     70.7 MiB      0.8 MiB           1       prediction = loaded_model.predict(features)
+    37     70.7 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     58.8 MiB     58.8 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     68.6 MiB      9.8 MiB           1       features = preprocess_image(image_path)
+    36     68.6 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     68.6 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     39.2 MiB     39.2 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     68.7 MiB     29.5 MiB           1       features = preprocess_image(image_path)
+    36     69.5 MiB      0.8 MiB           1       prediction = loaded_model.predict(features)
+    37     69.5 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     60.4 MiB     60.4 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     69.3 MiB      8.9 MiB           1       features = preprocess_image(image_path)
+    36     69.3 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     69.3 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     43.4 MiB     43.4 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     67.3 MiB     23.9 MiB           1       features = preprocess_image(image_path)
+    36     68.1 MiB      0.8 MiB           1       prediction = loaded_model.predict(features)
+    37     68.1 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     43.7 MiB     43.7 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     71.5 MiB     27.8 MiB           1       features = preprocess_image(image_path)
+    36     71.5 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     71.5 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     62.5 MiB     62.5 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     72.0 MiB      9.5 MiB           1       features = preprocess_image(image_path)
+    36     72.1 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     72.1 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     39.6 MiB     39.6 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     69.8 MiB     30.2 MiB           1       features = preprocess_image(image_path)
+    36     70.6 MiB      0.8 MiB           1       prediction = loaded_model.predict(features)
+    37     70.6 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     69.5 MiB     69.5 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     79.6 MiB     10.1 MiB           1       features = preprocess_image(image_path)
+    36     79.6 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     79.6 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     43.3 MiB     43.3 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     71.6 MiB     28.3 MiB           1       features = preprocess_image(image_path)
+    36     72.4 MiB      0.8 MiB           1       prediction = loaded_model.predict(features)
+    37     72.4 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     61.5 MiB     61.5 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     71.7 MiB     10.1 MiB           1       features = preprocess_image(image_path)
+    36     71.7 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     71.7 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     61.4 MiB     61.4 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     65.1 MiB      3.7 MiB           1       features = preprocess_image(image_path)
+    36     65.1 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     65.1 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     64.8 MiB     64.8 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     64.2 MiB     -0.6 MiB           1       features = preprocess_image(image_path)
+    36     64.2 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     64.2 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     64.0 MiB     64.0 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     64.1 MiB      0.1 MiB           1       features = preprocess_image(image_path)
+    36     64.1 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     64.1 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     62.7 MiB     62.7 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     64.3 MiB      1.6 MiB           1       features = preprocess_image(image_path)
+    36     64.3 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     64.3 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     38.7 MiB     38.7 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     66.5 MiB     27.8 MiB           1       features = preprocess_image(image_path)
+    36     67.2 MiB      0.8 MiB           1       prediction = loaded_model.predict(features)
+    37     67.2 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     65.4 MiB     65.4 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     69.5 MiB      4.2 MiB           1       features = preprocess_image(image_path)
+    36     69.5 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     69.5 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     64.6 MiB     64.6 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     72.8 MiB      8.1 MiB           1       features = preprocess_image(image_path)
+    36     72.8 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     72.8 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     68.8 MiB     68.8 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     68.9 MiB      0.1 MiB           1       features = preprocess_image(image_path)
+    36     68.9 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     68.9 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     66.8 MiB     66.8 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     68.9 MiB      2.2 MiB           1       features = preprocess_image(image_path)
+    36     68.9 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     68.9 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     64.7 MiB     64.7 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     69.5 MiB      4.8 MiB           1       features = preprocess_image(image_path)
+    36     69.5 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     69.5 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     66.0 MiB     66.0 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     70.5 MiB      4.5 MiB           1       features = preprocess_image(image_path)
+    36     70.5 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     70.5 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     36.3 MiB     36.3 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     63.7 MiB     27.4 MiB           1       features = preprocess_image(image_path)
+    36     64.4 MiB      0.7 MiB           1       prediction = loaded_model.predict(features)
+    37     64.4 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     37.8 MiB     37.8 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     67.1 MiB     29.3 MiB           1       features = preprocess_image(image_path)
+    36     67.9 MiB      0.8 MiB           1       prediction = loaded_model.predict(features)
+    37     67.9 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     36.6 MiB     36.6 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     63.1 MiB     26.5 MiB           1       features = preprocess_image(image_path)
+    36     64.0 MiB      0.9 MiB           1       prediction = loaded_model.predict(features)
+    37     64.0 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     59.5 MiB     59.5 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     69.0 MiB      9.5 MiB           1       features = preprocess_image(image_path)
+    36     69.0 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     69.0 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     39.8 MiB     39.8 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     69.2 MiB     29.5 MiB           1       features = preprocess_image(image_path)
+    36     69.9 MiB      0.7 MiB           1       prediction = loaded_model.predict(features)
+    37     69.9 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     38.4 MiB     38.4 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     64.2 MiB     25.8 MiB           1       features = preprocess_image(image_path)
+    36     64.9 MiB      0.7 MiB           1       prediction = loaded_model.predict(features)
+    37     64.9 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     59.0 MiB     59.0 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     72.6 MiB     13.6 MiB           1       features = preprocess_image(image_path)
+    36     72.6 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     72.6 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     69.1 MiB     69.1 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     76.9 MiB      7.8 MiB           1       features = preprocess_image(image_path)
+    36     76.9 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     76.9 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     77.0 MiB     77.0 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     79.4 MiB      2.4 MiB           1       features = preprocess_image(image_path)
+    36     79.4 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     79.4 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     72.4 MiB     72.4 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     78.2 MiB      5.8 MiB           1       features = preprocess_image(image_path)
+    36     78.2 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     78.2 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     72.6 MiB     72.6 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     76.4 MiB      3.8 MiB           1       features = preprocess_image(image_path)
+    36     76.4 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     76.4 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     68.9 MiB     68.9 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     72.1 MiB      3.2 MiB           1       features = preprocess_image(image_path)
+    36     72.1 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     72.1 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     67.1 MiB     67.1 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     69.1 MiB      2.0 MiB           1       features = preprocess_image(image_path)
+    36     69.1 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     69.1 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     68.7 MiB     68.7 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     68.8 MiB      0.0 MiB           1       features = preprocess_image(image_path)
+    36     68.8 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     68.8 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     66.6 MiB     66.6 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     68.9 MiB      2.3 MiB           1       features = preprocess_image(image_path)
+    36     68.9 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     68.9 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     68.5 MiB     68.5 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     69.0 MiB      0.5 MiB           1       features = preprocess_image(image_path)
+    36     69.0 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     69.0 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     67.7 MiB     67.7 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     68.8 MiB      1.1 MiB           1       features = preprocess_image(image_path)
+    36     68.8 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     68.8 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     57.4 MiB     57.4 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     65.5 MiB      8.1 MiB           1       features = preprocess_image(image_path)
+    36     65.5 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     65.5 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     64.8 MiB     64.8 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     71.5 MiB      6.7 MiB           1       features = preprocess_image(image_path)
+    36     71.5 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     71.5 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     69.0 MiB     69.0 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     70.8 MiB      1.8 MiB           1       features = preprocess_image(image_path)
+    36     70.8 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     70.8 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     70.8 MiB     70.8 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     70.8 MiB      0.0 MiB           1       features = preprocess_image(image_path)
+    36     70.8 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     70.8 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     70.5 MiB     70.5 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     70.9 MiB      0.4 MiB           1       features = preprocess_image(image_path)
+    36     70.9 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     70.9 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     69.9 MiB     69.9 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     74.4 MiB      4.5 MiB           1       features = preprocess_image(image_path)
+    36     74.4 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     74.4 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     70.5 MiB     70.5 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     72.2 MiB      1.7 MiB           1       features = preprocess_image(image_path)
+    36     72.2 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     72.2 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     71.5 MiB     71.5 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     72.3 MiB      0.8 MiB           1       features = preprocess_image(image_path)
+    36     72.3 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     72.3 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     71.9 MiB     71.9 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     71.9 MiB      0.0 MiB           1       features = preprocess_image(image_path)
+    36     71.9 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     71.9 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     71.6 MiB     71.6 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     76.6 MiB      5.0 MiB           1       features = preprocess_image(image_path)
+    36     76.6 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     76.6 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     76.6 MiB     76.6 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     76.7 MiB      0.1 MiB           1       features = preprocess_image(image_path)
+    36     76.7 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     76.7 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     69.1 MiB     69.1 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     74.6 MiB      5.5 MiB           1       features = preprocess_image(image_path)
+    36     74.6 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     74.6 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     35.9 MiB     35.9 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     67.2 MiB     31.4 MiB           1       features = preprocess_image(image_path)
+    36     68.1 MiB      0.8 MiB           1       prediction = loaded_model.predict(features)
+    37     68.1 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     39.0 MiB     39.0 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     67.9 MiB     28.9 MiB           1       features = preprocess_image(image_path)
+    36     68.7 MiB      0.8 MiB           1       prediction = loaded_model.predict(features)
+    37     68.7 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     36.6 MiB     36.6 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     66.7 MiB     30.1 MiB           1       features = preprocess_image(image_path)
+    36     67.5 MiB      0.8 MiB           1       prediction = loaded_model.predict(features)
+    37     67.5 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     38.4 MiB     38.4 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     65.0 MiB     26.6 MiB           1       features = preprocess_image(image_path)
+    36     65.7 MiB      0.7 MiB           1       prediction = loaded_model.predict(features)
+    37     65.7 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     36.7 MiB     36.7 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     62.1 MiB     25.4 MiB           1       features = preprocess_image(image_path)
+    36     62.9 MiB      0.7 MiB           1       prediction = loaded_model.predict(features)
+    37     62.9 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     36.5 MiB     36.5 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     63.5 MiB     27.0 MiB           1       features = preprocess_image(image_path)
+    36     64.2 MiB      0.7 MiB           1       prediction = loaded_model.predict(features)
+    37     64.2 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     56.6 MiB     56.6 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     69.8 MiB     13.2 MiB           1       features = preprocess_image(image_path)
+    36     69.8 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     69.8 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     69.8 MiB     69.8 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     77.8 MiB      8.0 MiB           1       features = preprocess_image(image_path)
+    36     77.8 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     77.8 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     76.5 MiB     76.5 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     77.1 MiB      0.6 MiB           1       features = preprocess_image(image_path)
+    36     77.1 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     77.1 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     61.6 MiB     61.6 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     68.0 MiB      6.4 MiB           1       features = preprocess_image(image_path)
+    36     68.0 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     68.0 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     61.5 MiB     61.5 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     74.4 MiB     12.8 MiB           1       features = preprocess_image(image_path)
+    36     74.4 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     74.4 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     72.2 MiB     72.2 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     78.0 MiB      5.8 MiB           1       features = preprocess_image(image_path)
+    36     78.0 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     78.0 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     78.0 MiB     78.0 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     82.7 MiB      4.7 MiB           1       features = preprocess_image(image_path)
+    36     82.7 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     82.7 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     70.7 MiB     70.7 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     72.4 MiB      1.7 MiB           1       features = preprocess_image(image_path)
+    36     72.4 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     72.4 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     58.1 MiB     58.1 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     69.6 MiB     11.5 MiB           1       features = preprocess_image(image_path)
+    36     69.6 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     69.6 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     67.6 MiB     67.6 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     70.5 MiB      2.8 MiB           1       features = preprocess_image(image_path)
+    36     70.5 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     70.5 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     68.8 MiB     68.8 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     74.8 MiB      6.0 MiB           1       features = preprocess_image(image_path)
+    36     74.8 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     74.8 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     71.2 MiB     71.2 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     78.0 MiB      6.8 MiB           1       features = preprocess_image(image_path)
+    36     78.0 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     78.0 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     77.8 MiB     77.8 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     78.1 MiB      0.4 MiB           1       features = preprocess_image(image_path)
+    36     78.1 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     78.1 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     78.1 MiB     78.1 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     78.3 MiB      0.1 MiB           1       features = preprocess_image(image_path)
+    36     78.3 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     78.3 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     74.3 MiB     74.3 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     77.2 MiB      2.8 MiB           1       features = preprocess_image(image_path)
+    36     77.2 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     77.2 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     69.8 MiB     69.8 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     74.3 MiB      4.5 MiB           1       features = preprocess_image(image_path)
+    36     74.3 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     74.3 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     72.1 MiB     72.1 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     72.8 MiB      0.8 MiB           1       features = preprocess_image(image_path)
+    36     72.8 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     72.8 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     69.8 MiB     69.8 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     78.3 MiB      8.5 MiB           1       features = preprocess_image(image_path)
+    36     78.3 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     78.3 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     78.3 MiB     78.3 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     85.3 MiB      7.0 MiB           1       features = preprocess_image(image_path)
+    36     85.4 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     85.4 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     85.1 MiB     85.1 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     86.7 MiB      1.6 MiB           1       features = preprocess_image(image_path)
+    36     86.7 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     86.7 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     69.4 MiB     69.4 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     76.0 MiB      6.6 MiB           1       features = preprocess_image(image_path)
+    36     76.0 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     76.0 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     75.0 MiB     75.0 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     76.1 MiB      1.1 MiB           1       features = preprocess_image(image_path)
+    36     76.1 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     76.1 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     72.5 MiB     72.5 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     76.2 MiB      3.7 MiB           1       features = preprocess_image(image_path)
+    36     76.2 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     76.2 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     35.9 MiB     35.9 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     67.5 MiB     31.6 MiB           1       features = preprocess_image(image_path)
+    36     68.3 MiB      0.8 MiB           1       prediction = loaded_model.predict(features)
+    37     68.3 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     35.9 MiB     35.9 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     67.4 MiB     31.5 MiB           1       features = preprocess_image(image_path)
+    36     68.1 MiB      0.8 MiB           1       prediction = loaded_model.predict(features)
+    37     68.1 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     60.3 MiB     60.3 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     70.0 MiB      9.7 MiB           1       features = preprocess_image(image_path)
+    36     70.0 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     70.0 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     40.9 MiB     40.9 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     68.4 MiB     27.5 MiB           1       features = preprocess_image(image_path)
+    36     68.4 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     68.4 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     36.7 MiB     36.7 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     65.1 MiB     28.4 MiB           1       features = preprocess_image(image_path)
+    36     65.9 MiB      0.8 MiB           1       prediction = loaded_model.predict(features)
+    37     65.9 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     61.7 MiB     61.7 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     72.2 MiB     10.5 MiB           1       features = preprocess_image(image_path)
+    36     72.2 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     72.2 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     72.2 MiB     72.2 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     73.3 MiB      1.1 MiB           1       features = preprocess_image(image_path)
+    36     73.3 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     73.3 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     63.2 MiB     63.2 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     68.1 MiB      4.9 MiB           1       features = preprocess_image(image_path)
+    36     68.1 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     68.1 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     67.4 MiB     67.4 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     75.7 MiB      8.3 MiB           1       features = preprocess_image(image_path)
+    36     75.8 MiB      0.1 MiB           1       prediction = loaded_model.predict(features)
+    37     75.8 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     67.5 MiB     67.5 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     74.9 MiB      7.4 MiB           1       features = preprocess_image(image_path)
+    36     74.9 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     74.9 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     74.9 MiB     74.9 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     75.6 MiB      0.7 MiB           1       features = preprocess_image(image_path)
+    36     75.6 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     75.6 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     41.5 MiB     41.5 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     71.0 MiB     29.5 MiB           1       features = preprocess_image(image_path)
+    36     71.7 MiB      0.7 MiB           1       prediction = loaded_model.predict(features)
+    37     71.7 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     70.7 MiB     70.7 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     79.6 MiB      8.9 MiB           1       features = preprocess_image(image_path)
+    36     79.6 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     79.6 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     77.0 MiB     77.0 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     81.1 MiB      4.2 MiB           1       features = preprocess_image(image_path)
+    36     81.1 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     81.1 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     68.6 MiB     68.6 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     78.2 MiB      9.6 MiB           1       features = preprocess_image(image_path)
+    36     78.3 MiB      0.1 MiB           1       prediction = loaded_model.predict(features)
+    37     78.3 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     66.9 MiB     66.9 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     75.5 MiB      8.7 MiB           1       features = preprocess_image(image_path)
+    36     75.5 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     75.5 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     62.0 MiB     62.0 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     73.2 MiB     11.2 MiB           1       features = preprocess_image(image_path)
+    36     73.2 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     73.2 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     57.9 MiB     57.9 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     70.8 MiB     12.9 MiB           1       features = preprocess_image(image_path)
+    36     71.5 MiB      0.7 MiB           1       prediction = loaded_model.predict(features)
+    37     71.5 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     66.0 MiB     66.0 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     75.8 MiB      9.8 MiB           1       features = preprocess_image(image_path)
+    36     75.8 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     75.8 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     75.4 MiB     75.4 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     81.3 MiB      5.8 MiB           1       features = preprocess_image(image_path)
+    36     81.3 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     81.3 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     67.7 MiB     67.7 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     74.6 MiB      6.9 MiB           1       features = preprocess_image(image_path)
+    36     74.6 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     74.6 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     74.6 MiB     74.6 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     80.5 MiB      5.9 MiB           1       features = preprocess_image(image_path)
+    36     80.5 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     80.5 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     60.5 MiB     60.5 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     76.2 MiB     15.7 MiB           1       features = preprocess_image(image_path)
+    36     76.2 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     76.2 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     72.0 MiB     72.0 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     78.6 MiB      6.6 MiB           1       features = preprocess_image(image_path)
+    36     78.6 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     78.6 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     66.5 MiB     66.5 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     77.4 MiB     10.9 MiB           1       features = preprocess_image(image_path)
+    36     77.5 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     77.5 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     76.1 MiB     76.1 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     83.2 MiB      7.1 MiB           1       features = preprocess_image(image_path)
+    36     83.2 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     83.2 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     70.3 MiB     70.3 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     72.8 MiB      2.5 MiB           1       features = preprocess_image(image_path)
+    36     72.8 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     72.8 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     70.5 MiB     70.5 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     75.9 MiB      5.4 MiB           1       features = preprocess_image(image_path)
+    36     75.9 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     75.9 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     72.7 MiB     72.7 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     78.7 MiB      6.0 MiB           1       features = preprocess_image(image_path)
+    36     78.7 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     78.7 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     35.8 MiB     35.8 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     68.5 MiB     32.7 MiB           1       features = preprocess_image(image_path)
+    36     69.3 MiB      0.8 MiB           1       prediction = loaded_model.predict(features)
+    37     69.3 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     36.5 MiB     36.5 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     65.6 MiB     29.0 MiB           1       features = preprocess_image(image_path)
+    36     66.3 MiB      0.8 MiB           1       prediction = loaded_model.predict(features)
+    37     66.3 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     36.5 MiB     36.5 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     66.8 MiB     30.3 MiB           1       features = preprocess_image(image_path)
+    36     67.6 MiB      0.8 MiB           1       prediction = loaded_model.predict(features)
+    37     67.6 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     47.6 MiB     47.6 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     68.1 MiB     20.5 MiB           1       features = preprocess_image(image_path)
+    36     68.8 MiB      0.7 MiB           1       prediction = loaded_model.predict(features)
+    37     68.8 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     36.5 MiB     36.5 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     63.2 MiB     26.7 MiB           1       features = preprocess_image(image_path)
+    36     63.9 MiB      0.7 MiB           1       prediction = loaded_model.predict(features)
+    37     63.9 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     33.5 MiB     33.5 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     58.3 MiB     24.8 MiB           1       features = preprocess_image(image_path)
+    36     59.0 MiB      0.8 MiB           1       prediction = loaded_model.predict(features)
+    37     59.0 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     13.9 MiB     13.9 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     42.9 MiB     29.1 MiB           1       features = preprocess_image(image_path)
+    36     43.8 MiB      0.9 MiB           1       prediction = loaded_model.predict(features)
+    37     43.8 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     18.7 MiB     18.7 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     40.0 MiB     21.4 MiB           1       features = preprocess_image(image_path)
+    36     40.8 MiB      0.7 MiB           1       prediction = loaded_model.predict(features)
+    37     40.8 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     40.9 MiB     40.9 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     46.1 MiB      5.2 MiB           1       features = preprocess_image(image_path)
+    36     46.1 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     46.1 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     35.2 MiB     35.2 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     44.8 MiB      9.6 MiB           1       features = preprocess_image(image_path)
+    36     44.8 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     44.8 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     14.6 MiB     14.6 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     44.4 MiB     29.8 MiB           1       features = preprocess_image(image_path)
+    36     45.1 MiB      0.7 MiB           1       prediction = loaded_model.predict(features)
+    37     45.1 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     38.5 MiB     38.5 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     50.0 MiB     11.6 MiB           1       features = preprocess_image(image_path)
+    36     50.0 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     50.0 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     46.3 MiB     46.3 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     59.4 MiB     13.1 MiB           1       features = preprocess_image(image_path)
+    36     59.4 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     59.4 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     36.9 MiB     36.9 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     48.9 MiB     12.0 MiB           1       features = preprocess_image(image_path)
+    36     48.9 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     48.9 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     25.9 MiB     25.9 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     40.1 MiB     14.2 MiB           1       features = preprocess_image(image_path)
+    36     40.9 MiB      0.8 MiB           1       prediction = loaded_model.predict(features)
+    37     40.9 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     35.3 MiB     35.3 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     42.8 MiB      7.5 MiB           1       features = preprocess_image(image_path)
+    36     42.8 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     42.8 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     42.7 MiB     42.7 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     55.7 MiB     13.1 MiB           1       features = preprocess_image(image_path)
+    36     55.7 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     55.7 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     23.5 MiB     23.5 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     45.0 MiB     21.5 MiB           1       features = preprocess_image(image_path)
+    36     45.0 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     45.0 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     31.9 MiB     31.9 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     40.7 MiB      8.8 MiB           1       features = preprocess_image(image_path)
+    36     40.7 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     40.7 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     32.0 MiB     32.0 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     40.7 MiB      8.7 MiB           1       features = preprocess_image(image_path)
+    36     40.7 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     40.7 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     40.3 MiB     40.3 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     40.3 MiB      0.0 MiB           1       features = preprocess_image(image_path)
+    36     40.3 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     40.3 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     32.9 MiB     32.9 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     45.4 MiB     12.5 MiB           1       features = preprocess_image(image_path)
+    36     45.4 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     45.4 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     41.5 MiB     41.5 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     47.0 MiB      5.5 MiB           1       features = preprocess_image(image_path)
+    36     47.0 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     47.0 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     35.7 MiB     35.7 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     50.3 MiB     14.6 MiB           1       features = preprocess_image(image_path)
+    36     51.0 MiB      0.7 MiB           1       prediction = loaded_model.predict(features)
+    37     51.0 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     37.3 MiB     37.3 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     44.7 MiB      7.4 MiB           1       features = preprocess_image(image_path)
+    36     44.7 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     44.7 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     37.4 MiB     37.4 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     47.9 MiB     10.5 MiB           1       features = preprocess_image(image_path)
+    36     47.9 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     47.9 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     34.9 MiB     34.9 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     44.5 MiB      9.6 MiB           1       features = preprocess_image(image_path)
+    36     44.5 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     44.5 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     23.2 MiB     23.2 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     44.4 MiB     21.2 MiB           1       features = preprocess_image(image_path)
+    36     44.4 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     44.4 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     34.3 MiB     34.3 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     45.2 MiB     10.9 MiB           1       features = preprocess_image(image_path)
+    36     45.2 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     45.2 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     13.1 MiB     13.1 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     33.4 MiB     20.3 MiB           1       features = preprocess_image(image_path)
+    36     34.5 MiB      1.1 MiB           1       prediction = loaded_model.predict(features)
+    37     34.5 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     13.9 MiB     13.9 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     44.8 MiB     30.9 MiB           1       features = preprocess_image(image_path)
+    36     45.5 MiB      0.8 MiB           1       prediction = loaded_model.predict(features)
+    37     45.5 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     13.1 MiB     13.1 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     39.9 MiB     26.8 MiB           1       features = preprocess_image(image_path)
+    36     38.4 MiB     -1.5 MiB           1       prediction = loaded_model.predict(features)
+    37     38.4 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     13.8 MiB     13.8 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     44.0 MiB     30.2 MiB           1       features = preprocess_image(image_path)
+    36     44.8 MiB      0.8 MiB           1       prediction = loaded_model.predict(features)
+    37     44.8 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     13.7 MiB     13.7 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     45.3 MiB     31.5 MiB           1       features = preprocess_image(image_path)
+    36     46.0 MiB      0.7 MiB           1       prediction = loaded_model.predict(features)
+    37     46.0 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     13.9 MiB     13.9 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     45.4 MiB     31.5 MiB           1       features = preprocess_image(image_path)
+    36     46.1 MiB      0.7 MiB           1       prediction = loaded_model.predict(features)
+    37     46.1 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     13.2 MiB     13.2 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     43.7 MiB     30.6 MiB           1       features = preprocess_image(image_path)
+    36     44.5 MiB      0.8 MiB           1       prediction = loaded_model.predict(features)
+    37     44.5 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     13.7 MiB     13.7 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     39.5 MiB     25.8 MiB           1       features = preprocess_image(image_path)
+    36     40.2 MiB      0.7 MiB           1       prediction = loaded_model.predict(features)
+    37     40.2 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     13.7 MiB     13.7 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     42.3 MiB     28.6 MiB           1       features = preprocess_image(image_path)
+    36     43.1 MiB      0.8 MiB           1       prediction = loaded_model.predict(features)
+    37     43.1 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     36.2 MiB     36.2 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     44.3 MiB      8.2 MiB           1       features = preprocess_image(image_path)
+    36     44.3 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     44.3 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     15.0 MiB     15.0 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     46.4 MiB     31.4 MiB           1       features = preprocess_image(image_path)
+    36     47.1 MiB      0.8 MiB           1       prediction = loaded_model.predict(features)
+    37     47.1 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     13.6 MiB     13.6 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     46.3 MiB     32.8 MiB           1       features = preprocess_image(image_path)
+    36     47.1 MiB      0.8 MiB           1       prediction = loaded_model.predict(features)
+    37     47.1 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     36.5 MiB     36.5 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     45.2 MiB      8.8 MiB           1       features = preprocess_image(image_path)
+    36     45.2 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     45.2 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     13.5 MiB     13.5 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     44.7 MiB     31.2 MiB           1       features = preprocess_image(image_path)
+    36     45.4 MiB      0.8 MiB           1       prediction = loaded_model.predict(features)
+    37     45.4 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     13.6 MiB     13.6 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     44.5 MiB     30.9 MiB           1       features = preprocess_image(image_path)
+    36     45.2 MiB      0.8 MiB           1       prediction = loaded_model.predict(features)
+    37     45.2 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     12.6 MiB     12.6 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     41.8 MiB     29.2 MiB           1       features = preprocess_image(image_path)
+    36     42.6 MiB      0.8 MiB           1       prediction = loaded_model.predict(features)
+    37     42.6 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     13.3 MiB     13.3 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     39.4 MiB     26.1 MiB           1       features = preprocess_image(image_path)
+    36     40.1 MiB      0.7 MiB           1       prediction = loaded_model.predict(features)
+    37     40.1 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     40.4 MiB     40.4 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     45.7 MiB      5.3 MiB           1       features = preprocess_image(image_path)
+    36     45.7 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     45.7 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     45.8 MiB     45.8 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     57.3 MiB     11.5 MiB           1       features = preprocess_image(image_path)
+    36     57.3 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     57.3 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     42.1 MiB     42.1 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     49.5 MiB      7.4 MiB           1       features = preprocess_image(image_path)
+    36     49.5 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     49.5 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     45.5 MiB     45.5 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     52.1 MiB      6.6 MiB           1       features = preprocess_image(image_path)
+    36     52.1 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     52.1 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     45.6 MiB     45.6 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     45.7 MiB      0.0 MiB           1       features = preprocess_image(image_path)
+    36     45.7 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     45.7 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     41.3 MiB     41.3 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     42.9 MiB      1.6 MiB           1       features = preprocess_image(image_path)
+    36     42.9 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     42.9 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     37.5 MiB     37.5 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     41.2 MiB      3.7 MiB           1       features = preprocess_image(image_path)
+    36     41.2 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     41.2 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     39.3 MiB     39.3 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     41.2 MiB      1.8 MiB           1       features = preprocess_image(image_path)
+    36     41.2 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     41.2 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     35.6 MiB     35.6 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     39.9 MiB      4.3 MiB           1       features = preprocess_image(image_path)
+    36     39.9 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     39.9 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     39.9 MiB     39.9 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     40.0 MiB      0.1 MiB           1       features = preprocess_image(image_path)
+    36     40.0 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     40.0 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     37.9 MiB     37.9 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     39.8 MiB      2.0 MiB           1       features = preprocess_image(image_path)
+    36     39.8 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     39.8 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     13.3 MiB     13.3 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     44.0 MiB     30.7 MiB           1       features = preprocess_image(image_path)
+    36     44.8 MiB      0.8 MiB           1       prediction = loaded_model.predict(features)
+    37     44.8 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     13.5 MiB     13.5 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     43.7 MiB     30.2 MiB           1       features = preprocess_image(image_path)
+    36     44.5 MiB      0.8 MiB           1       prediction = loaded_model.predict(features)
+    37     44.5 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     13.8 MiB     13.8 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     41.2 MiB     27.5 MiB           1       features = preprocess_image(image_path)
+    36     42.0 MiB      0.8 MiB           1       prediction = loaded_model.predict(features)
+    37     42.0 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     33.3 MiB     33.3 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     45.7 MiB     12.3 MiB           1       features = preprocess_image(image_path)
+    36     45.7 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     45.7 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     45.8 MiB     45.8 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     49.2 MiB      3.3 MiB           1       features = preprocess_image(image_path)
+    36     49.2 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     49.2 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     48.3 MiB     48.3 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     49.6 MiB      1.3 MiB           1       features = preprocess_image(image_path)
+    36     49.6 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     49.6 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     15.8 MiB     15.8 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     40.5 MiB     24.7 MiB           1       features = preprocess_image(image_path)
+    36     41.2 MiB      0.7 MiB           1       prediction = loaded_model.predict(features)
+    37     41.2 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     31.6 MiB     31.6 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     45.0 MiB     13.4 MiB           1       features = preprocess_image(image_path)
+    36     45.0 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     45.0 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     16.0 MiB     16.0 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     41.6 MiB     25.7 MiB           1       features = preprocess_image(image_path)
+    36     42.4 MiB      0.7 MiB           1       prediction = loaded_model.predict(features)
+    37     42.4 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     24.9 MiB     24.9 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     39.0 MiB     14.1 MiB           1       features = preprocess_image(image_path)
+    36     39.8 MiB      0.7 MiB           1       prediction = loaded_model.predict(features)
+    37     39.8 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     31.7 MiB     31.7 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     44.0 MiB     12.3 MiB           1       features = preprocess_image(image_path)
+    36     44.0 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     44.0 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     13.1 MiB     13.1 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     43.9 MiB     30.8 MiB           1       features = preprocess_image(image_path)
+    36     44.6 MiB      0.7 MiB           1       prediction = loaded_model.predict(features)
+    37     44.6 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     13.2 MiB     13.2 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     38.8 MiB     25.7 MiB           1       features = preprocess_image(image_path)
+    36     39.6 MiB      0.7 MiB           1       prediction = loaded_model.predict(features)
+    37     39.6 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     37.2 MiB     37.2 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     39.8 MiB      2.6 MiB           1       features = preprocess_image(image_path)
+    36     39.8 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     39.8 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     35.8 MiB     35.8 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     47.5 MiB     11.7 MiB           1       features = preprocess_image(image_path)
+    36     47.5 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     47.5 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     21.5 MiB     21.5 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     45.3 MiB     23.8 MiB           1       features = preprocess_image(image_path)
+    36     46.0 MiB      0.7 MiB           1       prediction = loaded_model.predict(features)
+    37     46.0 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     43.7 MiB     43.7 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     51.8 MiB      8.1 MiB           1       features = preprocess_image(image_path)
+    36     51.8 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     51.8 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     15.8 MiB     15.8 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     44.1 MiB     28.4 MiB           1       features = preprocess_image(image_path)
+    36     45.1 MiB      0.9 MiB           1       prediction = loaded_model.predict(features)
+    37     45.1 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     35.5 MiB     35.5 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     48.0 MiB     12.5 MiB           1       features = preprocess_image(image_path)
+    36     48.0 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     48.0 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     13.1 MiB     13.1 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     43.7 MiB     30.7 MiB           1       features = preprocess_image(image_path)
+    36     44.5 MiB      0.8 MiB           1       prediction = loaded_model.predict(features)
+    37     44.5 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     35.3 MiB     35.3 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     48.2 MiB     12.9 MiB           1       features = preprocess_image(image_path)
+    36     48.2 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     48.2 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     21.1 MiB     21.1 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     45.2 MiB     24.1 MiB           1       features = preprocess_image(image_path)
+    36     45.9 MiB      0.7 MiB           1       prediction = loaded_model.predict(features)
+    37     45.9 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     42.6 MiB     42.6 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     54.0 MiB     11.4 MiB           1       features = preprocess_image(image_path)
+    36     54.0 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     54.0 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     23.3 MiB     23.3 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     48.5 MiB     25.2 MiB           1       features = preprocess_image(image_path)
+    36     48.7 MiB      0.2 MiB           1       prediction = loaded_model.predict(features)
+    37     48.7 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/logistic.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    33     35.1 MiB     35.1 MiB           1   @profile
+    34                                         def calling_decorators(image_path):
+    35     48.0 MiB     13.0 MiB           1       features = preprocess_image(image_path)
+    36     48.1 MiB      0.0 MiB           1       prediction = loaded_model.predict(features)
+    37     48.1 MiB      0.0 MiB           1       return prediction 
+
+
+Image 020-117.jpg: Negative
+Time: 2.155586004257202 seconds
+Memory usage: 0
+CPU usage: 44.8%
+Image 020-117.jpg: ('Negative', 2.155586004257202, 0, 44.8)
+Image 013-48.jpg: Negative
+Time: 2.0743281841278076 seconds
+Memory usage: 0
+CPU usage: 32.5%
+Image 013-48.jpg: ('Negative', 2.0743281841278076, 0, 32.5)
+Image 001-196.jpg: Negative
+Time: 2.0662450790405273 seconds
+Memory usage: 0
+CPU usage: 30.7%
+Image 001-196.jpg: ('Negative', 2.0662450790405273, 0, 30.7)
+Image 019-147.jpg: Negative
+Time: 2.06168794631958 seconds
+Memory usage: 0
+CPU usage: 26.2%
+Image 019-147.jpg: ('Negative', 2.06168794631958, 0, 26.2)
+Image 038-105.jpg: Negative
+Time: 2.0650851726531982 seconds
+Memory usage: 0
+CPU usage: 27.3%
+Image 038-105.jpg: ('Negative', 2.0650851726531982, 0, 27.3)
+Image 001-60.jpg: Negative
+Time: 2.070488929748535 seconds
+Memory usage: 0
+CPU usage: 26.1%
+Image 001-60.jpg: ('Negative', 2.070488929748535, 0, 26.1)
+Image 001-61.jpg: Negative
+Time: 2.0732362270355225 seconds
+Memory usage: 0
+CPU usage: 21.3%
+Image 001-61.jpg: ('Negative', 2.0732362270355225, 0, 21.3)
+Image 002-30.jpg: Negative
+Time: 2.059727907180786 seconds
+Memory usage: 0
+CPU usage: 26.1%
+Image 002-30.jpg: ('Negative', 2.059727907180786, 0, 26.1)
+Image 012-108.jpg: Negative
+Time: 2.0561819076538086 seconds
+Memory usage: 0
+CPU usage: 25.2%
+Image 012-108.jpg: ('Negative', 2.0561819076538086, 0, 25.2)
+Image 019-146.jpg: Negative
+Time: 2.0577449798583984 seconds
+Memory usage: 0
+CPU usage: 29.6%
+Image 019-146.jpg: ('Negative', 2.0577449798583984, 0, 29.6)
+Image 001-197.jpg: Negative
+Time: 2.0594491958618164 seconds
+Memory usage: 0
+CPU usage: 23.3%
+Image 001-197.jpg: ('Negative', 2.0594491958618164, 0, 23.3)
+Image 027-41_2.jpg: Negative
+Time: 2.1977999210357666 seconds
+Memory usage: 0
+CPU usage: 63.8%
+Image 027-41_2.jpg: ('Negative', 2.1977999210357666, 0, 63.8)
+Image 030-100.jpg: Negative
+Time: 2.1339547634124756 seconds
+Memory usage: 0
+CPU usage: 44.1%
+Image 030-100.jpg: ('Negative', 2.1339547634124756, 0, 44.1)
+Image 001-142.jpg: Negative
+Time: 2.0610220432281494 seconds
+Memory usage: 0
+CPU usage: 41.6%
+Image 001-142.jpg: ('Negative', 2.0610220432281494, 0, 41.6)
+Image 030-80.jpg: Negative
+Time: 2.116071939468384 seconds
+Memory usage: 0
+CPU usage: 67.8%
+Image 030-80.jpg: ('Negative', 2.116071939468384, 0, 67.8)
+Image 001-88.jpg: Negative
+Time: 2.09667706489563 seconds
+Memory usage: 0
+CPU usage: 62.1%
+Image 001-88.jpg: ('Negative', 2.09667706489563, 0, 62.1)
+Image 005-189.jpg: Negative
+Time: 2.073518991470337 seconds
+Memory usage: 0
+CPU usage: 45.1%
+Image 005-189.jpg: ('Negative', 2.073518991470337, 0, 45.1)
+Image 001-63.jpg: Negative
+Time: 2.059576988220215 seconds
+Memory usage: 0
+CPU usage: 23.1%
+Image 001-63.jpg: ('Negative', 2.059576988220215, 0, 23.1)
+Image 001-62.jpg: Negative
+Time: 2.0619089603424072 seconds
+Memory usage: 0
+CPU usage: 28.0%
+Image 001-62.jpg: ('Negative', 2.0619089603424072, 0, 28.0)
+Image 001-89.jpg: Negative
+Time: 2.060325860977173 seconds
+Memory usage: 0
+CPU usage: 57.2%
+Image 001-89.jpg: ('Negative', 2.060325860977173, 0, 57.2)
+Image 039-99.jpg: Negative
+Time: 2.069943904876709 seconds
+Memory usage: 0
+CPU usage: 29.1%
+Image 039-99.jpg: ('Negative', 2.069943904876709, 0, 29.1)
+Image 019-145.jpg: Negative
+Time: 2.0588910579681396 seconds
+Memory usage: 0
+CPU usage: 15.1%
+Image 019-145.jpg: ('Negative', 2.0588910579681396, 0, 15.1)
+Image 001-143.jpg: Negative
+Time: 2.0804929733276367 seconds
+Memory usage: 0
+CPU usage: 14.8%
+Image 001-143.jpg: ('Negative', 2.0804929733276367, 0, 14.8)
+Image 084-122.jpg: Negative
+Time: 2.055915117263794 seconds
+Memory usage: 0
+CPU usage: 14.6%
+Image 084-122.jpg: ('Negative', 2.055915117263794, 0, 14.6)
+Image 019-227.jpg: Negative
+Time: 2.057737112045288 seconds
+Memory usage: 0
+CPU usage: 15.0%
+Image 019-227.jpg: ('Negative', 2.057737112045288, 0, 15.0)
+Image 013-66.jpg: Negative
+Time: 2.0634307861328125 seconds
+Memory usage: 0
+CPU usage: 13.2%
+Image 013-66.jpg: ('Negative', 2.0634307861328125, 0, 13.2)
+Image 001-231.jpg: Negative
+Time: 2.055889129638672 seconds
+Memory usage: 0
+CPU usage: 6.2%
+Image 001-231.jpg: ('Negative', 2.055889129638672, 0, 6.2)
+Image 020-43.jpg: Negative
+Time: 2.0596930980682373 seconds
+Memory usage: 0
+CPU usage: 13.6%
+Image 020-43.jpg: ('Negative', 2.0596930980682373, 0, 13.6)
+Image 020-80.jpg: Negative
+Time: 2.0639219284057617 seconds
+Memory usage: 0
+CPU usage: 18.4%
+Image 020-80.jpg: ('Negative', 2.0639219284057617, 0, 18.4)
+Image 075-43.jpg: Negative
+Time: 2.063566207885742 seconds
+Memory usage: 0
+CPU usage: 5.0%
+Image 075-43.jpg: ('Negative', 2.063566207885742, 0, 5.0)
+Image 002-36.jpg: Negative
+Time: 2.0601558685302734 seconds
+Memory usage: 0
+CPU usage: 15.5%
+Image 002-36.jpg: ('Negative', 2.0601558685302734, 0, 15.5)
+Image 002-126.jpg: Negative
+Time: 2.062744140625 seconds
+Memory usage: 0
+CPU usage: 9.4%
+Image 002-126.jpg: ('Negative', 2.062744140625, 0, 9.4)
+Image 019-154.jpg: Negative
+Time: 2.0617778301239014 seconds
+Memory usage: 0
+CPU usage: 4.6%
+Image 019-154.jpg: ('Negative', 2.0617778301239014, 0, 4.6)
+Image 045-193.jpg: Negative
+Time: 2.0602288246154785 seconds
+Memory usage: 0
+CPU usage: 4.4%
+Image 045-193.jpg: ('Negative', 2.0602288246154785, 0, 4.4)
+Image 020-6.jpg: Negative
+Time: 2.0646560192108154 seconds
+Memory usage: 0
+CPU usage: 5.7%
+Image 020-6.jpg: ('Negative', 2.0646560192108154, 0, 5.7)
+Image 006-104.jpg: Negative
+Time: 2.0596020221710205 seconds
+Memory usage: 0
+CPU usage: 3.8%
+Image 006-104.jpg: ('Negative', 2.0596020221710205, 0, 3.8)
+Image 045-230.jpg: Negative
+Time: 2.0662217140197754 seconds
+Memory usage: 0
+CPU usage: 4.4%
+Image 045-230.jpg: ('Negative', 2.0662217140197754, 0, 4.4)
+Image 001-144.jpg: Negative
+Time: 2.0556821823120117 seconds
+Memory usage: 0
+CPU usage: 6.1%
+Image 001-144.jpg: ('Negative', 2.0556821823120117, 0, 6.1)
+Image 005-206.jpg: Negative
+Time: 2.0569300651550293 seconds
+Memory usage: 0
+CPU usage: 13.2%
+Image 005-206.jpg: ('Negative', 2.0569300651550293, 0, 13.2)
+Image 001-232.jpg: Negative
+Time: 2.0588161945343018 seconds
+Memory usage: 0
+CPU usage: 14.4%
+Image 001-232.jpg: ('Negative', 2.0588161945343018, 0, 14.4)
+Image 001-64.jpg: Negative
+Time: 2.223109245300293 seconds
+Memory usage: 0
+CPU usage: 69.8%
+Image 001-64.jpg: ('Negative', 2.223109245300293, 0, 69.8)
+Image 001-70.jpg: Negative
+Time: 2.066673994064331 seconds
+Memory usage: 0
+CPU usage: 33.6%
+Image 001-70.jpg: ('Negative', 2.066673994064331, 0, 33.6)
+Image 005-171.jpg: Negative
+Time: 2.077975034713745 seconds
+Memory usage: 0
+CPU usage: 17.9%
+Image 005-171.jpg: ('Negative', 2.077975034713745, 0, 17.9)
+Image 001-233.jpg: Negative
+Time: 2.0774929523468018 seconds
+Memory usage: 0
+CPU usage: 15.2%
+Image 001-233.jpg: ('Negative', 2.0774929523468018, 0, 15.2)
+Image 002-35.jpg: Negative
+Time: 2.063565969467163 seconds
+Memory usage: 0
+CPU usage: 14.4%
+Image 002-35.jpg: ('Negative', 2.063565969467163, 0, 14.4)
+Image 005-14.jpg: Negative
+Time: 2.0754082202911377 seconds
+Memory usage: 0
+CPU usage: 7.9%
+Image 005-14.jpg: ('Negative', 2.0754082202911377, 0, 7.9)
+Image 037-59.jpg: Negative
+Time: 2.0586533546447754 seconds
+Memory usage: 0
+CPU usage: 7.5%
+Image 037-59.jpg: ('Negative', 2.0586533546447754, 0, 7.5)
+Image 001-151.jpg: Negative
+Time: 2.066255807876587 seconds
+Memory usage: 0
+CPU usage: 7.2%
+Image 001-151.jpg: ('Negative', 2.066255807876587, 0, 7.2)
+Image 006-105.jpg: Negative
+Time: 2.0558347702026367 seconds
+Memory usage: 0
+CPU usage: 12.3%
+Image 006-105.jpg: ('Negative', 2.0558347702026367, 0, 12.3)
+Image 019-209.jpg: Negative
+Time: 2.067244052886963 seconds
+Memory usage: 0
+CPU usage: 13.7%
+Image 019-209.jpg: ('Negative', 2.067244052886963, 0, 13.7)
+Image 001-122.jpg: Negative
+Time: 2.059893846511841 seconds
+Memory usage: 0
+CPU usage: 16.2%
+Image 001-122.jpg: ('Negative', 2.059893846511841, 0, 16.2)
+Image 075-167.jpg: Negative
+Time: 2.169182777404785 seconds
+Memory usage: 0
+CPU usage: 11.7%
+Image 075-167.jpg: ('Negative', 2.169182777404785, 0, 11.7)
+Image 075-173.jpg: Negative
+Time: 2.0835230350494385 seconds
+Memory usage: 0
+CPU usage: 24.1%
+Image 075-173.jpg: ('Negative', 2.0835230350494385, 0, 24.1)
+Image 002-52.jpg: Negative
+Time: 2.0638411045074463 seconds
+Memory usage: 0
+CPU usage: 21.7%
+Image 002-52.jpg: ('Negative', 2.0638411045074463, 0, 21.7)
+Image 075-198.jpg: Negative
+Time: 2.0921218395233154 seconds
+Memory usage: 0
+CPU usage: 28.9%
+Image 075-198.jpg: ('Negative', 2.0921218395233154, 0, 28.9)
+Image 002-156.jpg: Negative
+Time: 2.06648588180542 seconds
+Memory usage: 0
+CPU usage: 27.2%
+Image 002-156.jpg: ('Negative', 2.06648588180542, 0, 27.2)
+Image 012-94.jpg: Negative
+Time: 2.098301887512207 seconds
+Memory usage: 0
+CPU usage: 41.9%
+Image 012-94.jpg: ('Negative', 2.098301887512207, 0, 41.9)
+Image 012-95.jpg: Negative
+Time: 2.058846950531006 seconds
+Memory usage: 0
+CPU usage: 27.2%
+Image 012-95.jpg: ('Negative', 2.058846950531006, 0, 27.2)
+Image 018-108.jpg: Negative
+Time: 2.062739849090576 seconds
+Memory usage: 0
+CPU usage: 25.2%
+Image 018-108.jpg: ('Negative', 2.062739849090576, 0, 25.2)
+Image 005-66.jpg: Negative
+Time: 2.062654972076416 seconds
+Memory usage: 0
+CPU usage: 24.2%
+Image 005-66.jpg: ('Negative', 2.062654972076416, 0, 24.2)
+Image 002-157.jpg: Negative
+Time: 2.0640289783477783 seconds
+Memory usage: 0
+CPU usage: 24.3%
+Image 002-157.jpg: ('Negative', 2.0640289783477783, 0, 24.3)
+Image 089-60.jpg: Negative
+Time: 2.0642290115356445 seconds
+Memory usage: 0
+CPU usage: 36.8%
+Image 089-60.jpg: ('Negative', 2.0642290115356445, 0, 36.8)
+Image 002-53.jpg: Negative
+Time: 2.07053279876709 seconds
+Memory usage: 0
+CPU usage: 30.2%
+Image 002-53.jpg: ('Negative', 2.07053279876709, 0, 30.2)
+Image 002-90.jpg: Negative
+Time: 2.0582170486450195 seconds
+Memory usage: 0
+CPU usage: 27.4%
+Image 002-90.jpg: ('Negative', 2.0582170486450195, 0, 27.4)
+Image 075-172.jpg: Negative
+Time: 2.057593822479248 seconds
+Memory usage: 0
+CPU usage: 27.4%
+Image 075-172.jpg: ('Negative', 2.057593822479248, 0, 27.4)
+Image 075-166.jpg: Negative
+Time: 2.059235095977783 seconds
+Memory usage: 0
+CPU usage: 22.3%
+Image 075-166.jpg: ('Negative', 2.059235095977783, 0, 22.3)
+Image 001-123.jpg: Negative
+Time: 2.052510976791382 seconds
+Memory usage: 0
+CPU usage: 21.9%
+Image 001-123.jpg: ('Negative', 2.052510976791382, 0, 21.9)
+Image 036-80.jpg: Negative
+Time: 2.0544397830963135 seconds
+Memory usage: 0
+CPU usage: 32.2%
+Image 036-80.jpg: ('Negative', 2.0544397830963135, 0, 32.2)
+Image 003-6.jpg: Negative
+Time: 2.0557687282562256 seconds
+Memory usage: 0
+CPU usage: 36.0%
+Image 003-6.jpg: ('Negative', 2.0557687282562256, 0, 36.0)
+Image 037-123.jpg: Negative
+Time: 2.481868028640747 seconds
+Memory usage: 0
+CPU usage: 43.6%
+Image 037-123.jpg: ('Negative', 2.481868028640747, 0, 43.6)
+Image 028-213.jpg: Negative
+Time: 2.0845510959625244 seconds
+Memory usage: 0
+CPU usage: 66.3%
+Image 028-213.jpg: ('Negative', 2.0845510959625244, 0, 66.3)
+Image 075-170.jpg: Negative
+Time: 2.079698085784912 seconds
+Memory usage: 0
+CPU usage: 37.9%
+Image 075-170.jpg: ('Negative', 2.079698085784912, 0, 37.9)
+Image 002-86.jpg: Negative
+Time: 2.067898988723755 seconds
+Memory usage: 0
+CPU usage: 32.5%
+Image 002-86.jpg: ('Negative', 2.067898988723755, 0, 32.5)
+Image 075-164.jpg: Negative
+Time: 2.099735975265503 seconds
+Memory usage: 0
+CPU usage: 41.1%
+Image 075-164.jpg: ('Negative', 2.099735975265503, 0, 41.1)
+Image 019-133.jpg: Negative
+Time: 2.063599109649658 seconds
+Memory usage: 0
+CPU usage: 30.8%
+Image 019-133.jpg: ('Negative', 2.063599109649658, 0, 30.8)
+Image 002-196.jpg: Negative
+Time: 2.0552890300750732 seconds
+Memory usage: 0
+CPU usage: 25.0%
+Image 002-196.jpg: ('Negative', 2.0552890300750732, 0, 25.0)
+Image 002-51.jpg: Negative
+Time: 2.057114839553833 seconds
+Memory usage: 0
+CPU usage: 27.0%
+Image 002-51.jpg: ('Negative', 2.057114839553833, 0, 27.0)
+Image 002-155.jpg: Negative
+Time: 2.0656161308288574 seconds
+Memory usage: 0
+CPU usage: 28.9%
+Image 002-155.jpg: ('Negative', 2.0656161308288574, 0, 28.9)
+Image 012-97.jpg: Negative
+Time: 2.0726399421691895 seconds
+Memory usage: 0
+CPU usage: 25.5%
+Image 012-97.jpg: ('Negative', 2.0726399421691895, 0, 25.5)
+Image 005-101.jpg: Negative
+Time: 2.063891887664795 seconds
+Memory usage: 0
+CPU usage: 30.1%
+Image 005-101.jpg: ('Negative', 2.063891887664795, 0, 30.1)
+Image 013-192.jpg: Negative
+Time: 2.0685722827911377 seconds
+Memory usage: 0
+CPU usage: 25.6%
+Image 013-192.jpg: ('Negative', 2.0685722827911377, 0, 25.6)
+Image 012-96.jpg: Negative
+Time: 2.0672590732574463 seconds
+Memory usage: 0
+CPU usage: 32.7%
+Image 012-96.jpg: ('Negative', 2.0672590732574463, 0, 32.7)
+Image 006-202.jpg: Negative
+Time: 2.062446117401123 seconds
+Memory usage: 0
+CPU usage: 23.6%
+Image 006-202.jpg: ('Negative', 2.062446117401123, 0, 23.6)
+Image 002-50.jpg: Negative
+Time: 2.0654609203338623 seconds
+Memory usage: 0
+CPU usage: 19.6%
+Image 002-50.jpg: ('Negative', 2.0654609203338623, 0, 19.6)
+Image 019-126.jpg: Negative
+Time: 2.0685276985168457 seconds
+Memory usage: 0
+CPU usage: 33.3%
+Image 019-126.jpg: ('Negative', 2.0685276985168457, 0, 33.3)
+Image 002-197.jpg: Negative
+Time: 2.0664360523223877 seconds
+Memory usage: 0
+CPU usage: 23.8%
+Image 002-197.jpg: ('Negative', 2.0664360523223877, 0, 23.8)
+Image 019-132.jpg: Negative
+Time: 2.067389965057373 seconds
+Memory usage: 0
+CPU usage: 20.9%
+Image 019-132.jpg: ('Negative', 2.067389965057373, 0, 20.9)
+Image 002-87.jpg: Negative
+Time: 2.064690113067627 seconds
+Memory usage: 0
+CPU usage: 19.6%
+Image 002-87.jpg: ('Negative', 2.064690113067627, 0, 19.6)
+Image 075-165.jpg: Negative
+Time: 2.0627477169036865 seconds
+Memory usage: 0
+CPU usage: 23.1%
+Image 075-165.jpg: ('Negative', 2.0627477169036865, 0, 23.1)
+Image 030-21.jpg: Negative
+Time: 2.0619499683380127 seconds
+Memory usage: 0
+CPU usage: 19.8%
+Image 030-21.jpg: ('Negative', 2.0619499683380127, 0, 19.8)
+Image 075-171.jpg: Negative
+Time: 2.0640339851379395 seconds
+Memory usage: 0
+CPU usage: 19.1%
+Image 075-171.jpg: ('Negative', 2.0640339851379395, 0, 19.1)
+Image 001-108.jpg: Negative
+Time: 2.0700409412384033 seconds
+Memory usage: 0
+CPU usage: 4.5%
+Image 001-108.jpg: ('Negative', 2.0700409412384033, 0, 4.5)
+Image 003-7.jpg: Negative
+Time: 2.068819284439087 seconds
+Memory usage: 0
+CPU usage: 7.6%
+Image 003-7.jpg: ('Negative', 2.068819284439087, 0, 7.6)
+Image 003-14.jpg: Negative
+Time: 2.065498113632202 seconds
+Memory usage: 0
+CPU usage: 17.3%
+Image 003-14.jpg: ('Negative', 2.065498113632202, 0, 17.3)
+Image 001-124.jpg: Negative
+Time: 2.066725015640259 seconds
+Memory usage: 0
+CPU usage: 4.1%
+Image 001-124.jpg: ('Negative', 2.066725015640259, 0, 4.1)
+Image 019-136.jpg: Negative
+Time: 2.074129819869995 seconds
+Memory usage: 0
+CPU usage: 5.7%
+Image 019-136.jpg: ('Negative', 2.074129819869995, 0, 5.7)
+Image 075-175.jpg: Negative
+Time: 2.063870906829834 seconds
+Memory usage: 0
+CPU usage: 7.7%
+Image 075-175.jpg: ('Negative', 2.063870906829834, 0, 7.7)
+Image 002-83.jpg: Negative
+Time: 2.0672218799591064 seconds
+Memory usage: 0
+CPU usage: 17.8%
+Image 002-83.jpg: ('Negative', 2.0672218799591064, 0, 17.8)
+Image 002-68.jpg: Negative
+Time: 2.2376930713653564 seconds
+Memory usage: 0
+CPU usage: 51.3%
+Image 002-68.jpg: ('Negative', 2.2376930713653564, 0, 51.3)
+Image 002-178.jpg: Negative
+Time: 2.1031229496002197 seconds
+Memory usage: 0
+CPU usage: 46.6%
+Image 002-178.jpg: ('Negative', 2.1031229496002197, 0, 46.6)
+Image 005-49.jpg: Negative
+Time: 2.0967772006988525 seconds
+Memory usage: 0
+CPU usage: 25.2%
+Image 005-49.jpg: ('Negative', 2.0967772006988525, 0, 25.2)
+Image 012-93.jpg: Negative
+Time: 2.070189952850342 seconds
+Memory usage: 0
+CPU usage: 26.7%
+Image 012-93.jpg: ('Negative', 2.070189952850342, 0, 26.7)
+Image 005-48.jpg: Negative
+Time: 2.0820469856262207 seconds
+Memory usage: 0
+CPU usage: 26.9%
+Image 005-48.jpg: ('Negative', 2.0820469856262207, 0, 26.9)
+Image 002-69.jpg: Negative
+Time: 2.074223279953003 seconds
+Memory usage: 0
+CPU usage: 18.4%
+Image 002-69.jpg: ('Negative', 2.074223279953003, 0, 18.4)
+Image 002-82.jpg: Negative
+Time: 2.069417953491211 seconds
+Memory usage: 0
+CPU usage: 12.1%
+Image 002-82.jpg: ('Negative', 2.069417953491211, 0, 12.1)
+Image 075-174.jpg: Negative
+Time: 2.0695362091064453 seconds
+Memory usage: 0
+CPU usage: 4.6%
+Image 075-174.jpg: ('Negative', 2.0695362091064453, 0, 4.6)
+Image 019-123.jpg: Negative
+Time: 2.0692601203918457 seconds
+Memory usage: 0
+CPU usage: 9.5%
+Image 019-123.jpg: ('Negative', 2.0692601203918457, 0, 9.5)
+Image 019-137.jpg: Negative
+Time: 2.0682332515716553 seconds
+Memory usage: 0
+CPU usage: 4.4%
+Image 019-137.jpg: ('Negative', 2.0682332515716553, 0, 4.4)
+Image 003-15.jpg: Negative
+Time: 2.077512264251709 seconds
+Memory usage: 0
+CPU usage: 4.0%
+Image 003-15.jpg: ('Negative', 2.077512264251709, 0, 4.0)
+Image 019-135.jpg: Negative
+Time: 2.064923048019409 seconds
+Memory usage: 0
+CPU usage: 11.4%
+Image 019-135.jpg: ('Negative', 2.064923048019409, 0, 11.4)
+Image 075-176.jpg: Negative
+Time: 2.071337938308716 seconds
+Memory usage: 0
+CPU usage: 9.0%
+Image 075-176.jpg: ('Negative', 2.071337938308716, 0, 9.0)
+Image 075-189.jpg: Negative
+Time: 2.057605028152466 seconds
+Memory usage: 0
+CPU usage: 9.7%
+Image 075-189.jpg: ('Negative', 2.057605028152466, 0, 9.7)
+Image 012-91.jpg: Negative
+Time: 2.0750200748443604 seconds
+Memory usage: 0
+CPU usage: 6.3%
+Image 012-91.jpg: ('Negative', 2.0750200748443604, 0, 6.3)
+Image 013-156.jpg: Negative
+Time: 2.06866192817688 seconds
+Memory usage: 0
+CPU usage: 2.9%
+Image 013-156.jpg: ('Negative', 2.06866192817688, 0, 2.9)
+Image 075-188.jpg: Negative
+Time: 2.0678088665008545 seconds
+Memory usage: 0
+CPU usage: 2.1%
+Image 075-188.jpg: ('Negative', 2.0678088665008545, 0, 2.1)
+Image 076-99.jpg: Negative
+Time: 2.0740230083465576 seconds
+Memory usage: 0
+CPU usage: 3.0%
+Image 076-99.jpg: ('Negative', 2.0740230083465576, 0, 3.0)
+Image 075-177.jpg: Negative
+Time: 2.06866192817688 seconds
+Memory usage: 0
+CPU usage: 2.5%
+Image 075-177.jpg: ('Negative', 2.06866192817688, 0, 2.5)
+Image 075-163.jpg: Negative
+Time: 2.064926862716675 seconds
+Memory usage: 0
+CPU usage: 7.0%
+Image 075-163.jpg: ('Negative', 2.064926862716675, 0, 7.0)
+Image 019-134.jpg: Negative
+Time: 2.0648741722106934 seconds
+Memory usage: 0
+CPU usage: 5.9%
+Image 019-134.jpg: ('Negative', 2.0648741722106934, 0, 5.9)
+Image 063-103.jpg: Negative
+Time: 2.07106876373291 seconds
+Memory usage: 0
+CPU usage: 4.3%
+Image 063-103.jpg: ('Negative', 2.07106876373291, 0, 4.3)
+Image 075-185.jpg: Negative
+Time: 2.064701795578003 seconds
+Memory usage: 0
+CPU usage: 4.1%
+Image 075-185.jpg: ('Negative', 2.064701795578003, 0, 4.1)
+Image 002-67.jpg: Negative
+Time: 2.0610849857330322 seconds
+Memory usage: 0
+CPU usage: 3.8%
+Image 002-67.jpg: ('Negative', 2.0610849857330322, 0, 3.8)
+Image 075-191.jpg: Negative
+Time: 2.0568292140960693 seconds
+Memory usage: 0
+CPU usage: 3.3%
+Image 075-191.jpg: ('Negative', 2.0568292140960693, 0, 3.3)
+Image 002-177.jpg: Negative
+Time: 2.057319164276123 seconds
+Memory usage: 0
+CPU usage: 6.4%
+Image 002-177.jpg: ('Negative', 2.057319164276123, 0, 6.4)
+Image 018-100.jpg: Negative
+Time: 2.066688060760498 seconds
+Memory usage: 0
+CPU usage: 4.6%
+Image 018-100.jpg: ('Negative', 2.066688060760498, 0, 4.6)
+Image 018-101.jpg: Negative
+Time: 2.0603840351104736 seconds
+Memory usage: 0
+CPU usage: 6.4%
+Image 018-101.jpg: ('Negative', 2.0603840351104736, 0, 6.4)
+Image 005-136.jpg: Negative
+Time: 2.066984176635742 seconds
+Memory usage: 0
+CPU usage: 6.8%
+Image 005-136.jpg: ('Negative', 2.066984176635742, 0, 6.8)
+Image 002-162.jpg: Negative
+Time: 2.131575107574463 seconds
+Memory usage: 0
+CPU usage: 47.2%
+Image 002-162.jpg: ('Negative', 2.131575107574463, 0, 47.2)
+Image 089-41.jpg: Negative
+Time: 2.065654993057251 seconds
+Memory usage: 0
+CPU usage: 34.0%
+Image 089-41.jpg: ('Negative', 2.065654993057251, 0, 34.0)
+Image 075-190.jpg: Negative
+Time: 2.0532679557800293 seconds
+Memory usage: 0
+CPU usage: 28.5%
+Image 075-190.jpg: ('Negative', 2.0532679557800293, 0, 28.5)
+Image 075-184.jpg: Negative
+Time: 2.0723259449005127 seconds
+Memory usage: 0
+CPU usage: 40.1%
+Image 075-184.jpg: ('Negative', 2.0723259449005127, 0, 40.1)
+Image 002-66.jpg: Negative
+Time: 2.111025094985962 seconds
+Memory usage: 0
+CPU usage: 41.0%
+Image 002-66.jpg: ('Negative', 2.111025094985962, 0, 41.0)
+Image 019-138.jpg: Negative
+Time: 2.0721640586853027 seconds
+Memory usage: 0
+CPU usage: 27.5%
+Image 019-138.jpg: ('Negative', 2.0721640586853027, 0, 27.5)
+Image 030-156.jpg: Negative
+Time: 2.074312925338745 seconds
+Memory usage: 0
+CPU usage: 25.5%
+Image 030-156.jpg: ('Negative', 2.074312925338745, 0, 25.5)
+Image 002-216.jpg: Negative
+Time: 2.063849925994873 seconds
+Memory usage: 0
+CPU usage: 21.8%
+Image 002-216.jpg: ('Negative', 2.063849925994873, 0, 21.8)
+Image 037-102.jpg: Negative
+Time: 2.0690088272094727 seconds
+Memory usage: 0
+CPU usage: 27.5%
+Image 037-102.jpg: ('Negative', 2.0690088272094727, 0, 27.5)
+Image 021-93.jpg: Negative
+Time: 2.071420907974243 seconds
+Memory usage: 0
+CPU usage: 23.6%
+Image 021-93.jpg: ('Negative', 2.071420907974243, 0, 23.6)
+Image 089-80.jpg: Negative
+Time: 2.0696587562561035 seconds
+Memory usage: 0
+CPU usage: 28.3%
+Image 089-80.jpg: ('Negative', 2.0696587562561035, 0, 28.3)
+Image 075-179.jpg: Negative
+Time: 2.0938491821289062 seconds
+Memory usage: 0
+CPU usage: 27.5%
+Image 075-179.jpg: ('Negative', 2.0938491821289062, 0, 27.5)
+Image 075-192.jpg: Negative
+Time: 2.07094669342041 seconds
+Memory usage: 0
+CPU usage: 23.0%
+Image 075-192.jpg: ('Negative', 2.07094669342041, 0, 23.0)
+Image 075-186.jpg: Negative
+Time: 2.070572853088379 seconds
+Memory usage: 0
+CPU usage: 29.5%
+Image 075-186.jpg: ('Negative', 2.070572853088379, 0, 29.5)
+Image 018-103.jpg: Negative
+Time: 2.083254814147949 seconds
+Memory usage: 0
+CPU usage: 36.6%
+Image 018-103.jpg: ('Negative', 2.083254814147949, 0, 36.6)
+Image 001-35.jpg: Negative
+Time: 2.0766048431396484 seconds
+Memory usage: 0
+CPU usage: 27.9%
+Image 001-35.jpg: ('Negative', 2.0766048431396484, 0, 27.9)
+Image 001-34.jpg: Negative
+Time: 2.080035924911499 seconds
+Memory usage: 0
+CPU usage: 21.9%
+Image 001-34.jpg: ('Negative', 2.080035924911499, 0, 21.9)
+Image 018-102.jpg: Negative
+Time: 2.0990371704101562 seconds
+Memory usage: 0
+CPU usage: 29.8%
+Image 018-102.jpg: ('Negative', 2.0990371704101562, 0, 29.8)
+Image 002-65.jpg: Negative
+Time: 2.064786911010742 seconds
+Memory usage: 0
+CPU usage: 21.7%
+Image 002-65.jpg: ('Negative', 2.064786911010742, 0, 21.7)
+Image 075-187.jpg: Negative
+Time: 2.0661709308624268 seconds
+Memory usage: 0
+CPU usage: 21.9%
+Image 075-187.jpg: ('Negative', 2.0661709308624268, 0, 21.9)
+Image 020-221.jpg: Negative
+Time: 2.0652458667755127 seconds
+Memory usage: 0
+CPU usage: 22.8%
+Image 020-221.jpg: ('Negative', 2.0652458667755127, 0, 22.8)
+Image 075-193.jpg: Negative
+Time: 2.0570859909057617 seconds
+Memory usage: 0
+CPU usage: 29.1%
+Image 075-193.jpg: ('Negative', 2.0570859909057617, 0, 29.1)
+Image 028-233.jpg: Negative
+Time: 2.086303949356079 seconds
+Memory usage: 0
+CPU usage: 49.9%
+Image 028-233.jpg: ('Negative', 2.086303949356079, 0, 49.9)
+Image 006-169.jpg: Negative
+Time: 2.0726048946380615 seconds
+Memory usage: 0
+CPU usage: 27.2%
+Image 006-169.jpg: ('Negative', 2.0726048946380615, 0, 27.2)
+Image 006-186.jpg: Negative
+Time: 2.077389717102051 seconds
+Memory usage: 0
+CPU usage: 18.6%
+Image 006-186.jpg: ('Negative', 2.077389717102051, 0, 18.6)
+Image 042-41.jpg: Negative
+Time: 2.0765411853790283 seconds
+Memory usage: 0
+CPU usage: 42.8%
+Image 042-41.jpg: ('Negative', 2.0765411853790283, 0, 42.8)
+Image 013-30.jpg: Negative
+Time: 2.0684638023376465 seconds
+Memory usage: 0
+CPU usage: 25.3%
+Image 013-30.jpg: ('Negative', 2.0684638023376465, 0, 25.3)
+Image 023-44.jpg: Negative
+Time: 2.0692739486694336 seconds
+Memory usage: 0
+CPU usage: 34.8%
+Image 023-44.jpg: ('Negative', 2.0692739486694336, 0, 34.8)
+Image 005-83.jpg: Negative
+Time: 2.0673840045928955 seconds
+Memory usage: 0
+CPU usage: 31.8%
+Image 005-83.jpg: ('Negative', 2.0673840045928955, 0, 31.8)
+Image 075-168.jpg: Negative
+Time: 2.100306987762451 seconds
+Memory usage: 0
+CPU usage: 55.6%
+Image 075-168.jpg: ('Negative', 2.100306987762451, 0, 55.6)
+Image 002-49.jpg: Negative
+Time: 2.082611083984375 seconds
+Memory usage: 0
+CPU usage: 70.2%
+Image 002-49.jpg: ('Negative', 2.082611083984375, 0, 70.2)
+Image 075-197.jpg: Negative
+Time: 2.076201915740967 seconds
+Memory usage: 0
+CPU usage: 52.1%
+Image 075-197.jpg: ('Negative', 2.076201915740967, 0, 52.1)
+Image 075-183.jpg: Negative
+Time: 2.084491014480591 seconds
+Memory usage: 0
+CPU usage: 41.0%
+Image 075-183.jpg: ('Negative', 2.084491014480591, 0, 41.0)
+Image 018-106.jpg: Negative
+Time: 2.0823018550872803 seconds
+Memory usage: 0
+CPU usage: 55.6%
+Image 018-106.jpg: ('Negative', 2.0823018550872803, 0, 55.6)
+Image 005-119.jpg: Negative
+Time: 2.076967239379883 seconds
+Memory usage: 0
+CPU usage: 60.4%
+Image 005-119.jpg: ('Negative', 2.076967239379883, 0, 60.4)
+Image 013-174.jpg: Negative
+Time: 2.0715012550354004 seconds
+Memory usage: 0
+CPU usage: 39.7%
+Image 013-174.jpg: ('Negative', 2.0715012550354004, 0, 39.7)
+Image 033-97.jpg: Negative
+Time: 2.0835819244384766 seconds
+Memory usage: 0
+CPU usage: 22.9%
+Image 033-97.jpg: ('Negative', 2.0835819244384766, 0, 22.9)
+Image 005-118.jpg: Negative
+Time: 2.070836067199707 seconds
+Memory usage: 0
+CPU usage: 18.4%
+Image 005-118.jpg: ('Negative', 2.070836067199707, 0, 18.4)
+Image 075-182.jpg: Negative
+Time: 2.0673129558563232 seconds
+Memory usage: 0
+CPU usage: 31.1%
+Image 075-182.jpg: ('Negative', 2.0673129558563232, 0, 31.1)
+Image 075-196.jpg: Negative
+Time: 2.0724830627441406 seconds
+Memory usage: 0
+CPU usage: 23.6%
+Image 075-196.jpg: ('Negative', 2.0724830627441406, 0, 23.6)
+Image 002-158.jpg: Negative
+Time: 2.058481216430664 seconds
+Memory usage: 0
+CPU usage: 23.8%
+Image 002-158.jpg: ('Negative', 2.058481216430664, 0, 23.8)
+Image 075-169.jpg: Negative
+Time: 2.0745527744293213 seconds
+Memory usage: 0
+CPU usage: 15.1%
+Image 075-169.jpg: ('Negative', 2.0745527744293213, 0, 15.1)
+Image 020-152.jpg: Negative
+Time: 2.0720410346984863 seconds
+Memory usage: 0
+CPU usage: 27.9%
+Image 020-152.jpg: ('Negative', 2.0720410346984863, 0, 27.9)
+Image 006-185.jpg: Negative
+Time: 2.070190668106079 seconds
+Memory usage: 0
+CPU usage: 25.9%
+Image 006-185.jpg: ('Negative', 2.070190668106079, 0, 25.9)
+Image 037-104.jpg: Negative
+Time: 2.068786859512329 seconds
+Memory usage: 0
+CPU usage: 21.3%
+Image 037-104.jpg: ('Negative', 2.068786859512329, 0, 21.3)
+Image 002-89.jpg: Negative
+Time: 2.0650229454040527 seconds
+Memory usage: 0
+CPU usage: 33.5%
+Image 002-89.jpg: ('Negative', 2.0650229454040527, 0, 33.5)
+Image 075-180.jpg: Negative
+Time: 2.0707550048828125 seconds
+Memory usage: 0
+CPU usage: 15.2%
+Image 075-180.jpg: ('Negative', 2.0707550048828125, 0, 15.2)
+Image 075-194.jpg: Negative
+Time: 2.052356004714966 seconds
+Memory usage: 0
+CPU usage: 23.6%
+Image 075-194.jpg: ('Negative', 2.052356004714966, 0, 23.6)
+Image 006-218.jpg: Negative
+Time: 2.059659004211426 seconds
+Memory usage: 0
+CPU usage: 9.1%
+Image 006-218.jpg: ('Negative', 2.059659004211426, 0, 9.1)
+Image 012-98.jpg: Negative
+Time: 2.056459665298462 seconds
+Memory usage: 0
+CPU usage: 9.7%
+Image 012-98.jpg: ('Negative', 2.056459665298462, 0, 9.7)
+Image 001-33.jpg: Negative
+Time: 2.0680739879608154 seconds
+Memory usage: 0
+CPU usage: 14.0%
+Image 001-33.jpg: ('Negative', 2.0680739879608154, 0, 14.0)
+Image 033-95.jpg: Negative
+Time: 2.0584239959716797 seconds
+Memory usage: 0
+CPU usage: 16.5%
+Image 033-95.jpg: ('Negative', 2.0584239959716797, 0, 16.5)
+Image 001-32.jpg: Negative
+Time: 2.057725191116333 seconds
+Memory usage: 0
+CPU usage: 14.2%
+Image 001-32.jpg: ('Negative', 2.057725191116333, 0, 14.2)
+Image 012-99.jpg: Negative
+Time: 2.057170867919922 seconds
+Memory usage: 0
+CPU usage: 12.5%
+Image 012-99.jpg: ('Negative', 2.057170867919922, 0, 12.5)
+Image 075-195.jpg: Negative
+Time: 2.0676331520080566 seconds
+Memory usage: 0
+CPU usage: 10.5%
+Image 075-195.jpg: ('Negative', 2.0676331520080566, 0, 10.5)
+Image 006-219.jpg: Negative
+Time: 2.068761110305786 seconds
+Memory usage: 0
+CPU usage: 19.2%
+Image 006-219.jpg: ('Negative', 2.068761110305786, 0, 19.2)
+Image 075-181.jpg: Negative
+Time: 2.072382926940918 seconds
+Memory usage: 0
+CPU usage: 9.6%
+Image 075-181.jpg: ('Negative', 2.072382926940918, 0, 9.6)
+Image 002-198.jpg: Negative
+Time: 2.069003105163574 seconds
+Memory usage: 0
+CPU usage: 20.7%
+Image 002-198.jpg: ('Negative', 2.069003105163574, 0, 20.7)
+Image 002-88.jpg: Negative
+Time: 2.7170989513397217 seconds
+Memory usage: 0
+CPU usage: 59.1%
+Image 002-88.jpg: ('Negative', 2.7170989513397217, 0, 59.1)
+Image 006-153.jpg: Negative
+Time: 2.1180570125579834 seconds
+Memory usage: 0
+CPU usage: 50.7%
+Image 006-153.jpg: ('Negative', 2.1180570125579834, 0, 50.7)
+Image 002-211.jpg: Negative
+Time: 2.5361130237579346 seconds
+Memory usage: 0
+CPU usage: 63.8%
+Image 002-211.jpg: ('Negative', 2.5361130237579346, 0, 63.8)
+Image 006-120.jpg: Negative
+Time: 2.181948184967041 seconds
+Memory usage: 0
+CPU usage: 78.1%
+Image 006-120.jpg: ('Negative', 2.181948184967041, 0, 78.1)
+Image 001-160.jpg: Negative
+Time: 2.106426239013672 seconds
+Memory usage: 0
+CPU usage: 67.4%
+Image 001-160.jpg: ('Negative', 2.106426239013672, 0, 67.4)
+Image 030-61.jpg: Negative
+Time: 2.081617832183838 seconds
+Memory usage: 0
+CPU usage: 43.5%
+Image 030-61.jpg: ('Negative', 2.081617832183838, 0, 43.5)
+Image 075-119.jpg: Negative
+Time: 2.069424867630005 seconds
+Memory usage: 0
+CPU usage: 55.3%
+Image 075-119.jpg: ('Negative', 2.069424867630005, 0, 55.3)
+Image 005-31.jpg: Negative
+Time: 2.092298984527588 seconds
+Memory usage: 0
+CPU usage: 75.6%
+Image 005-31.jpg: ('Negative', 2.092298984527588, 0, 75.6)
+Image 001-216.jpg: Negative
+Time: 2.0622971057891846 seconds
+Memory usage: 0
+CPU usage: 60.7%
+Image 001-216.jpg: ('Negative', 2.0622971057891846, 0, 60.7)
+Image 005-154.jpg: Negative
+Time: 2.058562994003296 seconds
+Memory usage: 0
+CPU usage: 25.5%
+Image 005-154.jpg: ('Negative', 2.058562994003296, 0, 25.5)
+Image 001-82.jpg: Negative
+Time: 2.214993953704834 seconds
+Memory usage: 0
+CPU usage: 62.8%
+Image 001-82.jpg: ('Negative', 2.214993953704834, 0, 62.8)
+Image 001-69.jpg: Negative
+Time: 2.19706392288208 seconds
+Memory usage: 0
+CPU usage: 39.1%
+Image 001-69.jpg: ('Negative', 2.19706392288208, 0, 39.1)
+Image 001-54.jpg: Negative
+Time: 2.0625219345092773 seconds
+Memory usage: 0
+CPU usage: 49.5%
+Image 001-54.jpg: ('Negative', 2.0625219345092773, 0, 49.5)
+Image 030-60.jpg: Negative
+Time: 2.1167399883270264 seconds
+Memory usage: 0
+CPU usage: 42.8%
+Image 030-60.jpg: ('Negative', 2.1167399883270264, 0, 42.8)
+Image 005-223.jpg: Negative
+Time: 2.1161019802093506 seconds
+Memory usage: 0
+CPU usage: 46.1%
+Image 005-223.jpg: ('Negative', 2.1161019802093506, 0, 46.1)
+Image 001-161.jpg: Negative
+Time: 2.0735487937927246 seconds
+Memory usage: 0
+CPU usage: 53.8%
+Image 001-161.jpg: ('Negative', 2.0735487937927246, 0, 53.8)
+Image 006-121.jpg: Negative
+Time: 2.072453737258911 seconds
+Memory usage: 0
+CPU usage: 15.1%
+Image 006-121.jpg: ('Negative', 2.072453737258911, 0, 15.1)
+Image 030-137.jpg: Negative
+Time: 2.0696260929107666 seconds
+Memory usage: 0
+CPU usage: 13.1%
+Image 030-137.jpg: ('Negative', 2.0696260929107666, 0, 13.1)
+Image 020-109.jpg: Negative
+Time: 2.0618069171905518 seconds
+Memory usage: 0
+CPU usage: 21.3%
+Image 020-109.jpg: ('Negative', 2.0618069171905518, 0, 21.3)
+Image 006-137.jpg: Negative
+Time: 2.0606021881103516 seconds
+Memory usage: 0
+CPU usage: 10.1%
+Image 006-137.jpg: ('Negative', 2.0606021881103516, 0, 10.1)
+Image 001-177.jpg: Negative
+Time: 2.056694984436035 seconds
+Memory usage: 0
+CPU usage: 4.6%
+Image 001-177.jpg: ('Negative', 2.056694984436035, 0, 4.6)
+Image 012-103.jpg: Negative
+Time: 2.0583889484405518 seconds
+Memory usage: 0
+CPU usage: 5.9%
+Image 012-103.jpg: ('Negative', 2.0583889484405518, 0, 5.9)
+Image 001-81.jpg: Negative
+Time: 2.0580103397369385 seconds
+Memory usage: 0
+CPU usage: 4.2%
+Image 001-81.jpg: ('Negative', 2.0580103397369385, 0, 4.2)
+Image 006-88.jpg: Negative
+Time: 2.0578629970550537 seconds
+Memory usage: 0
+CPU usage: 4.7%
+Image 006-88.jpg: ('Negative', 2.0578629970550537, 0, 4.7)
+Image 001-215.jpg: Negative
+Time: 2.0561978816986084 seconds
+Memory usage: 0
+CPU usage: 5.8%
+Image 001-215.jpg: ('Negative', 2.0561978816986084, 0, 5.8)
+Image 020-99.jpg: Negative
+Time: 2.0572898387908936 seconds
+Memory usage: 0
+CPU usage: 8.4%
+Image 020-99.jpg: ('Negative', 2.0572898387908936, 0, 8.4)
+Image 001-214.jpg: Negative
+Time: 2.0553271770477295 seconds
+Memory usage: 0
+CPU usage: 5.9%
+Image 001-214.jpg: ('Negative', 2.0553271770477295, 0, 5.9)
+Image 006-89.jpg: Negative
+Time: 2.0582780838012695 seconds
+Memory usage: 0
+CPU usage: 7.8%
+Image 006-89.jpg: ('Negative', 2.0582780838012695, 0, 7.8)
+Image 001-162.jpg: Negative
+Time: 2.1114120483398438 seconds
+Memory usage: 0
+CPU usage: 28.0%
+Image 001-162.jpg: ('Negative', 2.1114120483398438, 0, 28.0)
+Image 001-176.jpg: Negative
+Time: 2.1550071239471436 seconds
+Memory usage: 0
+CPU usage: 41.0%
+Image 001-176.jpg: ('Negative', 2.1550071239471436, 0, 41.0)
+Image 006-136.jpg: Negative
+Time: 2.0716259479522705 seconds
+Memory usage: 0
+CPU usage: 29.3%
+Image 006-136.jpg: ('Negative', 2.0716259479522705, 0, 29.3)
+Image 030-118.jpg: Negative
+Time: 2.0694680213928223 seconds
+Memory usage: 0
+CPU usage: 19.2%
+Image 030-118.jpg: ('Negative', 2.0694680213928223, 0, 19.2)
+Image 041-144.jpg: Negative
+Time: 2.0688130855560303 seconds
+Memory usage: 0
+CPU usage: 18.2%
+Image 041-144.jpg: ('Negative', 2.0688130855560303, 0, 18.2)
+Image 077-99.jpg: Negative
+Time: 2.057576894760132 seconds
+Memory usage: 0
+CPU usage: 27.5%
+Image 077-99.jpg: ('Negative', 2.057576894760132, 0, 27.5)
+Image 005-224.jpg: Negative
+Time: 2.07397198677063 seconds
+Memory usage: 0
+CPU usage: 13.0%
+Image 005-224.jpg: ('Negative', 2.07397198677063, 0, 13.0)
+Image 012-106.jpg: Negative
+Time: 2.07281494140625 seconds
+Memory usage: 0
+CPU usage: 19.6%
+Image 012-106.jpg: ('Negative', 2.07281494140625, 0, 19.6)
+Image 002-16.jpg: Negative
+Time: 2.0745880603790283 seconds
+Memory usage: 0
+CPU usage: 24.5%
+Image 002-16.jpg: ('Negative', 2.0745880603790283, 0, 24.5)
+Image 039-80.jpg: Negative
+Time: 2.0730080604553223 seconds
+Memory usage: 0
+CPU usage: 26.8%
+Image 039-80.jpg: ('Negative', 2.0730080604553223, 0, 26.8)
+Image 001-90.jpg: Negative
+Time: 2.0739691257476807 seconds
+Memory usage: 0
+CPU usage: 25.3%
+Image 001-90.jpg: ('Negative', 2.0739691257476807, 0, 25.3)
+Image 020-62.jpg: Negative
+Time: 2.0658040046691895 seconds
+Memory usage: 0
+CPU usage: 56.5%
+Image 020-62.jpg: ('Negative', 2.0658040046691895, 0, 56.5)
+Image 001-53.jpg: Negative
+Time: 2.0643889904022217 seconds
+Memory usage: 0
+CPU usage: 30.9%
+Image 001-53.jpg: ('Negative', 2.0643889904022217, 0, 30.9)
+Image 035-100.jpg: Negative
+Time: 2.054500102996826 seconds
+Memory usage: 0
+CPU usage: 9.4%
+Image 035-100.jpg: ('Negative', 2.054500102996826, 0, 9.4)
+Image 075-62.jpg: Negative
+Time: 2.070236921310425 seconds
+Memory usage: 0
+CPU usage: 32.0%
+Image 075-62.jpg: ('Negative', 2.070236921310425, 0, 32.0)
+Image 002-17.jpg: Negative
+Time: 2.0619921684265137 seconds
+Memory usage: 0
+CPU usage: 8.2%
+Image 002-17.jpg: ('Negative', 2.0619921684265137, 0, 8.2)
+Image 012-107.jpg: Negative
+Time: 2.057945728302002 seconds
+Memory usage: 0
+CPU usage: 23.0%
+Image 012-107.jpg: ('Negative', 2.057945728302002, 0, 23.0)
+Image 018-73.jpg: Negative
+Time: 2.110283136367798 seconds
+Memory usage: 0
+CPU usage: 35.9%
+Image 018-73.jpg: ('Negative', 2.110283136367798, 0, 35.9)
+Image 001-198.jpg: Negative
+Time: 2.07867693901062 seconds
+Memory usage: 0
+CPU usage: 94.8%
+Image 001-198.jpg: ('Negative', 2.07867693901062, 0, 94.8)
+Image 085-115.jpg: Negative
+Time: 2.102678060531616 seconds
+Memory usage: 0
+CPU usage: 61.1%
+Image 085-115.jpg: ('Negative', 2.102678060531616, 0, 61.1)
+Image 001-159.jpg: Negative
+Time: 2.085521936416626 seconds
+Memory usage: 0
+CPU usage: 49.4%
+Image 001-159.jpg: ('Negative', 2.085521936416626, 0, 49.4)
+Image 002-29.jpg: Negative
+Time: 2.0994551181793213 seconds
+Memory usage: 0
+CPU usage: 45.9%
+Image 002-29.jpg: ('Negative', 2.0994551181793213, 0, 45.9)
+Image 002-15.jpg: Negative
+Time: 2.0735533237457275 seconds
+Memory usage: 0
+CPU usage: 41.9%
+Image 002-15.jpg: ('Negative', 2.0735533237457275, 0, 41.9)
+Image 001-213.jpg: Negative
+Time: 2.085103750228882 seconds
+Memory usage: 0
+CPU usage: 37.3%
+Image 001-213.jpg: ('Negative', 2.085103750228882, 0, 37.3)
+Image 002-28.jpg: Negative
+Time: 2.0824360847473145 seconds
+Memory usage: 0
+CPU usage: 32.3%
+Image 002-28.jpg: ('Negative', 2.0824360847473145, 0, 32.3)

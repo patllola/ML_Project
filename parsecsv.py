@@ -36,8 +36,8 @@ def replace_zero_values(csv_file, column_index, values):
         writer.writerows(rows)
 
 # Specify the paths to the output file and CSV file
-output_file = '/Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/patternlogistic10k.txt'
-csv_file = '/Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/10k/10k1/metrics_data_logistic.csv'
+output_file = '/Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/patternlogistic40k.txt'
+csv_file = '/Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/40k/40k1/metrics_data_logistic.csv'
 
 # Parse the output file to obtain values
 parsed_values = parse_output_file(output_file)
