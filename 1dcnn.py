@@ -29,7 +29,7 @@ def calling_decorators(image_path):
     return prediction
 
 def predict_single_image(image_path):
-    process = psutil.Process()
+    # process = psutil.Process()
     start_time = time.time()
     psutil.cpu_percent(1)
     # initial_memory_usage = psutil.virtual_memory()[2]
@@ -153,5 +153,5 @@ def create_graphs(cpu_usage_list, memory_usage_list, runtime_list, image_names, 
     plt.show()
 
 output_csv_path = os.path.join(desktop_path, 'metrics_data_1dcnn.csv')
-input_path = '/Users/sandeepreddy/Desktop/x/'  # Replace with the path to your image or folder
+input_path = '/Users/sandeepreddy/Desktop/testsample/'  # Replace with the path to your image or folder
 main(input_path, output_csv_path)

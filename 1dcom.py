@@ -141,8 +141,7 @@ def write_to_csv(output_csv_path, image_names, cpu_usage_list, memory_usage_list
     with open(output_csv_path, mode='w', newline='') as csv_file:
         csv_writer = csv.writer(csv_file)
 
-        # Write header
-        csv_writer.writerow(['Image Name', 'CPU Usage (%)', 'Memory Usage (MiB)', 'Runtime (seconds)'])
+        # Write headerkl;'"?.,n        csv_writer.writerow(['Image Name', 'CPU Usage (%)', 'Memory Usage (MiB)', 'Runtime (seconds)'])
 
         # Write data rows
         for i, (image_name, cpu, memory, runtime) in enumerate(zip(image_names, cpu_usage_list, memory_usage_list, runtime_list)):
