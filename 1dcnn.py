@@ -13,7 +13,7 @@ import re  # Import the regular expression module
 # Load the saved model
 model = tf.keras.models.load_model("/Users/sandeepreddy/Desktop/Differentmodels/models5k/cnn2D_image_classification_model.h5")
 
-desktop_path = "/Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/5k/5k1/"
+desktop_path = "/Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/10k/10k1/"
 
 def preprocess_image(image_path):
     img = image.load_img(image_path, target_size=(150, 150))

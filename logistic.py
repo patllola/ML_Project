@@ -13,7 +13,7 @@ from memory_profiler import profile
 #  loading the model
 model_filename = "/Users/sandeepreddy/Desktop/Differentmodels/models5k/logisticregression.pkl"
 loaded_model = joblib.load(model_filename)
-desktop_path = "/Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/5k/5k1/"
+desktop_path = "/Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/10k/10k1/"
 
 desired_size = (227,227)
 def preprocess_image(image_path):

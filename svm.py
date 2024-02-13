@@ -224,7 +224,7 @@ model = joblib.load("/Users/sandeepreddy/Desktop/Differentmodels/models5k/best_s
 # model = joblib.load("/Users/sandeepreddy/Desktop/Differentmodels/models40k/logisticregression.pkl")
 
 
-desktop_path = "/Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/5k/5k1/"
+desktop_path = "/Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/10k/10k1/"
 
 input_path = '/Users/sandeepreddy/Desktop/testsample/'  # Replace with the path to your image or folder
 
