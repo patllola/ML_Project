@@ -3,19 +3,23 @@ import csv
 # Function to parse the output file and extract values
 def parse_output_file(output_file):
     with open(output_file, 'r') as file:
+        values = []
         for line in file:
-            values=line.strip()
-            print(values)
+            stripped_line = line.strip()
+            # print(stripped_line)
+            values.append(stripped_line)
+            # print(values)
+
         # values = [line.strip() for line in file]
     return values
 
-# Function to replace zero values in CSV with parsed values
+# # Function to replace zero values in CSV with parsed values
 def replace_zero_values(csv_file, column_index, values):
     # Open CSV file for reading and writing
     with open(csv_file, 'r', newline='') as file:
         reader = csv.reader(file)
         rows = list(reader)
-        print(rows)
+        # print(rows)
 
     # Replace zero values in specified column with parsed values
     for row in rows:
@@ -26,14 +30,14 @@ def replace_zero_values(csv_file, column_index, values):
             except IndexError:
                 break  # Stop if there are no more parsed values
 
-    # Write modified rows back to CSV file
+    # # Write modified rows back to CSV file
     with open(csv_file, 'w', newline='') as file:
         writer = csv.writer(file)
         writer.writerows(rows)
 
 # Specify the paths to the output file and CSV file
-output_file = '/Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/output1.txt'
-csv_file = '/Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/5k/5k2/metrics_data_1dcnn.csv'
+output_file = '/Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/patternsvm5k.txt'
+csv_file = '/Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/5k/5k1/metrics_data_svm.csv'
 
 # Parse the output file to obtain values
 parsed_values = parse_output_file(output_file)

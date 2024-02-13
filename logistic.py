@@ -8,11 +8,12 @@ import psutil
 import csv
 import time  # Import the time module for timing and sleeping
 import matplotlib.pyplot as plt
+from memory_profiler import profile
 
 #  loading the model
 model_filename = "/Users/sandeepreddy/Desktop/Differentmodels/models5k/logisticregression.pkl"
 loaded_model = joblib.load(model_filename)
-desktop_path = "/Users/sandeepreddy/Desktop/Images/Images/"
+desktop_path = "/Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/5k/5k1/"
 
 desired_size = (227,227)
 def preprocess_image(image_path):
@@ -29,22 +30,28 @@ def preprocess_image(image_path):
     # img /= 255.0  # Normalize pixel values to [0, 1]
     return features
 
+@profile
+def calling_decorators(image_path):
+    features = preprocess_image(image_path)
+    prediction = loaded_model.predict(features)
+    return prediction 
+
 def predict_single_image(image_path):
     start_time = time.time()
     psutil.cpu_percent(1)
-    initial_memory_usage =psutil.virtual_memory()[2]
-    features = preprocess_image(image_path)
-    prediction = loaded_model.predict(features)
+    # initial_memory_usage =psutil.virtual_memory()[2]
+    prediction= calling_decorators(image_path)
     final_cpu_usage = psutil.cpu_percent(1)
     end_time = time.time()
-    final_memory_usage = psutil.virtual_memory()[4]
+    # final_memory_usage = psutil.virtual_memory()[4]
+    mem_diff=0
     
     if prediction == "Positive":
         
-        return "Positive", end_time - start_time, final_memory_usage - initial_memory_usage, final_cpu_usage
+        return "Positive", end_time - start_time, mem_diff, final_cpu_usage
 
     else:
-        return "Negative", end_time - start_time, final_memory_usage - initial_memory_usage, final_cpu_usage
+        return "Negative", end_time - start_time, mem_diff, final_cpu_usage
 
     
 

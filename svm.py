@@ -211,6 +211,7 @@ import joblib
 import numpy as np
 import os
 import csv
+from memory_profiler import profile
 # from tensorflow.keras.preprocessing import image
 # import numpy as np
 # import psutil
@@ -223,7 +224,7 @@ model = joblib.load("/Users/sandeepreddy/Desktop/Differentmodels/models5k/best_s
 # model = joblib.load("/Users/sandeepreddy/Desktop/Differentmodels/models40k/logisticregression.pkl")
 
 
-desktop_path = "/Users/sandeepreddy/Desktop/Images/Images"
+desktop_path = "/Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/5k/5k1/"
 
 input_path = '/Users/sandeepreddy/Desktop/testsample/'  # Replace with the path to your image or folder
 
@@ -235,25 +236,26 @@ def preprocess_image(image_path):
     img = resize(image, output_shape=(64,64))
     # Flatten and normalize test images
     img = img.reshape(1, -1)
-    
-    
-    
     return img
 
-    
+@profile
+def calling_decorators(image_path):
+    img = preprocess_image(image_path)
+    prediction =  model.predict(img)
+    return prediction    
 
 def predict_single_image(image_path):
     start_time = time.time()
     psutil.cpu_percent(1)
-    initial_memory_usage =psutil.virtual_memory()[2]
-    img = preprocess_image(image_path)
-    prediction = model.predict(img)
+    # initial_memory_usage =psutil.virtual_memory()[2]
+    prediction = calling_decorators(image_path)
     print(image_path,prediction)
     final_cpu_usage = psutil.cpu_percent(1)
     end_time = time.time()
-    final_memory_usage = psutil.virtual_memory()[4]
+    # final_memory_usage = psutil.virtual_memory()[4]
+    mem_diff=0
     
-    return prediction[0], end_time-start_time, final_memory_usage-initial_memory_usage, final_cpu_usage
+    return prediction[0], end_time-start_time, mem_diff, final_cpu_usage
 
 
 

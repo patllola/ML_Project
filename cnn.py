@@ -6,13 +6,14 @@ import psutil
 import time
 import matplotlib.pyplot as plt
 import csv
+from memory_profiler import profile
 
 # Load the saved model
 model = tf.keras.models.load_model("/Users/sandeepreddy/Desktop/Differentmodels/models5k/fine_tuned_model")
 
 
 # desktop_path = "/Users/sandeepreddy/Desktop/Images/Images"
-desktop_path = "/Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/5k/5k3/"
+desktop_path = "/Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/5k/5k1/"
 def preprocess_image(image_path):
     img = image.load_img(image_path, target_size=(150, 150))
     img = image.img_to_array(img)
@@ -20,20 +21,26 @@ def preprocess_image(image_path):
     img /= 255.0  # Normalize pixel values to [0, 1]
     return img
 
+@profile
+def calling_decorators(image_path):
+    img = preprocess_image(image_path)
+    prediction =  model.predict(img)
+    return prediction
+
 def predict_single_image(image_path):
     start_time = time.time()
     psutil.cpu_percent(1)
-    initial_memory_usage =psutil.virtual_memory()[2]
-    img = preprocess_image(image_path)
-    prediction = model.predict(img)
+    # initial_memory_usage =psutil.virtual_memory()[2]
+    prediction = calling_decorators(image_path)
     final_cpu_usage = psutil.cpu_percent(1)
     end_time = time.time()
-    final_memory_usage = psutil.virtual_memory()[4]
+    # final_memory_usage = psutil.virtual_memory()[4]
+    memory_diff=0
     
     if prediction[0][0] > 0.5:
-        return "Positive", end_time-start_time, final_memory_usage-initial_memory_usage, final_cpu_usage
+        return "Positive", end_time-start_time, memory_diff, final_cpu_usage
     else:
-        return "Negative", end_time-start_time, final_memory_usage-initial_memory_usage, final_cpu_usage
+        return "Negative", end_time-start_time, memory_diff, final_cpu_usage
 
 
     
