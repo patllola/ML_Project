@@ -129,5 +129,5 @@ input_path = '/Users/sandeepreddy/Desktop/test/'
 main(input_path, output_csv_path)
 
 
-output_csv_path = os.path.join(desktop_path, 'metrics_data_svm.csv')
+output_csv_path = os.path.join(desktop_path, 'mac_data_svm.csv')
 main(input_path,output_csv_path)
