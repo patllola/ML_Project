@@ -1,0 +1,4046 @@
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    155.5 MiB    155.5 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    160.5 MiB      5.0 MiB           1       img = preprocess_image(image_path)
+   244    228.8 MiB     68.3 MiB           1       prediction =  model.predict(img)
+   245    228.8 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/020-117.jpg ['positive']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    143.7 MiB    143.7 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    155.4 MiB     11.7 MiB           1       img = preprocess_image(image_path)
+   244    158.8 MiB      3.4 MiB           1       prediction =  model.predict(img)
+   245    158.8 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/013-48.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    152.0 MiB    152.0 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    157.0 MiB      5.1 MiB           1       img = preprocess_image(image_path)
+   244    157.0 MiB      0.0 MiB           1       prediction =  model.predict(img)
+   245    157.0 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/001-196.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     35.7 MiB     35.7 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     53.5 MiB     17.8 MiB           1       img = preprocess_image(image_path)
+   244    149.6 MiB     96.1 MiB           1       prediction =  model.predict(img)
+   245    149.6 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/019-147.jpg ['positive']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     37.4 MiB     37.4 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     54.1 MiB     16.7 MiB           1       img = preprocess_image(image_path)
+   244    151.7 MiB     97.6 MiB           1       prediction =  model.predict(img)
+   245    151.7 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/038-105.jpg ['positive']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     36.8 MiB     36.8 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     54.3 MiB     17.5 MiB           1       img = preprocess_image(image_path)
+   244    153.6 MiB     99.3 MiB           1       prediction =  model.predict(img)
+   245    153.6 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/001-60.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     35.3 MiB     35.3 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     53.4 MiB     18.1 MiB           1       img = preprocess_image(image_path)
+   244    152.9 MiB     99.5 MiB           1       prediction =  model.predict(img)
+   245    152.9 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/001-61.jpg ['positive']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    144.2 MiB    144.2 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    153.6 MiB      9.4 MiB           1       img = preprocess_image(image_path)
+   244    154.2 MiB      0.6 MiB           1       prediction =  model.predict(img)
+   245    154.2 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/002-30.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    152.5 MiB    152.5 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    157.5 MiB      5.0 MiB           1       img = preprocess_image(image_path)
+   244    157.6 MiB      0.0 MiB           1       prediction =  model.predict(img)
+   245    157.6 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/012-108.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    157.6 MiB    157.6 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    157.7 MiB      0.1 MiB           1       img = preprocess_image(image_path)
+   244    157.7 MiB      0.0 MiB           1       prediction =  model.predict(img)
+   245    157.7 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/019-146.jpg ['positive']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    151.5 MiB    151.5 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    156.8 MiB      5.3 MiB           1       img = preprocess_image(image_path)
+   244    157.0 MiB      0.2 MiB           1       prediction =  model.predict(img)
+   245    157.0 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/001-197.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    149.1 MiB    149.1 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    153.2 MiB      4.1 MiB           1       img = preprocess_image(image_path)
+   244    153.3 MiB      0.1 MiB           1       prediction =  model.predict(img)
+   245    153.3 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/027-41_2.jpg ['positive']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    149.7 MiB    149.7 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    151.6 MiB      1.9 MiB           1       img = preprocess_image(image_path)
+   244    151.6 MiB      0.0 MiB           1       prediction =  model.predict(img)
+   245    151.6 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/030-100.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    151.7 MiB    151.7 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    157.2 MiB      5.5 MiB           1       img = preprocess_image(image_path)
+   244    157.2 MiB      0.0 MiB           1       prediction =  model.predict(img)
+   245    157.2 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/001-142.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    153.5 MiB    153.5 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    158.4 MiB      4.8 MiB           1       img = preprocess_image(image_path)
+   244    158.5 MiB      0.1 MiB           1       prediction =  model.predict(img)
+   245    158.5 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/030-80.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    154.5 MiB    154.5 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    159.4 MiB      5.0 MiB           1       img = preprocess_image(image_path)
+   244    159.5 MiB      0.1 MiB           1       prediction =  model.predict(img)
+   245    159.5 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/001-88.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    153.1 MiB    153.1 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    159.2 MiB      6.1 MiB           1       img = preprocess_image(image_path)
+   244    159.2 MiB      0.0 MiB           1       prediction =  model.predict(img)
+   245    159.2 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/005-189.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     70.6 MiB     70.6 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     75.5 MiB      4.9 MiB           1       img = preprocess_image(image_path)
+   244    158.6 MiB     83.2 MiB           1       prediction =  model.predict(img)
+   245    158.6 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/001-63.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    158.1 MiB    158.1 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    162.1 MiB      4.1 MiB           1       img = preprocess_image(image_path)
+   244    162.1 MiB      0.0 MiB           1       prediction =  model.predict(img)
+   245    162.1 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/001-62.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    153.5 MiB    153.5 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    156.5 MiB      3.1 MiB           1       img = preprocess_image(image_path)
+   244    156.5 MiB      0.0 MiB           1       prediction =  model.predict(img)
+   245    156.5 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/001-89.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     36.1 MiB     36.1 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     53.0 MiB     17.0 MiB           1       img = preprocess_image(image_path)
+   244    153.0 MiB    100.0 MiB           1       prediction =  model.predict(img)
+   245    153.0 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/039-99.jpg ['positive']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     35.3 MiB     35.3 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     52.0 MiB     16.8 MiB           1       img = preprocess_image(image_path)
+   244    151.9 MiB     99.9 MiB           1       prediction =  model.predict(img)
+   245    151.9 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/019-145.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     35.2 MiB     35.2 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     52.3 MiB     17.0 MiB           1       img = preprocess_image(image_path)
+   244    152.2 MiB     99.9 MiB           1       prediction =  model.predict(img)
+   245    152.2 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/001-143.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    148.9 MiB    148.9 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    153.0 MiB      4.1 MiB           1       img = preprocess_image(image_path)
+   244    153.0 MiB      0.0 MiB           1       prediction =  model.predict(img)
+   245    153.0 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/084-122.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    150.3 MiB    150.3 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    152.9 MiB      2.6 MiB           1       img = preprocess_image(image_path)
+   244    153.2 MiB      0.3 MiB           1       prediction =  model.predict(img)
+   245    153.2 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/019-227.jpg ['positive']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    150.8 MiB    150.8 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    155.5 MiB      4.6 MiB           1       img = preprocess_image(image_path)
+   244    155.8 MiB      0.3 MiB           1       prediction =  model.predict(img)
+   245    155.8 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/013-66.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    154.2 MiB    154.2 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    159.3 MiB      5.1 MiB           1       img = preprocess_image(image_path)
+   244    159.3 MiB      0.0 MiB           1       prediction =  model.predict(img)
+   245    159.3 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/001-231.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    152.1 MiB    152.1 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    155.1 MiB      3.0 MiB           1       img = preprocess_image(image_path)
+   244    155.1 MiB      0.0 MiB           1       prediction =  model.predict(img)
+   245    155.1 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/020-43.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     97.8 MiB     97.8 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    101.9 MiB      4.1 MiB           1       img = preprocess_image(image_path)
+   244    154.1 MiB     52.2 MiB           1       prediction =  model.predict(img)
+   245    154.1 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/020-80.jpg ['positive']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    152.0 MiB    152.0 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    155.8 MiB      3.8 MiB           1       img = preprocess_image(image_path)
+   244    156.0 MiB      0.1 MiB           1       prediction =  model.predict(img)
+   245    156.0 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/075-43.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     35.4 MiB     35.4 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     53.0 MiB     17.7 MiB           1       img = preprocess_image(image_path)
+   244    153.2 MiB    100.2 MiB           1       prediction =  model.predict(img)
+   245    153.2 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/002-36.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     36.1 MiB     36.1 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     53.4 MiB     17.2 MiB           1       img = preprocess_image(image_path)
+   244    152.2 MiB     98.8 MiB           1       prediction =  model.predict(img)
+   245    152.2 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/002-126.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    140.6 MiB    140.6 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    153.0 MiB     12.4 MiB           1       img = preprocess_image(image_path)
+   244    154.5 MiB      1.5 MiB           1       prediction =  model.predict(img)
+   245    154.5 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/019-154.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    152.8 MiB    152.8 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    157.6 MiB      4.9 MiB           1       img = preprocess_image(image_path)
+   244    157.6 MiB      0.0 MiB           1       prediction =  model.predict(img)
+   245    157.6 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/045-193.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     40.3 MiB     40.3 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     58.0 MiB     17.7 MiB           1       img = preprocess_image(image_path)
+   244    157.0 MiB     99.0 MiB           1       prediction =  model.predict(img)
+   245    157.0 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/020-6.jpg ['positive']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    152.3 MiB    152.3 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    157.1 MiB      4.8 MiB           1       img = preprocess_image(image_path)
+   244    157.1 MiB      0.0 MiB           1       prediction =  model.predict(img)
+   245    157.1 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/006-104.jpg ['positive']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     41.1 MiB     41.1 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     57.9 MiB     16.9 MiB           1       img = preprocess_image(image_path)
+   244    155.6 MiB     97.7 MiB           1       prediction =  model.predict(img)
+   245    155.6 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/045-230.jpg ['positive']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    151.6 MiB    151.6 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    155.7 MiB      4.0 MiB           1       img = preprocess_image(image_path)
+   244    155.7 MiB      0.0 MiB           1       prediction =  model.predict(img)
+   245    155.7 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/001-144.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     38.7 MiB     38.7 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     55.9 MiB     17.2 MiB           1       img = preprocess_image(image_path)
+   244    153.3 MiB     97.4 MiB           1       prediction =  model.predict(img)
+   245    153.3 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/005-206.jpg ['positive']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    149.5 MiB    149.5 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    152.9 MiB      3.4 MiB           1       img = preprocess_image(image_path)
+   244    152.9 MiB      0.0 MiB           1       prediction =  model.predict(img)
+   245    152.9 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/001-232.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    149.2 MiB    149.2 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    153.0 MiB      3.8 MiB           1       img = preprocess_image(image_path)
+   244    153.1 MiB      0.0 MiB           1       prediction =  model.predict(img)
+   245    153.1 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/001-64.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    150.9 MiB    150.9 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    152.3 MiB      1.5 MiB           1       img = preprocess_image(image_path)
+   244    152.9 MiB      0.5 MiB           1       prediction =  model.predict(img)
+   245    152.9 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/001-70.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     41.1 MiB     41.1 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     56.9 MiB     15.8 MiB           1       img = preprocess_image(image_path)
+   244    154.2 MiB     97.3 MiB           1       prediction =  model.predict(img)
+   245    154.2 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/005-171.jpg ['positive']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    150.8 MiB    150.8 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    154.5 MiB      3.7 MiB           1       img = preprocess_image(image_path)
+   244    155.0 MiB      0.5 MiB           1       prediction =  model.predict(img)
+   245    155.0 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/001-233.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    151.5 MiB    151.5 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    156.9 MiB      5.4 MiB           1       img = preprocess_image(image_path)
+   244    156.9 MiB      0.0 MiB           1       prediction =  model.predict(img)
+   245    156.9 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/002-35.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     90.7 MiB     90.7 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     94.6 MiB      3.9 MiB           1       img = preprocess_image(image_path)
+   244    155.5 MiB     60.8 MiB           1       prediction =  model.predict(img)
+   245    155.5 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/005-14.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    155.0 MiB    155.0 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    159.0 MiB      4.0 MiB           1       img = preprocess_image(image_path)
+   244    159.0 MiB      0.0 MiB           1       prediction =  model.predict(img)
+   245    159.0 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/037-59.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    158.7 MiB    158.7 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    159.2 MiB      0.4 MiB           1       img = preprocess_image(image_path)
+   244    159.2 MiB      0.0 MiB           1       prediction =  model.predict(img)
+   245    159.2 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/001-151.jpg ['positive']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     84.9 MiB     84.9 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     89.0 MiB      4.0 MiB           1       img = preprocess_image(image_path)
+   244    152.3 MiB     63.3 MiB           1       prediction =  model.predict(img)
+   245    152.3 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/006-105.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     41.6 MiB     41.6 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     58.2 MiB     16.6 MiB           1       img = preprocess_image(image_path)
+   244    154.0 MiB     95.8 MiB           1       prediction =  model.predict(img)
+   245    154.0 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/019-209.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     36.3 MiB     36.3 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     54.1 MiB     17.9 MiB           1       img = preprocess_image(image_path)
+   244    153.2 MiB     99.1 MiB           1       prediction =  model.predict(img)
+   245    153.2 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/001-122.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    153.5 MiB    153.5 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    158.7 MiB      5.2 MiB           1       img = preprocess_image(image_path)
+   244    158.7 MiB      0.0 MiB           1       prediction =  model.predict(img)
+   245    158.7 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/075-167.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    158.7 MiB    158.7 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    159.2 MiB      0.5 MiB           1       img = preprocess_image(image_path)
+   244    159.2 MiB      0.0 MiB           1       prediction =  model.predict(img)
+   245    159.2 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/075-173.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    159.2 MiB    159.2 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    159.2 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+   244    159.2 MiB      0.0 MiB           1       prediction =  model.predict(img)
+   245    159.2 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/002-52.jpg ['positive']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    157.8 MiB    157.8 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    158.0 MiB      0.3 MiB           1       img = preprocess_image(image_path)
+   244    158.0 MiB      0.0 MiB           1       prediction =  model.predict(img)
+   245    158.0 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/075-198.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    155.4 MiB    155.4 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    158.1 MiB      2.7 MiB           1       img = preprocess_image(image_path)
+   244    158.1 MiB      0.0 MiB           1       prediction =  model.predict(img)
+   245    158.1 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/002-156.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    157.8 MiB    157.8 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    158.2 MiB      0.4 MiB           1       img = preprocess_image(image_path)
+   244    158.2 MiB      0.0 MiB           1       prediction =  model.predict(img)
+   245    158.2 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/012-94.jpg ['positive']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    157.6 MiB    157.6 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    157.7 MiB      0.1 MiB           1       img = preprocess_image(image_path)
+   244    157.7 MiB      0.0 MiB           1       prediction =  model.predict(img)
+   245    157.7 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/012-95.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    157.7 MiB    157.7 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    157.9 MiB      0.1 MiB           1       img = preprocess_image(image_path)
+   244    157.9 MiB      0.0 MiB           1       prediction =  model.predict(img)
+   245    157.9 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/018-108.jpg ['positive']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    157.9 MiB    157.9 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    160.0 MiB      2.1 MiB           1       img = preprocess_image(image_path)
+   244    160.0 MiB      0.0 MiB           1       prediction =  model.predict(img)
+   245    160.0 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/005-66.jpg ['positive']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    157.1 MiB    157.1 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    160.9 MiB      3.7 MiB           1       img = preprocess_image(image_path)
+   244    160.9 MiB      0.0 MiB           1       prediction =  model.predict(img)
+   245    160.9 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/002-157.jpg ['positive']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    152.0 MiB    152.0 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    155.4 MiB      3.4 MiB           1       img = preprocess_image(image_path)
+   244    155.4 MiB      0.0 MiB           1       prediction =  model.predict(img)
+   245    155.4 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/089-60.jpg ['positive']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     39.4 MiB     39.4 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     54.5 MiB     15.1 MiB           1       img = preprocess_image(image_path)
+   244    153.4 MiB     98.9 MiB           1       prediction =  model.predict(img)
+   245    153.4 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/002-53.jpg ['positive']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    153.7 MiB    153.7 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    160.2 MiB      6.5 MiB           1       img = preprocess_image(image_path)
+   244    160.2 MiB      0.0 MiB           1       prediction =  model.predict(img)
+   245    160.2 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/002-90.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    160.4 MiB    160.4 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    164.6 MiB      4.2 MiB           1       img = preprocess_image(image_path)
+   244    164.6 MiB      0.0 MiB           1       prediction =  model.predict(img)
+   245    164.6 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/075-172.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    164.7 MiB    164.7 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    164.7 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+   244    164.7 MiB      0.0 MiB           1       prediction =  model.predict(img)
+   245    164.7 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/075-166.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    158.0 MiB    158.0 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    161.0 MiB      3.0 MiB           1       img = preprocess_image(image_path)
+   244    161.0 MiB      0.0 MiB           1       prediction =  model.predict(img)
+   245    161.0 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/001-123.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    157.9 MiB    157.9 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    162.4 MiB      4.5 MiB           1       img = preprocess_image(image_path)
+   244    162.4 MiB      0.0 MiB           1       prediction =  model.predict(img)
+   245    162.4 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/036-80.jpg ['positive']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    162.3 MiB    162.3 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    162.3 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+   244    162.3 MiB      0.0 MiB           1       prediction =  model.predict(img)
+   245    162.3 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/003-6.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    162.0 MiB    162.0 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    162.1 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+   244    162.1 MiB      0.0 MiB           1       prediction =  model.predict(img)
+   245    162.1 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/037-123.jpg ['positive']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     38.4 MiB     38.4 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     55.4 MiB     16.9 MiB           1       img = preprocess_image(image_path)
+   244    153.5 MiB     98.1 MiB           1       prediction =  model.predict(img)
+   245    153.5 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/028-213.jpg ['positive']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     35.1 MiB     35.1 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     53.5 MiB     18.4 MiB           1       img = preprocess_image(image_path)
+   244    153.9 MiB    100.3 MiB           1       prediction =  model.predict(img)
+   245    153.9 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/075-170.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    152.2 MiB    152.2 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    156.4 MiB      4.2 MiB           1       img = preprocess_image(image_path)
+   244    156.6 MiB      0.2 MiB           1       prediction =  model.predict(img)
+   245    156.6 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/002-86.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    133.7 MiB    133.7 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    137.0 MiB      3.3 MiB           1       img = preprocess_image(image_path)
+   244    151.8 MiB     14.8 MiB           1       prediction =  model.predict(img)
+   245    151.8 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/075-164.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    147.4 MiB    147.4 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    152.6 MiB      5.2 MiB           1       img = preprocess_image(image_path)
+   244    152.8 MiB      0.2 MiB           1       prediction =  model.predict(img)
+   245    152.8 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/019-133.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    134.0 MiB    134.0 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    137.7 MiB      3.7 MiB           1       img = preprocess_image(image_path)
+   244    152.4 MiB     14.6 MiB           1       prediction =  model.predict(img)
+   245    152.4 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/002-196.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     36.0 MiB     36.0 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     52.3 MiB     16.3 MiB           1       img = preprocess_image(image_path)
+   244    151.8 MiB     99.5 MiB           1       prediction =  model.predict(img)
+   245    151.8 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/002-51.jpg ['positive']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     16.9 MiB     16.9 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     33.5 MiB     16.6 MiB           1       img = preprocess_image(image_path)
+   244    131.8 MiB     98.3 MiB           1       prediction =  model.predict(img)
+   245    131.8 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/002-155.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    131.5 MiB    131.5 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    133.3 MiB      1.8 MiB           1       img = preprocess_image(image_path)
+   244    133.4 MiB      0.0 MiB           1       prediction =  model.predict(img)
+   245    133.4 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/012-97.jpg ['positive']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     12.2 MiB     12.2 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     29.8 MiB     17.7 MiB           1       img = preprocess_image(image_path)
+   244    130.1 MiB    100.2 MiB           1       prediction =  model.predict(img)
+   245    130.1 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/005-101.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     14.4 MiB     14.4 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     31.3 MiB     16.9 MiB           1       img = preprocess_image(image_path)
+   244    129.8 MiB     98.5 MiB           1       prediction =  model.predict(img)
+   245    129.8 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/013-192.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     95.5 MiB     95.5 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     44.9 MiB    -50.6 MiB           1       img = preprocess_image(image_path)
+   244    130.3 MiB     85.4 MiB           1       prediction =  model.predict(img)
+   245    130.3 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/012-96.jpg ['positive']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     16.3 MiB     16.3 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     33.7 MiB     17.4 MiB           1       img = preprocess_image(image_path)
+   244    131.6 MiB     97.9 MiB           1       prediction =  model.predict(img)
+   245    131.6 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/006-202.jpg ['positive']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     21.4 MiB     21.4 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     30.8 MiB      9.4 MiB           1       img = preprocess_image(image_path)
+   244    130.4 MiB     99.6 MiB           1       prediction =  model.predict(img)
+   245    130.4 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/002-50.jpg ['positive']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     13.8 MiB     13.8 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     30.6 MiB     16.8 MiB           1       img = preprocess_image(image_path)
+   244    130.3 MiB     99.8 MiB           1       prediction =  model.predict(img)
+   245    130.3 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/019-126.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    103.3 MiB    103.3 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    120.5 MiB     17.2 MiB           1       img = preprocess_image(image_path)
+   244    130.1 MiB      9.6 MiB           1       prediction =  model.predict(img)
+   245    130.1 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/002-197.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    130.1 MiB    130.1 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    134.3 MiB      4.2 MiB           1       img = preprocess_image(image_path)
+   244    134.3 MiB      0.0 MiB           1       prediction =  model.predict(img)
+   245    134.3 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/019-132.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     15.1 MiB     15.1 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     31.2 MiB     16.1 MiB           1       img = preprocess_image(image_path)
+   244    131.2 MiB    100.0 MiB           1       prediction =  model.predict(img)
+   245    131.2 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/002-87.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    129.9 MiB    129.9 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    132.0 MiB      2.2 MiB           1       img = preprocess_image(image_path)
+   244    132.1 MiB      0.1 MiB           1       prediction =  model.predict(img)
+   245    132.1 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/075-165.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     15.6 MiB     15.6 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     31.5 MiB     15.8 MiB           1       img = preprocess_image(image_path)
+   244    130.6 MiB     99.1 MiB           1       prediction =  model.predict(img)
+   245    130.6 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/030-21.jpg ['positive']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    129.6 MiB    129.6 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    133.6 MiB      4.0 MiB           1       img = preprocess_image(image_path)
+   244    134.1 MiB      0.5 MiB           1       prediction =  model.predict(img)
+   245    134.1 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/075-171.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     16.9 MiB     16.9 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     33.2 MiB     16.3 MiB           1       img = preprocess_image(image_path)
+   244    131.1 MiB     97.9 MiB           1       prediction =  model.predict(img)
+   245    131.1 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/001-108.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    127.2 MiB    127.2 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    131.3 MiB      4.1 MiB           1       img = preprocess_image(image_path)
+   244    132.5 MiB      1.2 MiB           1       prediction =  model.predict(img)
+   245    132.5 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/003-7.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     14.5 MiB     14.5 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     31.8 MiB     17.3 MiB           1       img = preprocess_image(image_path)
+   244    130.6 MiB     98.8 MiB           1       prediction =  model.predict(img)
+   245    130.6 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/003-14.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     12.3 MiB     12.3 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     29.9 MiB     17.6 MiB           1       img = preprocess_image(image_path)
+   244    130.3 MiB    100.5 MiB           1       prediction =  model.predict(img)
+   245    130.3 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/001-124.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    127.6 MiB    127.6 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    132.3 MiB      4.7 MiB           1       img = preprocess_image(image_path)
+   244    132.3 MiB      0.0 MiB           1       prediction =  model.predict(img)
+   245    132.3 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/019-136.jpg ['positive']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    132.3 MiB    132.3 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    136.0 MiB      3.6 MiB           1       img = preprocess_image(image_path)
+   244    136.0 MiB      0.0 MiB           1       prediction =  model.predict(img)
+   245    136.0 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/075-175.jpg ['positive']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    136.0 MiB    136.0 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    139.4 MiB      3.5 MiB           1       img = preprocess_image(image_path)
+   244    139.4 MiB      0.0 MiB           1       prediction =  model.predict(img)
+   245    139.4 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/002-83.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    139.4 MiB    139.4 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    139.6 MiB      0.2 MiB           1       img = preprocess_image(image_path)
+   244    139.6 MiB      0.0 MiB           1       prediction =  model.predict(img)
+   245    139.6 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/002-68.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    137.6 MiB    137.6 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    137.6 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+   244    137.6 MiB      0.0 MiB           1       prediction =  model.predict(img)
+   245    137.6 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/002-178.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    132.8 MiB    132.8 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    136.0 MiB      3.1 MiB           1       img = preprocess_image(image_path)
+   244    136.0 MiB      0.0 MiB           1       prediction =  model.predict(img)
+   245    136.0 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/005-49.jpg ['positive']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    132.2 MiB    132.2 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    132.2 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+   244    132.2 MiB      0.0 MiB           1       prediction =  model.predict(img)
+   245    132.2 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/012-93.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    132.2 MiB    132.2 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    132.2 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+   244    132.2 MiB      0.0 MiB           1       prediction =  model.predict(img)
+   245    132.2 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/005-48.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    128.2 MiB    128.2 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    134.6 MiB      6.4 MiB           1       img = preprocess_image(image_path)
+   244    134.7 MiB      0.1 MiB           1       prediction =  model.predict(img)
+   245    134.7 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/002-69.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    130.0 MiB    130.0 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    134.3 MiB      4.3 MiB           1       img = preprocess_image(image_path)
+   244    134.3 MiB      0.0 MiB           1       prediction =  model.predict(img)
+   245    134.3 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/002-82.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     13.0 MiB     13.0 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     30.4 MiB     17.4 MiB           1       img = preprocess_image(image_path)
+   244    130.6 MiB    100.1 MiB           1       prediction =  model.predict(img)
+   245    130.6 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/075-174.jpg ['positive']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    129.9 MiB    129.9 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    134.6 MiB      4.7 MiB           1       img = preprocess_image(image_path)
+   244    135.1 MiB      0.5 MiB           1       prediction =  model.predict(img)
+   245    135.1 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/019-123.jpg ['positive']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     13.2 MiB     13.2 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     30.9 MiB     17.7 MiB           1       img = preprocess_image(image_path)
+   244    130.5 MiB     99.5 MiB           1       prediction =  model.predict(img)
+   245    130.5 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/019-137.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     12.3 MiB     12.3 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     29.8 MiB     17.5 MiB           1       img = preprocess_image(image_path)
+   244    130.1 MiB    100.3 MiB           1       prediction =  model.predict(img)
+   245    130.1 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/003-15.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     14.2 MiB     14.2 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     31.2 MiB     16.9 MiB           1       img = preprocess_image(image_path)
+   244    130.0 MiB     98.8 MiB           1       prediction =  model.predict(img)
+   245    130.0 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/019-135.jpg ['positive']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     14.1 MiB     14.1 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     30.9 MiB     16.8 MiB           1       img = preprocess_image(image_path)
+   244    129.5 MiB     98.5 MiB           1       prediction =  model.predict(img)
+   245    129.5 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/075-176.jpg ['positive']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     13.8 MiB     13.8 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     30.5 MiB     16.7 MiB           1       img = preprocess_image(image_path)
+   244    129.4 MiB     98.9 MiB           1       prediction =  model.predict(img)
+   245    129.4 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/075-189.jpg ['positive']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    129.7 MiB    129.7 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    133.8 MiB      4.1 MiB           1       img = preprocess_image(image_path)
+   244    133.9 MiB      0.0 MiB           1       prediction =  model.predict(img)
+   245    133.9 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/012-91.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    130.5 MiB    130.5 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    130.9 MiB      0.4 MiB           1       img = preprocess_image(image_path)
+   244    131.0 MiB      0.1 MiB           1       prediction =  model.predict(img)
+   245    131.0 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/013-156.jpg ['positive']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    127.7 MiB    127.7 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    131.5 MiB      3.8 MiB           1       img = preprocess_image(image_path)
+   244    131.5 MiB      0.0 MiB           1       prediction =  model.predict(img)
+   245    131.5 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/075-188.jpg ['positive']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    131.4 MiB    131.4 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    131.5 MiB      0.1 MiB           1       img = preprocess_image(image_path)
+   244    131.5 MiB      0.0 MiB           1       prediction =  model.predict(img)
+   245    131.5 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/076-99.jpg ['positive']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    127.3 MiB    127.3 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    131.6 MiB      4.3 MiB           1       img = preprocess_image(image_path)
+   244    131.6 MiB      0.0 MiB           1       prediction =  model.predict(img)
+   245    131.6 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/075-177.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    125.5 MiB    125.5 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    131.0 MiB      5.5 MiB           1       img = preprocess_image(image_path)
+   244    132.4 MiB      1.4 MiB           1       prediction =  model.predict(img)
+   245    132.4 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/075-163.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    128.7 MiB    128.7 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    132.4 MiB      3.7 MiB           1       img = preprocess_image(image_path)
+   244    132.4 MiB      0.0 MiB           1       prediction =  model.predict(img)
+   245    132.4 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/019-134.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    130.9 MiB    130.9 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    131.2 MiB      0.2 MiB           1       img = preprocess_image(image_path)
+   244    131.2 MiB      0.0 MiB           1       prediction =  model.predict(img)
+   245    131.2 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/063-103.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    126.0 MiB    126.0 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    129.7 MiB      3.7 MiB           1       img = preprocess_image(image_path)
+   244    130.1 MiB      0.4 MiB           1       prediction =  model.predict(img)
+   245    130.1 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/075-185.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    126.4 MiB    126.4 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    130.9 MiB      4.5 MiB           1       img = preprocess_image(image_path)
+   244    131.0 MiB      0.1 MiB           1       prediction =  model.predict(img)
+   245    131.0 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/002-67.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    127.8 MiB    127.8 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    132.2 MiB      4.3 MiB           1       img = preprocess_image(image_path)
+   244    132.7 MiB      0.5 MiB           1       prediction =  model.predict(img)
+   245    132.7 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/075-191.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     16.7 MiB     16.7 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     32.5 MiB     15.8 MiB           1       img = preprocess_image(image_path)
+   244    131.1 MiB     98.6 MiB           1       prediction =  model.predict(img)
+   245    131.1 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/002-177.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    126.6 MiB    126.6 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    131.1 MiB      4.5 MiB           1       img = preprocess_image(image_path)
+   244    131.4 MiB      0.3 MiB           1       prediction =  model.predict(img)
+   245    131.4 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/018-100.jpg ['positive']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    130.5 MiB    130.5 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    135.2 MiB      4.6 MiB           1       img = preprocess_image(image_path)
+   244    135.3 MiB      0.1 MiB           1       prediction =  model.predict(img)
+   245    135.3 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/018-101.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     90.7 MiB     90.7 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     95.8 MiB      5.0 MiB           1       img = preprocess_image(image_path)
+   244    132.8 MiB     37.1 MiB           1       prediction =  model.predict(img)
+   245    132.8 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/005-136.jpg ['positive']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    128.8 MiB    128.8 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    131.6 MiB      2.8 MiB           1       img = preprocess_image(image_path)
+   244    131.8 MiB      0.2 MiB           1       prediction =  model.predict(img)
+   245    131.8 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/002-162.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     86.5 MiB     86.5 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     91.8 MiB      5.3 MiB           1       img = preprocess_image(image_path)
+   244    129.1 MiB     37.4 MiB           1       prediction =  model.predict(img)
+   245    129.1 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/089-41.jpg ['positive']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     55.6 MiB     55.6 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     68.6 MiB     13.0 MiB           1       img = preprocess_image(image_path)
+   244    129.6 MiB     61.0 MiB           1       prediction =  model.predict(img)
+   245    129.6 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/075-190.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     87.0 MiB     87.0 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     94.5 MiB      7.5 MiB           1       img = preprocess_image(image_path)
+   244    130.7 MiB     36.2 MiB           1       prediction =  model.predict(img)
+   245    130.7 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/075-184.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     56.5 MiB     56.5 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     72.3 MiB     15.8 MiB           1       img = preprocess_image(image_path)
+   244    133.1 MiB     60.8 MiB           1       prediction =  model.predict(img)
+   245    133.1 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/002-66.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    133.1 MiB    133.1 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    137.5 MiB      4.4 MiB           1       img = preprocess_image(image_path)
+   244    137.5 MiB      0.0 MiB           1       prediction =  model.predict(img)
+   245    137.5 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/019-138.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    131.0 MiB    131.0 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    134.9 MiB      4.0 MiB           1       img = preprocess_image(image_path)
+   244    134.9 MiB      0.0 MiB           1       prediction =  model.predict(img)
+   245    134.9 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/030-156.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    114.6 MiB    114.6 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    116.3 MiB      1.8 MiB           1       img = preprocess_image(image_path)
+   244    132.1 MiB     15.8 MiB           1       prediction =  model.predict(img)
+   245    132.1 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/002-216.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     89.1 MiB     89.1 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     94.5 MiB      5.4 MiB           1       img = preprocess_image(image_path)
+   244    130.3 MiB     35.8 MiB           1       prediction =  model.predict(img)
+   245    130.3 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/037-102.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     55.0 MiB     55.0 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     69.1 MiB     14.1 MiB           1       img = preprocess_image(image_path)
+   244    130.2 MiB     61.1 MiB           1       prediction =  model.predict(img)
+   245    130.2 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/021-93.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     12.3 MiB     12.3 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     29.7 MiB     17.4 MiB           1       img = preprocess_image(image_path)
+   244    130.0 MiB    100.2 MiB           1       prediction =  model.predict(img)
+   245    130.0 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/089-80.jpg ['positive']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     15.0 MiB     15.0 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     33.5 MiB     18.5 MiB           1       img = preprocess_image(image_path)
+   244    131.1 MiB     97.6 MiB           1       prediction =  model.predict(img)
+   245    131.1 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/075-179.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     13.3 MiB     13.3 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     30.1 MiB     16.8 MiB           1       img = preprocess_image(image_path)
+   244    129.8 MiB     99.7 MiB           1       prediction =  model.predict(img)
+   245    129.8 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/075-192.jpg ['positive']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    130.0 MiB    130.0 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    134.7 MiB      4.7 MiB           1       img = preprocess_image(image_path)
+   244    134.8 MiB      0.1 MiB           1       prediction =  model.predict(img)
+   245    134.8 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/075-186.jpg ['positive']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    133.9 MiB    133.9 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    139.1 MiB      5.2 MiB           1       img = preprocess_image(image_path)
+   244    139.1 MiB      0.0 MiB           1       prediction =  model.predict(img)
+   245    139.1 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/018-103.jpg ['positive']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     60.2 MiB     60.2 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     61.5 MiB      1.2 MiB           1       img = preprocess_image(image_path)
+   244    131.5 MiB     70.1 MiB           1       prediction =  model.predict(img)
+   245    131.5 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/001-35.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    129.3 MiB    129.3 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    131.9 MiB      2.6 MiB           1       img = preprocess_image(image_path)
+   244    131.9 MiB      0.0 MiB           1       prediction =  model.predict(img)
+   245    131.9 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/001-34.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    129.6 MiB    129.6 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    130.2 MiB      0.6 MiB           1       img = preprocess_image(image_path)
+   244    130.2 MiB      0.0 MiB           1       prediction =  model.predict(img)
+   245    130.2 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/018-102.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    127.6 MiB    127.6 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    132.1 MiB      4.5 MiB           1       img = preprocess_image(image_path)
+   244    132.1 MiB      0.0 MiB           1       prediction =  model.predict(img)
+   245    132.1 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/002-65.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    130.4 MiB    130.4 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    132.9 MiB      2.5 MiB           1       img = preprocess_image(image_path)
+   244    134.6 MiB      1.7 MiB           1       prediction =  model.predict(img)
+   245    134.6 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/075-187.jpg ['positive']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    129.0 MiB    129.0 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    132.9 MiB      3.8 MiB           1       img = preprocess_image(image_path)
+   244    133.0 MiB      0.2 MiB           1       prediction =  model.predict(img)
+   245    133.0 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/020-221.jpg ['positive']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    127.9 MiB    127.9 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    133.8 MiB      5.9 MiB           1       img = preprocess_image(image_path)
+   244    133.8 MiB      0.0 MiB           1       prediction =  model.predict(img)
+   245    133.8 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/075-193.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    132.8 MiB    132.8 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    134.7 MiB      1.9 MiB           1       img = preprocess_image(image_path)
+   244    135.1 MiB      0.4 MiB           1       prediction =  model.predict(img)
+   245    135.1 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/028-233.jpg ['positive']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    134.3 MiB    134.3 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    138.0 MiB      3.7 MiB           1       img = preprocess_image(image_path)
+   244    138.0 MiB      0.0 MiB           1       prediction =  model.predict(img)
+   245    138.0 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/006-169.jpg ['positive']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     11.9 MiB     11.9 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     29.1 MiB     17.2 MiB           1       img = preprocess_image(image_path)
+   244    129.3 MiB    100.1 MiB           1       prediction =  model.predict(img)
+   245    129.3 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/006-186.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     63.8 MiB     63.8 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     41.7 MiB    -22.2 MiB           1       img = preprocess_image(image_path)
+   244    130.7 MiB     89.0 MiB           1       prediction =  model.predict(img)
+   245    130.7 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/042-41.jpg ['positive']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     13.1 MiB     13.1 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     29.5 MiB     16.4 MiB           1       img = preprocess_image(image_path)
+   244    129.4 MiB     99.9 MiB           1       prediction =  model.predict(img)
+   245    129.4 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/013-30.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     14.2 MiB     14.2 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     31.5 MiB     17.3 MiB           1       img = preprocess_image(image_path)
+   244    130.2 MiB     98.7 MiB           1       prediction =  model.predict(img)
+   245    130.2 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/023-44.jpg ['positive']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     93.6 MiB     93.6 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    111.2 MiB     17.6 MiB           1       img = preprocess_image(image_path)
+   244    129.9 MiB     18.7 MiB           1       prediction =  model.predict(img)
+   245    129.9 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/005-83.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     12.4 MiB     12.4 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     31.3 MiB     18.9 MiB           1       img = preprocess_image(image_path)
+   244    131.3 MiB    100.0 MiB           1       prediction =  model.predict(img)
+   245    131.3 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/075-168.jpg ['positive']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     12.9 MiB     12.9 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     29.5 MiB     16.5 MiB           1       img = preprocess_image(image_path)
+   244    129.4 MiB     99.9 MiB           1       prediction =  model.predict(img)
+   245    129.4 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/002-49.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    125.9 MiB    125.9 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    130.0 MiB      4.2 MiB           1       img = preprocess_image(image_path)
+   244    129.6 MiB     -0.5 MiB           1       prediction =  model.predict(img)
+   245    129.6 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/075-197.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    129.4 MiB    129.4 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    132.7 MiB      3.2 MiB           1       img = preprocess_image(image_path)
+   244    132.8 MiB      0.1 MiB           1       prediction =  model.predict(img)
+   245    132.8 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/075-183.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     11.9 MiB     11.9 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     30.0 MiB     18.1 MiB           1       img = preprocess_image(image_path)
+   244    130.4 MiB    100.5 MiB           1       prediction =  model.predict(img)
+   245    130.4 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/018-106.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     14.4 MiB     14.4 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     31.7 MiB     17.2 MiB           1       img = preprocess_image(image_path)
+   244    129.9 MiB     98.2 MiB           1       prediction =  model.predict(img)
+   245    129.9 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/005-119.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     12.9 MiB     12.9 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     30.8 MiB     17.9 MiB           1       img = preprocess_image(image_path)
+   244    130.2 MiB     99.4 MiB           1       prediction =  model.predict(img)
+   245    130.2 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/013-174.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     12.1 MiB     12.1 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     31.4 MiB     19.2 MiB           1       img = preprocess_image(image_path)
+   244    131.4 MiB    100.0 MiB           1       prediction =  model.predict(img)
+   245    131.4 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/033-97.jpg ['positive']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    129.0 MiB    129.0 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    132.4 MiB      3.4 MiB           1       img = preprocess_image(image_path)
+   244    132.7 MiB      0.2 MiB           1       prediction =  model.predict(img)
+   245    132.7 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/005-118.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    129.3 MiB    129.3 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    134.9 MiB      5.6 MiB           1       img = preprocess_image(image_path)
+   244    135.0 MiB      0.1 MiB           1       prediction =  model.predict(img)
+   245    135.0 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/075-182.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     13.1 MiB     13.1 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     30.6 MiB     17.5 MiB           1       img = preprocess_image(image_path)
+   244    130.0 MiB     99.4 MiB           1       prediction =  model.predict(img)
+   245    130.0 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/075-196.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     11.7 MiB     11.7 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     30.4 MiB     18.7 MiB           1       img = preprocess_image(image_path)
+   244    130.7 MiB    100.2 MiB           1       prediction =  model.predict(img)
+   245    130.7 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/002-158.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     11.8 MiB     11.8 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     29.5 MiB     17.8 MiB           1       img = preprocess_image(image_path)
+   244    130.0 MiB    100.5 MiB           1       prediction =  model.predict(img)
+   245    130.1 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/075-169.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     12.1 MiB     12.1 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     30.1 MiB     18.0 MiB           1       img = preprocess_image(image_path)
+   244    104.7 MiB     74.6 MiB           1       prediction =  model.predict(img)
+   245    104.9 MiB      0.2 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/020-152.jpg ['positive']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     12.9 MiB     12.9 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     29.6 MiB     16.7 MiB           1       img = preprocess_image(image_path)
+   244    129.1 MiB     99.5 MiB           1       prediction =  model.predict(img)
+   245    129.1 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/006-185.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    125.7 MiB    125.7 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    129.9 MiB      4.2 MiB           1       img = preprocess_image(image_path)
+   244    130.5 MiB      0.5 MiB           1       prediction =  model.predict(img)
+   245    130.5 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/037-104.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    129.9 MiB    129.9 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    134.7 MiB      4.8 MiB           1       img = preprocess_image(image_path)
+   244    134.7 MiB      0.0 MiB           1       prediction =  model.predict(img)
+   245    134.7 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/002-89.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    109.6 MiB    109.6 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     81.7 MiB    -27.9 MiB           1       img = preprocess_image(image_path)
+   244    131.2 MiB     49.5 MiB           1       prediction =  model.predict(img)
+   245    131.2 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/075-180.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     11.9 MiB     11.9 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     30.0 MiB     18.2 MiB           1       img = preprocess_image(image_path)
+   244    130.2 MiB    100.1 MiB           1       prediction =  model.predict(img)
+   245    130.2 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/075-194.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     15.0 MiB     15.0 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     32.4 MiB     17.5 MiB           1       img = preprocess_image(image_path)
+   244    130.0 MiB     97.6 MiB           1       prediction =  model.predict(img)
+   245    130.0 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/006-218.jpg ['positive']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    124.3 MiB    124.3 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    128.1 MiB      3.8 MiB           1       img = preprocess_image(image_path)
+   244    130.6 MiB      2.6 MiB           1       prediction =  model.predict(img)
+   245    130.6 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/012-98.jpg ['positive']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     12.0 MiB     12.0 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     31.0 MiB     19.0 MiB           1       img = preprocess_image(image_path)
+   244    131.2 MiB    100.2 MiB           1       prediction =  model.predict(img)
+   245    131.2 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/001-33.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    120.3 MiB    120.3 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    133.0 MiB     12.7 MiB           1       img = preprocess_image(image_path)
+   244    129.8 MiB     -3.2 MiB           1       prediction =  model.predict(img)
+   245    129.8 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/033-95.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     12.2 MiB     12.2 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     30.7 MiB     18.5 MiB           1       img = preprocess_image(image_path)
+   244     75.9 MiB     45.2 MiB           1       prediction =  model.predict(img)
+   245     76.1 MiB      0.3 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/001-32.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     12.4 MiB     12.4 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     30.5 MiB     18.1 MiB           1       img = preprocess_image(image_path)
+   244    130.8 MiB    100.3 MiB           1       prediction =  model.predict(img)
+   245    130.8 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/012-99.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     11.9 MiB     11.9 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     30.2 MiB     18.3 MiB           1       img = preprocess_image(image_path)
+   244    129.6 MiB     99.4 MiB           1       prediction =  model.predict(img)
+   245    129.6 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/075-195.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     11.9 MiB     11.9 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     30.4 MiB     18.5 MiB           1       img = preprocess_image(image_path)
+   244    128.9 MiB     98.5 MiB           1       prediction =  model.predict(img)
+   245    128.9 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/006-219.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     13.2 MiB     13.2 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     31.5 MiB     18.4 MiB           1       img = preprocess_image(image_path)
+   244    126.8 MiB     95.3 MiB           1       prediction =  model.predict(img)
+   245    127.0 MiB      0.1 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/075-181.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     13.0 MiB     13.0 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     29.7 MiB     16.6 MiB           1       img = preprocess_image(image_path)
+   244    129.3 MiB     99.6 MiB           1       prediction =  model.predict(img)
+   245    129.3 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/002-198.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     13.2 MiB     13.2 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     30.7 MiB     17.5 MiB           1       img = preprocess_image(image_path)
+   244    130.2 MiB     99.5 MiB           1       prediction =  model.predict(img)
+   245    130.2 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/002-88.jpg ['positive']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    127.5 MiB    127.5 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    133.8 MiB      6.3 MiB           1       img = preprocess_image(image_path)
+   244    133.8 MiB      0.0 MiB           1       prediction =  model.predict(img)
+   245    133.8 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/006-153.jpg ['positive']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    116.8 MiB    116.8 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    121.2 MiB      4.5 MiB           1       img = preprocess_image(image_path)
+   244    131.0 MiB      9.8 MiB           1       prediction =  model.predict(img)
+   245    131.0 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/002-211.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     19.4 MiB     19.4 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     31.6 MiB     12.2 MiB           1       img = preprocess_image(image_path)
+   244    130.8 MiB     99.2 MiB           1       prediction =  model.predict(img)
+   245    130.8 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/006-120.jpg ['positive']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    128.2 MiB    128.2 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    132.5 MiB      4.3 MiB           1       img = preprocess_image(image_path)
+   244    132.5 MiB      0.0 MiB           1       prediction =  model.predict(img)
+   245    132.5 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/001-160.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    126.0 MiB    126.0 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    130.7 MiB      4.7 MiB           1       img = preprocess_image(image_path)
+   244    130.8 MiB      0.1 MiB           1       prediction =  model.predict(img)
+   245    130.8 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/030-61.jpg ['positive']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    124.3 MiB    124.3 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    128.2 MiB      3.9 MiB           1       img = preprocess_image(image_path)
+   244    128.4 MiB      0.1 MiB           1       prediction =  model.predict(img)
+   245    128.4 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/075-119.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     14.5 MiB     14.5 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     30.4 MiB     15.8 MiB           1       img = preprocess_image(image_path)
+   244    128.1 MiB     97.8 MiB           1       prediction =  model.predict(img)
+   245    128.1 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/005-31.jpg ['positive']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     12.3 MiB     12.3 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     30.3 MiB     18.0 MiB           1       img = preprocess_image(image_path)
+   244    130.7 MiB    100.4 MiB           1       prediction =  model.predict(img)
+   245    130.7 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/001-216.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     12.4 MiB     12.4 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     28.4 MiB     15.9 MiB           1       img = preprocess_image(image_path)
+   244    128.9 MiB    100.5 MiB           1       prediction =  model.predict(img)
+   245    128.9 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/005-154.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     11.8 MiB     11.8 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     28.3 MiB     16.5 MiB           1       img = preprocess_image(image_path)
+   244    128.7 MiB    100.4 MiB           1       prediction =  model.predict(img)
+   245    128.7 MiB      0.1 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/001-82.jpg ['positive']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     13.8 MiB     13.8 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     31.8 MiB     18.0 MiB           1       img = preprocess_image(image_path)
+   244    130.6 MiB     98.8 MiB           1       prediction =  model.predict(img)
+   245    130.6 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/001-69.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     12.5 MiB     12.5 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     31.0 MiB     18.5 MiB           1       img = preprocess_image(image_path)
+   244    130.9 MiB     99.9 MiB           1       prediction =  model.predict(img)
+   245    130.9 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/001-54.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     13.4 MiB     13.4 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     30.2 MiB     16.8 MiB           1       img = preprocess_image(image_path)
+   244    130.5 MiB    100.3 MiB           1       prediction =  model.predict(img)
+   245    130.5 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/030-60.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     13.4 MiB     13.4 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     30.6 MiB     17.2 MiB           1       img = preprocess_image(image_path)
+   244    129.9 MiB     99.3 MiB           1       prediction =  model.predict(img)
+   245    129.9 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/005-223.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    126.3 MiB    126.3 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    130.8 MiB      4.5 MiB           1       img = preprocess_image(image_path)
+   244    131.7 MiB      0.9 MiB           1       prediction =  model.predict(img)
+   245    131.7 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/001-161.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    113.9 MiB    113.9 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     63.0 MiB    -50.9 MiB           1       img = preprocess_image(image_path)
+   244    130.5 MiB     67.5 MiB           1       prediction =  model.predict(img)
+   245    130.5 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/006-121.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    129.7 MiB    129.7 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    133.5 MiB      3.8 MiB           1       img = preprocess_image(image_path)
+   244    133.5 MiB      0.0 MiB           1       prediction =  model.predict(img)
+   245    133.5 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/030-137.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     11.8 MiB     11.8 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     29.6 MiB     17.8 MiB           1       img = preprocess_image(image_path)
+   244    129.8 MiB    100.2 MiB           1       prediction =  model.predict(img)
+   245    129.9 MiB      0.1 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/020-109.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     13.1 MiB     13.1 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     29.8 MiB     16.7 MiB           1       img = preprocess_image(image_path)
+   244    129.2 MiB     99.4 MiB           1       prediction =  model.predict(img)
+   245    129.2 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/006-137.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    129.4 MiB    129.4 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    129.5 MiB      0.1 MiB           1       img = preprocess_image(image_path)
+   244    129.5 MiB      0.0 MiB           1       prediction =  model.predict(img)
+   245    129.5 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/001-177.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    126.6 MiB    126.6 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    130.5 MiB      3.9 MiB           1       img = preprocess_image(image_path)
+   244    130.5 MiB      0.0 MiB           1       prediction =  model.predict(img)
+   245    130.5 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/012-103.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     12.2 MiB     12.2 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     29.7 MiB     17.5 MiB           1       img = preprocess_image(image_path)
+   244    127.7 MiB     98.0 MiB           1       prediction =  model.predict(img)
+   245    127.7 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/001-81.jpg ['positive']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    126.7 MiB    126.7 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    130.8 MiB      4.1 MiB           1       img = preprocess_image(image_path)
+   244    130.9 MiB      0.1 MiB           1       prediction =  model.predict(img)
+   245    130.9 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/006-88.jpg ['positive']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     73.4 MiB     73.4 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     79.3 MiB      6.0 MiB           1       img = preprocess_image(image_path)
+   244    131.2 MiB     51.8 MiB           1       prediction =  model.predict(img)
+   245    131.2 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/001-215.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    128.7 MiB    128.7 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    133.4 MiB      4.7 MiB           1       img = preprocess_image(image_path)
+   244    133.5 MiB      0.1 MiB           1       prediction =  model.predict(img)
+   245    133.5 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/020-99.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     75.0 MiB     75.0 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     80.0 MiB      4.9 MiB           1       img = preprocess_image(image_path)
+   244    131.7 MiB     51.7 MiB           1       prediction =  model.predict(img)
+   245    131.7 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/001-214.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    120.0 MiB    120.0 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    131.8 MiB     11.8 MiB           1       img = preprocess_image(image_path)
+   244    131.9 MiB      0.1 MiB           1       prediction =  model.predict(img)
+   245    131.9 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/006-89.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     73.9 MiB     73.9 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     78.4 MiB      4.5 MiB           1       img = preprocess_image(image_path)
+   244    130.1 MiB     51.7 MiB           1       prediction =  model.predict(img)
+   245    130.1 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/001-162.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     67.2 MiB     67.2 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     84.4 MiB     17.2 MiB           1       img = preprocess_image(image_path)
+   244    132.2 MiB     47.8 MiB           1       prediction =  model.predict(img)
+   245    132.2 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/001-176.jpg ['positive']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    126.8 MiB    126.8 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    132.8 MiB      6.0 MiB           1       img = preprocess_image(image_path)
+   244    133.6 MiB      0.8 MiB           1       prediction =  model.predict(img)
+   245    133.6 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/006-136.jpg ['positive']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     75.8 MiB     75.8 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     80.3 MiB      4.5 MiB           1       img = preprocess_image(image_path)
+   244    131.9 MiB     51.6 MiB           1       prediction =  model.predict(img)
+   245    131.9 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/030-118.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     68.1 MiB     68.1 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     82.7 MiB     14.6 MiB           1       img = preprocess_image(image_path)
+   244    130.4 MiB     47.7 MiB           1       prediction =  model.predict(img)
+   245    130.4 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/041-144.jpg ['positive']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    123.8 MiB    123.8 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    129.2 MiB      5.5 MiB           1       img = preprocess_image(image_path)
+   244    130.4 MiB      1.2 MiB           1       prediction =  model.predict(img)
+   245    130.4 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/077-99.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     75.4 MiB     75.4 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     79.8 MiB      4.4 MiB           1       img = preprocess_image(image_path)
+   244    131.5 MiB     51.7 MiB           1       prediction =  model.predict(img)
+   245    131.5 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/005-224.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     12.3 MiB     12.3 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     30.0 MiB     17.8 MiB           1       img = preprocess_image(image_path)
+   244    130.2 MiB    100.1 MiB           1       prediction =  model.predict(img)
+   245    130.2 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/012-106.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     11.8 MiB     11.8 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     30.6 MiB     18.8 MiB           1       img = preprocess_image(image_path)
+   244    131.0 MiB    100.4 MiB           1       prediction =  model.predict(img)
+   245    131.0 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/002-16.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    128.3 MiB    128.3 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    132.2 MiB      4.0 MiB           1       img = preprocess_image(image_path)
+   244    132.2 MiB      0.0 MiB           1       prediction =  model.predict(img)
+   245    132.2 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/039-80.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     12.4 MiB     12.4 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     30.0 MiB     17.6 MiB           1       img = preprocess_image(image_path)
+   244    128.7 MiB     98.7 MiB           1       prediction =  model.predict(img)
+   245    128.7 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/001-90.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     13.8 MiB     13.8 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     31.3 MiB     17.5 MiB           1       img = preprocess_image(image_path)
+   244    130.2 MiB     99.0 MiB           1       prediction =  model.predict(img)
+   245    130.2 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/020-62.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     12.7 MiB     12.7 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     31.0 MiB     18.4 MiB           1       img = preprocess_image(image_path)
+   244    130.6 MiB     99.5 MiB           1       prediction =  model.predict(img)
+   245    130.6 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/001-53.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     11.7 MiB     11.7 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     28.7 MiB     17.0 MiB           1       img = preprocess_image(image_path)
+   244    129.1 MiB    100.4 MiB           1       prediction =  model.predict(img)
+   245    129.1 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/035-100.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     14.9 MiB     14.9 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     31.2 MiB     16.3 MiB           1       img = preprocess_image(image_path)
+   244    129.0 MiB     97.8 MiB           1       prediction =  model.predict(img)
+   245    129.0 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/075-62.jpg ['positive']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    127.0 MiB    127.0 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    131.2 MiB      4.2 MiB           1       img = preprocess_image(image_path)
+   244    131.3 MiB      0.0 MiB           1       prediction =  model.predict(img)
+   245    131.3 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/002-17.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     16.8 MiB     16.8 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     33.8 MiB     17.0 MiB           1       img = preprocess_image(image_path)
+   244    131.0 MiB     97.2 MiB           1       prediction =  model.predict(img)
+   245    131.0 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/012-107.jpg ['positive']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     11.8 MiB     11.8 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     29.6 MiB     17.8 MiB           1       img = preprocess_image(image_path)
+   244    129.8 MiB    100.2 MiB           1       prediction =  model.predict(img)
+   245    129.8 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/018-73.jpg ['positive']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     11.8 MiB     11.8 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     27.9 MiB     16.1 MiB           1       img = preprocess_image(image_path)
+   244    128.5 MiB    100.5 MiB           1       prediction =  model.predict(img)
+   245    128.5 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/001-198.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    125.1 MiB    125.1 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    129.8 MiB      4.7 MiB           1       img = preprocess_image(image_path)
+   244    127.6 MiB     -2.2 MiB           1       prediction =  model.predict(img)
+   245    127.6 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/085-115.jpg ['positive']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     12.8 MiB     12.8 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     29.6 MiB     16.8 MiB           1       img = preprocess_image(image_path)
+   244    129.0 MiB     99.5 MiB           1       prediction =  model.predict(img)
+   245    129.0 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/001-159.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    124.9 MiB    124.9 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     29.2 MiB    -95.7 MiB           1       img = preprocess_image(image_path)
+   244    129.6 MiB    100.4 MiB           1       prediction =  model.predict(img)
+   245    129.6 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/002-29.jpg ['positive']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    128.7 MiB    128.7 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    132.0 MiB      3.3 MiB           1       img = preprocess_image(image_path)
+   244    132.1 MiB      0.0 MiB           1       prediction =  model.predict(img)
+   245    132.1 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/002-15.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241     12.5 MiB     12.5 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243     30.1 MiB     17.6 MiB           1       img = preprocess_image(image_path)
+   244    129.6 MiB     99.5 MiB           1       prediction =  model.predict(img)
+   245    129.6 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/001-213.jpg ['negative']
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+   241    126.5 MiB    126.5 MiB           1   @profile
+   242                                         def calling_decorators(image_path):
+   243    131.1 MiB      4.6 MiB           1       img = preprocess_image(image_path)
+   244    130.2 MiB     -1.0 MiB           1       prediction =  model.predict(img)
+   245    130.2 MiB      0.0 MiB           1       return prediction    
+
+
+/Users/sandeepreddy/Desktop/testsample/002-28.jpg ['negative']
+Image 020-117.jpg: positive
+Time: 2.153959035873413 seconds
+Memory usage: 0
+CPU usage: 12.1%
+Image 020-117.jpg: ('positive', 2.153959035873413, 0, 12.1)
+Image 013-48.jpg: negative
+Time: 2.050583839416504 seconds
+Memory usage: 0
+CPU usage: 9.1%
+Image 013-48.jpg: ('negative', 2.050583839416504, 0, 9.1)
+Image 001-196.jpg: negative
+Time: 2.029374122619629 seconds
+Memory usage: 0
+CPU usage: 40.6%
+Image 001-196.jpg: ('negative', 2.029374122619629, 0, 40.6)
+Image 019-147.jpg: positive
+Time: 2.15501070022583 seconds
+Memory usage: 0
+CPU usage: 19.7%
+Image 019-147.jpg: ('positive', 2.15501070022583, 0, 19.7)
+Image 038-105.jpg: positive
+Time: 2.088801145553589 seconds
+Memory usage: 0
+CPU usage: 16.0%
+Image 038-105.jpg: ('positive', 2.088801145553589, 0, 16.0)
+Image 001-60.jpg: negative
+Time: 2.10876202583313 seconds
+Memory usage: 0
+CPU usage: 42.4%
+Image 001-60.jpg: ('negative', 2.10876202583313, 0, 42.4)
+Image 001-61.jpg: positive
+Time: 2.081070899963379 seconds
+Memory usage: 0
+CPU usage: 12.8%
+Image 001-61.jpg: ('positive', 2.081070899963379, 0, 12.8)
+Image 002-30.jpg: negative
+Time: 2.048859119415283 seconds
+Memory usage: 0
+CPU usage: 6.2%
+Image 002-30.jpg: ('negative', 2.048859119415283, 0, 6.2)
+Image 012-108.jpg: negative
+Time: 2.0278677940368652 seconds
+Memory usage: 0
+CPU usage: 7.4%
+Image 012-108.jpg: ('negative', 2.0278677940368652, 0, 7.4)
+Image 019-146.jpg: positive
+Time: 2.0297629833221436 seconds
+Memory usage: 0
+CPU usage: 5.8%
+Image 019-146.jpg: ('positive', 2.0297629833221436, 0, 5.8)
+Image 001-197.jpg: negative
+Time: 2.0742099285125732 seconds
+Memory usage: 0
+CPU usage: 49.9%
+Image 001-197.jpg: ('negative', 2.0742099285125732, 0, 49.9)
+Image 027-41_2.jpg: positive
+Time: 2.0431947708129883 seconds
+Memory usage: 0
+CPU usage: 11.8%
+Image 027-41_2.jpg: ('positive', 2.0431947708129883, 0, 11.8)
+Image 030-100.jpg: negative
+Time: 2.0296409130096436 seconds
+Memory usage: 0
+CPU usage: 14.2%
+Image 030-100.jpg: ('negative', 2.0296409130096436, 0, 14.2)
+Image 001-142.jpg: negative
+Time: 2.0278661251068115 seconds
+Memory usage: 0
+CPU usage: 16.7%
+Image 001-142.jpg: ('negative', 2.0278661251068115, 0, 16.7)
+Image 030-80.jpg: negative
+Time: 2.0437591075897217 seconds
+Memory usage: 0
+CPU usage: 24.4%
+Image 030-80.jpg: ('negative', 2.0437591075897217, 0, 24.4)
+Image 001-88.jpg: negative
+Time: 2.0346250534057617 seconds
+Memory usage: 0
+CPU usage: 25.9%
+Image 001-88.jpg: ('negative', 2.0346250534057617, 0, 25.9)
+Image 005-189.jpg: negative
+Time: 2.028489112854004 seconds
+Memory usage: 0
+CPU usage: 34.1%
+Image 005-189.jpg: ('negative', 2.028489112854004, 0, 34.1)
+Image 001-63.jpg: negative
+Time: 2.0714869499206543 seconds
+Memory usage: 0
+CPU usage: 27.2%
+Image 001-63.jpg: ('negative', 2.0714869499206543, 0, 27.2)
+Image 001-62.jpg: negative
+Time: 2.042332172393799 seconds
+Memory usage: 0
+CPU usage: 27.5%
+Image 001-62.jpg: ('negative', 2.042332172393799, 0, 27.5)
+Image 001-89.jpg: negative
+Time: 2.039093017578125 seconds
+Memory usage: 0
+CPU usage: 31.9%
+Image 001-89.jpg: ('negative', 2.039093017578125, 0, 31.9)
+Image 039-99.jpg: positive
+Time: 2.1008381843566895 seconds
+Memory usage: 0
+CPU usage: 68.1%
+Image 039-99.jpg: ('positive', 2.1008381843566895, 0, 68.1)
+Image 019-145.jpg: negative
+Time: 2.084521770477295 seconds
+Memory usage: 0
+CPU usage: 54.2%
+Image 019-145.jpg: ('negative', 2.084521770477295, 0, 54.2)
+Image 001-143.jpg: negative
+Time: 2.100025177001953 seconds
+Memory usage: 0
+CPU usage: 43.5%
+Image 001-143.jpg: ('negative', 2.100025177001953, 0, 43.5)
+Image 084-122.jpg: negative
+Time: 2.062181234359741 seconds
+Memory usage: 0
+CPU usage: 26.6%
+Image 084-122.jpg: ('negative', 2.062181234359741, 0, 26.6)
+Image 019-227.jpg: positive
+Time: 2.0446667671203613 seconds
+Memory usage: 0
+CPU usage: 37.1%
+Image 019-227.jpg: ('positive', 2.0446667671203613, 0, 37.1)
+Image 013-66.jpg: negative
+Time: 2.0796360969543457 seconds
+Memory usage: 0
+CPU usage: 24.9%
+Image 013-66.jpg: ('negative', 2.0796360969543457, 0, 24.9)
+Image 001-231.jpg: negative
+Time: 2.0375759601593018 seconds
+Memory usage: 0
+CPU usage: 25.8%
+Image 001-231.jpg: ('negative', 2.0375759601593018, 0, 25.8)
+Image 020-43.jpg: negative
+Time: 2.047795057296753 seconds
+Memory usage: 0
+CPU usage: 24.1%
+Image 020-43.jpg: ('negative', 2.047795057296753, 0, 24.1)
+Image 020-80.jpg: positive
+Time: 2.0714950561523438 seconds
+Memory usage: 0
+CPU usage: 21.8%
+Image 020-80.jpg: ('positive', 2.0714950561523438, 0, 21.8)
+Image 075-43.jpg: negative
+Time: 2.0312693119049072 seconds
+Memory usage: 0
+CPU usage: 41.8%
+Image 075-43.jpg: ('negative', 2.0312693119049072, 0, 41.8)
+Image 002-36.jpg: negative
+Time: 2.0846140384674072 seconds
+Memory usage: 0
+CPU usage: 48.0%
+Image 002-36.jpg: ('negative', 2.0846140384674072, 0, 48.0)
+Image 002-126.jpg: negative
+Time: 2.082937240600586 seconds
+Memory usage: 0
+CPU usage: 32.3%
+Image 002-126.jpg: ('negative', 2.082937240600586, 0, 32.3)
+Image 019-154.jpg: negative
+Time: 2.048722982406616 seconds
+Memory usage: 0
+CPU usage: 22.0%
+Image 019-154.jpg: ('negative', 2.048722982406616, 0, 22.0)
+Image 045-193.jpg: negative
+Time: 2.029053211212158 seconds
+Memory usage: 0
+CPU usage: 16.5%
+Image 045-193.jpg: ('negative', 2.029053211212158, 0, 16.5)
+Image 020-6.jpg: positive
+Time: 2.1027979850769043 seconds
+Memory usage: 0
+CPU usage: 20.0%
+Image 020-6.jpg: ('positive', 2.1027979850769043, 0, 20.0)
+Image 006-104.jpg: positive
+Time: 2.039201021194458 seconds
+Memory usage: 0
+CPU usage: 8.3%
+Image 006-104.jpg: ('positive', 2.039201021194458, 0, 8.3)
+Image 045-230.jpg: positive
+Time: 2.083601951599121 seconds
+Memory usage: 0
+CPU usage: 11.9%
+Image 045-230.jpg: ('positive', 2.083601951599121, 0, 11.9)
+Image 001-144.jpg: negative
+Time: 2.0438919067382812 seconds
+Memory usage: 0
+CPU usage: 10.4%
+Image 001-144.jpg: ('negative', 2.0438919067382812, 0, 10.4)
+Image 005-206.jpg: positive
+Time: 2.091059923171997 seconds
+Memory usage: 0
+CPU usage: 10.6%
+Image 005-206.jpg: ('positive', 2.091059923171997, 0, 10.6)
+Image 001-232.jpg: negative
+Time: 2.037813901901245 seconds
+Memory usage: 0
+CPU usage: 7.1%
+Image 001-232.jpg: ('negative', 2.037813901901245, 0, 7.1)
+Image 001-64.jpg: negative
+Time: 2.057704210281372 seconds
+Memory usage: 0
+CPU usage: 7.4%
+Image 001-64.jpg: ('negative', 2.057704210281372, 0, 7.4)
+Image 001-70.jpg: negative
+Time: 2.0390961170196533 seconds
+Memory usage: 0
+CPU usage: 8.4%
+Image 001-70.jpg: ('negative', 2.0390961170196533, 0, 8.4)
+Image 005-171.jpg: positive
+Time: 2.1072239875793457 seconds
+Memory usage: 0
+CPU usage: 11.4%
+Image 005-171.jpg: ('positive', 2.1072239875793457, 0, 11.4)
+Image 001-233.jpg: negative
+Time: 2.042382001876831 seconds
+Memory usage: 0
+CPU usage: 7.7%
+Image 001-233.jpg: ('negative', 2.042382001876831, 0, 7.7)
+Image 002-35.jpg: negative
+Time: 2.0682151317596436 seconds
+Memory usage: 0
+CPU usage: 6.7%
+Image 002-35.jpg: ('negative', 2.0682151317596436, 0, 6.7)
+Image 005-14.jpg: negative
+Time: 2.074223041534424 seconds
+Memory usage: 0
+CPU usage: 7.7%
+Image 005-14.jpg: ('negative', 2.074223041534424, 0, 7.7)
+Image 037-59.jpg: negative
+Time: 2.0387730598449707 seconds
+Memory usage: 0
+CPU usage: 7.4%
+Image 037-59.jpg: ('negative', 2.0387730598449707, 0, 7.4)
+Image 001-151.jpg: positive
+Time: 2.047466993331909 seconds
+Memory usage: 0
+CPU usage: 17.3%
+Image 001-151.jpg: ('positive', 2.047466993331909, 0, 17.3)
+Image 006-105.jpg: negative
+Time: 2.0649290084838867 seconds
+Memory usage: 0
+CPU usage: 34.5%
+Image 006-105.jpg: ('negative', 2.0649290084838867, 0, 34.5)
+Image 019-209.jpg: negative
+Time: 2.196560859680176 seconds
+Memory usage: 0
+CPU usage: 49.5%
+Image 019-209.jpg: ('negative', 2.196560859680176, 0, 49.5)
+Image 001-122.jpg: negative
+Time: 2.1068859100341797 seconds
+Memory usage: 0
+CPU usage: 9.5%
+Image 001-122.jpg: ('negative', 2.1068859100341797, 0, 9.5)
+Image 075-167.jpg: negative
+Time: 2.042019844055176 seconds
+Memory usage: 0
+CPU usage: 6.5%
+Image 075-167.jpg: ('negative', 2.042019844055176, 0, 6.5)
+Image 075-173.jpg: negative
+Time: 2.0386266708374023 seconds
+Memory usage: 0
+CPU usage: 6.4%
+Image 075-173.jpg: ('negative', 2.0386266708374023, 0, 6.4)
+Image 002-52.jpg: positive
+Time: 2.040998935699463 seconds
+Memory usage: 0
+CPU usage: 6.0%
+Image 002-52.jpg: ('positive', 2.040998935699463, 0, 6.0)
+Image 075-198.jpg: negative
+Time: 2.0351340770721436 seconds
+Memory usage: 0
+CPU usage: 6.3%
+Image 075-198.jpg: ('negative', 2.0351340770721436, 0, 6.3)
+Image 002-156.jpg: negative
+Time: 2.0375349521636963 seconds
+Memory usage: 0
+CPU usage: 4.2%
+Image 002-156.jpg: ('negative', 2.0375349521636963, 0, 4.2)
+Image 012-94.jpg: positive
+Time: 2.0343921184539795 seconds
+Memory usage: 0
+CPU usage: 4.0%
+Image 012-94.jpg: ('positive', 2.0343921184539795, 0, 4.0)
+Image 012-95.jpg: negative
+Time: 2.030895233154297 seconds
+Memory usage: 0
+CPU usage: 4.1%
+Image 012-95.jpg: ('negative', 2.030895233154297, 0, 4.1)
+Image 018-108.jpg: positive
+Time: 2.0272200107574463 seconds
+Memory usage: 0
+CPU usage: 7.1%
+Image 018-108.jpg: ('positive', 2.0272200107574463, 0, 7.1)
+Image 005-66.jpg: positive
+Time: 2.0365209579467773 seconds
+Memory usage: 0
+CPU usage: 9.8%
+Image 005-66.jpg: ('positive', 2.0365209579467773, 0, 9.8)
+Image 002-157.jpg: positive
+Time: 2.0367379188537598 seconds
+Memory usage: 0
+CPU usage: 21.5%
+Image 002-157.jpg: ('positive', 2.0367379188537598, 0, 21.5)
+Image 089-60.jpg: positive
+Time: 2.0245659351348877 seconds
+Memory usage: 0
+CPU usage: 8.8%
+Image 089-60.jpg: ('positive', 2.0245659351348877, 0, 8.8)
+Image 002-53.jpg: positive
+Time: 2.060051918029785 seconds
+Memory usage: 0
+CPU usage: 6.4%
+Image 002-53.jpg: ('positive', 2.060051918029785, 0, 6.4)
+Image 002-90.jpg: negative
+Time: 2.0338261127471924 seconds
+Memory usage: 0
+CPU usage: 7.8%
+Image 002-90.jpg: ('negative', 2.0338261127471924, 0, 7.8)
+Image 075-172.jpg: negative
+Time: 2.0298171043395996 seconds
+Memory usage: 0
+CPU usage: 11.7%
+Image 075-172.jpg: ('negative', 2.0298171043395996, 0, 11.7)
+Image 075-166.jpg: negative
+Time: 2.0299839973449707 seconds
+Memory usage: 0
+CPU usage: 15.1%
+Image 075-166.jpg: ('negative', 2.0299839973449707, 0, 15.1)
+Image 001-123.jpg: negative
+Time: 2.028228282928467 seconds
+Memory usage: 0
+CPU usage: 14.9%
+Image 001-123.jpg: ('negative', 2.028228282928467, 0, 14.9)
+Image 036-80.jpg: positive
+Time: 2.0304040908813477 seconds
+Memory usage: 0
+CPU usage: 18.0%
+Image 036-80.jpg: ('positive', 2.0304040908813477, 0, 18.0)
+Image 003-6.jpg: negative
+Time: 2.0304148197174072 seconds
+Memory usage: 0
+CPU usage: 21.9%
+Image 003-6.jpg: ('negative', 2.0304148197174072, 0, 21.9)
+Image 037-123.jpg: positive
+Time: 2.0508220195770264 seconds
+Memory usage: 0
+CPU usage: 40.3%
+Image 037-123.jpg: ('positive', 2.0508220195770264, 0, 40.3)
+Image 028-213.jpg: positive
+Time: 2.0621719360351562 seconds
+Memory usage: 0
+CPU usage: 52.3%
+Image 028-213.jpg: ('positive', 2.0621719360351562, 0, 52.3)
+Image 075-170.jpg: negative
+Time: 2.098853826522827 seconds
+Memory usage: 0
+CPU usage: 45.7%
+Image 075-170.jpg: ('negative', 2.098853826522827, 0, 45.7)
+Image 002-86.jpg: negative
+Time: 2.067033052444458 seconds
+Memory usage: 0
+CPU usage: 32.3%
+Image 002-86.jpg: ('negative', 2.067033052444458, 0, 32.3)
+Image 075-164.jpg: negative
+Time: 2.0614869594573975 seconds
+Memory usage: 0
+CPU usage: 39.4%
+Image 075-164.jpg: ('negative', 2.0614869594573975, 0, 39.4)
+Image 019-133.jpg: negative
+Time: 2.0569920539855957 seconds
+Memory usage: 0
+CPU usage: 36.6%
+Image 019-133.jpg: ('negative', 2.0569920539855957, 0, 36.6)
+Image 002-196.jpg: negative
+Time: 2.04693341255188 seconds
+Memory usage: 0
+CPU usage: 41.7%
+Image 002-196.jpg: ('negative', 2.04693341255188, 0, 41.7)
+Image 002-51.jpg: positive
+Time: 2.076164722442627 seconds
+Memory usage: 0
+CPU usage: 68.0%
+Image 002-51.jpg: ('positive', 2.076164722442627, 0, 68.0)
+Image 002-155.jpg: negative
+Time: 2.0924301147460938 seconds
+Memory usage: 0
+CPU usage: 44.7%
+Image 002-155.jpg: ('negative', 2.0924301147460938, 0, 44.7)
+Image 012-97.jpg: positive
+Time: 2.0484299659729004 seconds
+Memory usage: 0
+CPU usage: 38.2%
+Image 012-97.jpg: ('positive', 2.0484299659729004, 0, 38.2)
+Image 005-101.jpg: negative
+Time: 2.1146459579467773 seconds
+Memory usage: 0
+CPU usage: 60.8%
+Image 005-101.jpg: ('negative', 2.1146459579467773, 0, 60.8)
+Image 013-192.jpg: negative
+Time: 2.0650930404663086 seconds
+Memory usage: 0
+CPU usage: 34.1%
+Image 013-192.jpg: ('negative', 2.0650930404663086, 0, 34.1)
+Image 012-96.jpg: positive
+Time: 2.156207799911499 seconds
+Memory usage: 0
+CPU usage: 44.1%
+Image 012-96.jpg: ('positive', 2.156207799911499, 0, 44.1)
+Image 006-202.jpg: positive
+Time: 2.1185362339019775 seconds
+Memory usage: 0
+CPU usage: 28.5%
+Image 006-202.jpg: ('positive', 2.1185362339019775, 0, 28.5)
+Image 002-50.jpg: positive
+Time: 2.103220224380493 seconds
+Memory usage: 0
+CPU usage: 29.6%
+Image 002-50.jpg: ('positive', 2.103220224380493, 0, 29.6)
+Image 019-126.jpg: negative
+Time: 2.097191333770752 seconds
+Memory usage: 0
+CPU usage: 37.9%
+Image 019-126.jpg: ('negative', 2.097191333770752, 0, 37.9)
+Image 002-197.jpg: negative
+Time: 2.076204776763916 seconds
+Memory usage: 0
+CPU usage: 18.3%
+Image 002-197.jpg: ('negative', 2.076204776763916, 0, 18.3)
+Image 019-132.jpg: negative
+Time: 2.053018093109131 seconds
+Memory usage: 0
+CPU usage: 24.3%
+Image 019-132.jpg: ('negative', 2.053018093109131, 0, 24.3)
+Image 002-87.jpg: negative
+Time: 2.115234851837158 seconds
+Memory usage: 0
+CPU usage: 18.9%
+Image 002-87.jpg: ('negative', 2.115234851837158, 0, 18.9)
+Image 075-165.jpg: negative
+Time: 2.053948163986206 seconds
+Memory usage: 0
+CPU usage: 17.4%
+Image 075-165.jpg: ('negative', 2.053948163986206, 0, 17.4)
+Image 030-21.jpg: positive
+Time: 2.159931182861328 seconds
+Memory usage: 0
+CPU usage: 10.4%
+Image 030-21.jpg: ('positive', 2.159931182861328, 0, 10.4)
+Image 075-171.jpg: negative
+Time: 2.0522940158843994 seconds
+Memory usage: 0
+CPU usage: 8.3%
+Image 075-171.jpg: ('negative', 2.0522940158843994, 0, 8.3)
+Image 001-108.jpg: negative
+Time: 2.1109747886657715 seconds
+Memory usage: 0
+CPU usage: 8.2%
+Image 001-108.jpg: ('negative', 2.1109747886657715, 0, 8.2)
+Image 003-7.jpg: negative
+Time: 2.0565240383148193 seconds
+Memory usage: 0
+CPU usage: 10.9%
+Image 003-7.jpg: ('negative', 2.0565240383148193, 0, 10.9)
+Image 003-14.jpg: negative
+Time: 2.0890450477600098 seconds
+Memory usage: 0
+CPU usage: 11.5%
+Image 003-14.jpg: ('negative', 2.0890450477600098, 0, 11.5)
+Image 001-124.jpg: negative
+Time: 2.0923268795013428 seconds
+Memory usage: 0
+CPU usage: 23.9%
+Image 001-124.jpg: ('negative', 2.0923268795013428, 0, 23.9)
+Image 019-136.jpg: positive
+Time: 2.0443668365478516 seconds
+Memory usage: 0
+CPU usage: 16.5%
+Image 019-136.jpg: ('positive', 2.0443668365478516, 0, 16.5)
+Image 075-175.jpg: positive
+Time: 2.060946226119995 seconds
+Memory usage: 0
+CPU usage: 7.1%
+Image 075-175.jpg: ('positive', 2.060946226119995, 0, 7.1)
+Image 002-83.jpg: negative
+Time: 2.0404770374298096 seconds
+Memory usage: 0
+CPU usage: 6.6%
+Image 002-83.jpg: ('negative', 2.0404770374298096, 0, 6.6)
+Image 002-68.jpg: negative
+Time: 2.0374979972839355 seconds
+Memory usage: 0
+CPU usage: 6.3%
+Image 002-68.jpg: ('negative', 2.0374979972839355, 0, 6.3)
+Image 002-178.jpg: negative
+Time: 2.034276008605957 seconds
+Memory usage: 0
+CPU usage: 15.5%
+Image 002-178.jpg: ('negative', 2.034276008605957, 0, 15.5)
+Image 005-49.jpg: positive
+Time: 2.029946804046631 seconds
+Memory usage: 0
+CPU usage: 8.6%
+Image 005-49.jpg: ('positive', 2.029946804046631, 0, 8.6)
+Image 012-93.jpg: negative
+Time: 2.0291519165039062 seconds
+Memory usage: 0
+CPU usage: 6.5%
+Image 012-93.jpg: ('negative', 2.0291519165039062, 0, 6.5)
+Image 005-48.jpg: negative
+Time: 2.0274970531463623 seconds
+Memory usage: 0
+CPU usage: 5.2%
+Image 005-48.jpg: ('negative', 2.0274970531463623, 0, 5.2)
+Image 002-69.jpg: negative
+Time: 2.0251729488372803 seconds
+Memory usage: 0
+CPU usage: 15.2%
+Image 002-69.jpg: ('negative', 2.0251729488372803, 0, 15.2)
+Image 002-82.jpg: negative
+Time: 2.049610137939453 seconds
+Memory usage: 0
+CPU usage: 40.3%
+Image 002-82.jpg: ('negative', 2.049610137939453, 0, 40.3)
+Image 075-174.jpg: positive
+Time: 2.0990488529205322 seconds
+Memory usage: 0
+CPU usage: 27.7%
+Image 075-174.jpg: ('positive', 2.0990488529205322, 0, 27.7)
+Image 019-123.jpg: positive
+Time: 2.078933000564575 seconds
+Memory usage: 0
+CPU usage: 66.3%
+Image 019-123.jpg: ('positive', 2.078933000564575, 0, 66.3)
+Image 019-137.jpg: negative
+Time: 2.0862131118774414 seconds
+Memory usage: 0
+CPU usage: 50.3%
+Image 019-137.jpg: ('negative', 2.0862131118774414, 0, 50.3)
+Image 003-15.jpg: negative
+Time: 2.191459894180298 seconds
+Memory usage: 0
+CPU usage: 60.3%
+Image 003-15.jpg: ('negative', 2.191459894180298, 0, 60.3)
+Image 019-135.jpg: positive
+Time: 2.1093780994415283 seconds
+Memory usage: 0
+CPU usage: 54.4%
+Image 019-135.jpg: ('positive', 2.1093780994415283, 0, 54.4)
+Image 075-176.jpg: positive
+Time: 2.1047489643096924 seconds
+Memory usage: 0
+CPU usage: 37.2%
+Image 075-176.jpg: ('positive', 2.1047489643096924, 0, 37.2)
+Image 075-189.jpg: positive
+Time: 2.105520725250244 seconds
+Memory usage: 0
+CPU usage: 33.5%
+Image 075-189.jpg: ('positive', 2.105520725250244, 0, 33.5)
+Image 012-91.jpg: negative
+Time: 2.048569917678833 seconds
+Memory usage: 0
+CPU usage: 29.4%
+Image 012-91.jpg: ('negative', 2.048569917678833, 0, 29.4)
+Image 013-156.jpg: positive
+Time: 2.051553964614868 seconds
+Memory usage: 0
+CPU usage: 27.8%
+Image 013-156.jpg: ('positive', 2.051553964614868, 0, 27.8)
+Image 075-188.jpg: positive
+Time: 2.0676698684692383 seconds
+Memory usage: 0
+CPU usage: 28.6%
+Image 075-188.jpg: ('positive', 2.0676698684692383, 0, 28.6)
+Image 076-99.jpg: positive
+Time: 2.0443952083587646 seconds
+Memory usage: 0
+CPU usage: 43.2%
+Image 076-99.jpg: ('positive', 2.0443952083587646, 0, 43.2)
+Image 075-177.jpg: negative
+Time: 2.0467257499694824 seconds
+Memory usage: 0
+CPU usage: 36.0%
+Image 075-177.jpg: ('negative', 2.0467257499694824, 0, 36.0)
+Image 075-163.jpg: negative
+Time: 2.073024034500122 seconds
+Memory usage: 0
+CPU usage: 29.7%
+Image 075-163.jpg: ('negative', 2.073024034500122, 0, 29.7)
+Image 019-134.jpg: negative
+Time: 2.0464818477630615 seconds
+Memory usage: 0
+CPU usage: 32.6%
+Image 019-134.jpg: ('negative', 2.0464818477630615, 0, 32.6)
+Image 063-103.jpg: negative
+Time: 2.072895050048828 seconds
+Memory usage: 0
+CPU usage: 26.9%
+Image 063-103.jpg: ('negative', 2.072895050048828, 0, 26.9)
+Image 075-185.jpg: negative
+Time: 2.0537970066070557 seconds
+Memory usage: 0
+CPU usage: 28.6%
+Image 075-185.jpg: ('negative', 2.0537970066070557, 0, 28.6)
+Image 002-67.jpg: negative
+Time: 2.0716800689697266 seconds
+Memory usage: 0
+CPU usage: 30.9%
+Image 002-67.jpg: ('negative', 2.0716800689697266, 0, 30.9)
+Image 075-191.jpg: negative
+Time: 2.050457000732422 seconds
+Memory usage: 0
+CPU usage: 36.6%
+Image 075-191.jpg: ('negative', 2.050457000732422, 0, 36.6)
+Image 002-177.jpg: negative
+Time: 2.1608381271362305 seconds
+Memory usage: 0
+CPU usage: 34.6%
+Image 002-177.jpg: ('negative', 2.1608381271362305, 0, 34.6)
+Image 018-100.jpg: positive
+Time: 2.0510010719299316 seconds
+Memory usage: 0
+CPU usage: 31.5%
+Image 018-100.jpg: ('positive', 2.0510010719299316, 0, 31.5)
+Image 018-101.jpg: negative
+Time: 2.0592329502105713 seconds
+Memory usage: 0
+CPU usage: 34.2%
+Image 018-101.jpg: ('negative', 2.0592329502105713, 0, 34.2)
+Image 005-136.jpg: positive
+Time: 2.043552875518799 seconds
+Memory usage: 0
+CPU usage: 35.4%
+Image 005-136.jpg: ('positive', 2.043552875518799, 0, 35.4)
+Image 002-162.jpg: negative
+Time: 2.0347981452941895 seconds
+Memory usage: 0
+CPU usage: 37.7%
+Image 002-162.jpg: ('negative', 2.0347981452941895, 0, 37.7)
+Image 089-41.jpg: positive
+Time: 2.045516014099121 seconds
+Memory usage: 0
+CPU usage: 36.8%
+Image 089-41.jpg: ('positive', 2.045516014099121, 0, 36.8)
+Image 075-190.jpg: negative
+Time: 2.0522501468658447 seconds
+Memory usage: 0
+CPU usage: 31.3%
+Image 075-190.jpg: ('negative', 2.0522501468658447, 0, 31.3)
+Image 075-184.jpg: negative
+Time: 2.0444769859313965 seconds
+Memory usage: 0
+CPU usage: 36.4%
+Image 075-184.jpg: ('negative', 2.0444769859313965, 0, 36.4)
+Image 002-66.jpg: negative
+Time: 2.0782577991485596 seconds
+Memory usage: 0
+CPU usage: 32.6%
+Image 002-66.jpg: ('negative', 2.0782577991485596, 0, 32.6)
+Image 019-138.jpg: negative
+Time: 2.0597918033599854 seconds
+Memory usage: 0
+CPU usage: 30.6%
+Image 019-138.jpg: ('negative', 2.0597918033599854, 0, 30.6)
+Image 030-156.jpg: negative
+Time: 2.059863805770874 seconds
+Memory usage: 0
+CPU usage: 32.0%
+Image 030-156.jpg: ('negative', 2.059863805770874, 0, 32.0)
+Image 002-216.jpg: negative
+Time: 2.0616209506988525 seconds
+Memory usage: 0
+CPU usage: 28.1%
+Image 002-216.jpg: ('negative', 2.0616209506988525, 0, 28.1)
+Image 037-102.jpg: negative
+Time: 2.0739188194274902 seconds
+Memory usage: 0
+CPU usage: 27.2%
+Image 037-102.jpg: ('negative', 2.0739188194274902, 0, 27.2)
+Image 021-93.jpg: negative
+Time: 2.068560838699341 seconds
+Memory usage: 0
+CPU usage: 38.3%
+Image 021-93.jpg: ('negative', 2.068560838699341, 0, 38.3)
+Image 089-80.jpg: positive
+Time: 2.202782154083252 seconds
+Memory usage: 0
+CPU usage: 60.3%
+Image 089-80.jpg: ('positive', 2.202782154083252, 0, 60.3)
+Image 075-179.jpg: negative
+Time: 2.082026958465576 seconds
+Memory usage: 0
+CPU usage: 47.2%
+Image 075-179.jpg: ('negative', 2.082026958465576, 0, 47.2)
+Image 075-192.jpg: positive
+Time: 2.111004114151001 seconds
+Memory usage: 0
+CPU usage: 31.8%
+Image 075-192.jpg: ('positive', 2.111004114151001, 0, 31.8)
+Image 075-186.jpg: positive
+Time: 2.038076162338257 seconds
+Memory usage: 0
+CPU usage: 32.7%
+Image 075-186.jpg: ('positive', 2.038076162338257, 0, 32.7)
+Image 018-103.jpg: positive
+Time: 2.054927110671997 seconds
+Memory usage: 0
+CPU usage: 33.2%
+Image 018-103.jpg: ('positive', 2.054927110671997, 0, 33.2)
+Image 001-35.jpg: negative
+Time: 2.06518816947937 seconds
+Memory usage: 0
+CPU usage: 30.0%
+Image 001-35.jpg: ('negative', 2.06518816947937, 0, 30.0)
+Image 001-34.jpg: negative
+Time: 2.0433292388916016 seconds
+Memory usage: 0
+CPU usage: 26.6%
+Image 001-34.jpg: ('negative', 2.0433292388916016, 0, 26.6)
+Image 018-102.jpg: negative
+Time: 2.044023036956787 seconds
+Memory usage: 0
+CPU usage: 26.5%
+Image 018-102.jpg: ('negative', 2.044023036956787, 0, 26.5)
+Image 002-65.jpg: negative
+Time: 2.059967041015625 seconds
+Memory usage: 0
+CPU usage: 26.6%
+Image 002-65.jpg: ('negative', 2.059967041015625, 0, 26.6)
+Image 075-187.jpg: positive
+Time: 2.0408551692962646 seconds
+Memory usage: 0
+CPU usage: 25.8%
+Image 075-187.jpg: ('positive', 2.0408551692962646, 0, 25.8)
+Image 020-221.jpg: positive
+Time: 2.0548648834228516 seconds
+Memory usage: 0
+CPU usage: 30.2%
+Image 020-221.jpg: ('positive', 2.0548648834228516, 0, 30.2)
+Image 075-193.jpg: negative
+Time: 2.048034191131592 seconds
+Memory usage: 0
+CPU usage: 26.1%
+Image 075-193.jpg: ('negative', 2.048034191131592, 0, 26.1)
+Image 028-233.jpg: positive
+Time: 2.041862964630127 seconds
+Memory usage: 0
+CPU usage: 23.8%
+Image 028-233.jpg: ('positive', 2.041862964630127, 0, 23.8)
+Image 006-169.jpg: positive
+Time: 2.0426230430603027 seconds
+Memory usage: 0
+CPU usage: 37.6%
+Image 006-169.jpg: ('positive', 2.0426230430603027, 0, 37.6)
+Image 006-186.jpg: negative
+Time: 2.090312957763672 seconds
+Memory usage: 0
+CPU usage: 36.7%
+Image 006-186.jpg: ('negative', 2.090312957763672, 0, 36.7)
+Image 042-41.jpg: positive
+Time: 2.165195941925049 seconds
+Memory usage: 0
+CPU usage: 39.5%
+Image 042-41.jpg: ('positive', 2.165195941925049, 0, 39.5)
+Image 013-30.jpg: negative
+Time: 2.1437649726867676 seconds
+Memory usage: 0
+CPU usage: 44.3%
+Image 013-30.jpg: ('negative', 2.1437649726867676, 0, 44.3)
+Image 023-44.jpg: positive
+Time: 2.1401829719543457 seconds
+Memory usage: 0
+CPU usage: 39.2%
+Image 023-44.jpg: ('positive', 2.1401829719543457, 0, 39.2)
+Image 005-83.jpg: negative
+Time: 2.1054189205169678 seconds
+Memory usage: 0
+CPU usage: 51.1%
+Image 005-83.jpg: ('negative', 2.1054189205169678, 0, 51.1)
+Image 075-168.jpg: positive
+Time: 2.1089208126068115 seconds
+Memory usage: 0
+CPU usage: 48.5%
+Image 075-168.jpg: ('positive', 2.1089208126068115, 0, 48.5)
+Image 002-49.jpg: negative
+Time: 2.0828189849853516 seconds
+Memory usage: 0
+CPU usage: 42.7%
+Image 002-49.jpg: ('negative', 2.0828189849853516, 0, 42.7)
+Image 075-197.jpg: negative
+Time: 2.178784132003784 seconds
+Memory usage: 0
+CPU usage: 41.3%
+Image 075-197.jpg: ('negative', 2.178784132003784, 0, 41.3)
+Image 075-183.jpg: negative
+Time: 2.0600948333740234 seconds
+Memory usage: 0
+CPU usage: 51.0%
+Image 075-183.jpg: ('negative', 2.0600948333740234, 0, 51.0)
+Image 018-106.jpg: negative
+Time: 2.1800718307495117 seconds
+Memory usage: 0
+CPU usage: 51.0%
+Image 018-106.jpg: ('negative', 2.1800718307495117, 0, 51.0)
+Image 005-119.jpg: negative
+Time: 2.098273992538452 seconds
+Memory usage: 0
+CPU usage: 39.5%
+Image 005-119.jpg: ('negative', 2.098273992538452, 0, 39.5)
+Image 013-174.jpg: negative
+Time: 2.086277961730957 seconds
+Memory usage: 0
+CPU usage: 14.2%
+Image 013-174.jpg: ('negative', 2.086277961730957, 0, 14.2)
+Image 033-97.jpg: positive
+Time: 2.094681978225708 seconds
+Memory usage: 0
+CPU usage: 37.2%
+Image 033-97.jpg: ('positive', 2.094681978225708, 0, 37.2)
+Image 005-118.jpg: negative
+Time: 2.047852039337158 seconds
+Memory usage: 0
+CPU usage: 13.9%
+Image 005-118.jpg: ('negative', 2.047852039337158, 0, 13.9)
+Image 075-182.jpg: negative
+Time: 2.04008412361145 seconds
+Memory usage: 0
+CPU usage: 56.4%
+Image 075-182.jpg: ('negative', 2.04008412361145, 0, 56.4)
+Image 075-196.jpg: negative
+Time: 2.1505789756774902 seconds
+Memory usage: 0
+CPU usage: 41.6%
+Image 075-196.jpg: ('negative', 2.1505789756774902, 0, 41.6)
+Image 002-158.jpg: negative
+Time: 2.1411941051483154 seconds
+Memory usage: 0
+CPU usage: 34.2%
+Image 002-158.jpg: ('negative', 2.1411941051483154, 0, 34.2)
+Image 075-169.jpg: negative
+Time: 2.1352689266204834 seconds
+Memory usage: 0
+CPU usage: 55.7%
+Image 075-169.jpg: ('negative', 2.1352689266204834, 0, 55.7)
+Image 020-152.jpg: positive
+Time: 3.4278409481048584 seconds
+Memory usage: 0
+CPU usage: 22.5%
+Image 020-152.jpg: ('positive', 3.4278409481048584, 0, 22.5)
+Image 006-185.jpg: negative
+Time: 2.2673239707946777 seconds
+Memory usage: 0
+CPU usage: 34.1%
+Image 006-185.jpg: ('negative', 2.2673239707946777, 0, 34.1)
+Image 037-104.jpg: negative
+Time: 2.042124032974243 seconds
+Memory usage: 0
+CPU usage: 9.7%
+Image 037-104.jpg: ('negative', 2.042124032974243, 0, 9.7)
+Image 002-89.jpg: negative
+Time: 2.0352399349212646 seconds
+Memory usage: 0
+CPU usage: 17.8%
+Image 002-89.jpg: ('negative', 2.0352399349212646, 0, 17.8)
+Image 075-180.jpg: negative
+Time: 2.1002140045166016 seconds
+Memory usage: 0
+CPU usage: 30.4%
+Image 075-180.jpg: ('negative', 2.1002140045166016, 0, 30.4)
+Image 075-194.jpg: negative
+Time: 2.2385079860687256 seconds
+Memory usage: 0
+CPU usage: 28.6%
+Image 075-194.jpg: ('negative', 2.2385079860687256, 0, 28.6)
+Image 006-218.jpg: positive
+Time: 2.066850185394287 seconds
+Memory usage: 0
+CPU usage: 20.9%
+Image 006-218.jpg: ('positive', 2.066850185394287, 0, 20.9)
+Image 012-98.jpg: positive
+Time: 2.085427761077881 seconds
+Memory usage: 0
+CPU usage: 56.3%
+Image 012-98.jpg: ('positive', 2.085427761077881, 0, 56.3)
+Image 001-33.jpg: negative
+Time: 2.139349937438965 seconds
+Memory usage: 0
+CPU usage: 23.6%
+Image 001-33.jpg: ('negative', 2.139349937438965, 0, 23.6)
+Image 033-95.jpg: negative
+Time: 2.056835174560547 seconds
+Memory usage: 0
+CPU usage: 62.9%
+Image 033-95.jpg: ('negative', 2.056835174560547, 0, 62.9)
+Image 001-32.jpg: negative
+Time: 2.7873318195343018 seconds
+Memory usage: 0
+CPU usage: 83.4%
+Image 001-32.jpg: ('negative', 2.7873318195343018, 0, 83.4)
+Image 012-99.jpg: negative
+Time: 2.3254919052124023 seconds
+Memory usage: 0
+CPU usage: 63.9%
+Image 012-99.jpg: ('negative', 2.3254919052124023, 0, 63.9)
+Image 075-195.jpg: negative
+Time: 2.5922553539276123 seconds
+Memory usage: 0
+CPU usage: 63.0%
+Image 075-195.jpg: ('negative', 2.5922553539276123, 0, 63.0)
+Image 006-219.jpg: negative
+Time: 2.3988287448883057 seconds
+Memory usage: 0
+CPU usage: 70.7%
+Image 006-219.jpg: ('negative', 2.3988287448883057, 0, 70.7)
+Image 075-181.jpg: negative
+Time: 2.7769579887390137 seconds
+Memory usage: 0
+CPU usage: 80.1%
+Image 075-181.jpg: ('negative', 2.7769579887390137, 0, 80.1)
+Image 002-198.jpg: negative
+Time: 2.1248083114624023 seconds
+Memory usage: 0
+CPU usage: 66.4%
+Image 002-198.jpg: ('negative', 2.1248083114624023, 0, 66.4)
+Image 002-88.jpg: positive
+Time: 2.295285940170288 seconds
+Memory usage: 0
+CPU usage: 53.0%
+Image 002-88.jpg: ('positive', 2.295285940170288, 0, 53.0)
+Image 006-153.jpg: positive
+Time: 2.04426908493042 seconds
+Memory usage: 0
+CPU usage: 46.8%
+Image 006-153.jpg: ('positive', 2.04426908493042, 0, 46.8)
+Image 002-211.jpg: negative
+Time: 2.047079086303711 seconds
+Memory usage: 0
+CPU usage: 43.1%
+Image 002-211.jpg: ('negative', 2.047079086303711, 0, 43.1)
+Image 006-120.jpg: positive
+Time: 2.091153860092163 seconds
+Memory usage: 0
+CPU usage: 48.4%
+Image 006-120.jpg: ('positive', 2.091153860092163, 0, 48.4)
+Image 001-160.jpg: negative
+Time: 2.0525481700897217 seconds
+Memory usage: 0
+CPU usage: 42.1%
+Image 001-160.jpg: ('negative', 2.0525481700897217, 0, 42.1)
+Image 030-61.jpg: positive
+Time: 2.0648720264434814 seconds
+Memory usage: 0
+CPU usage: 39.2%
+Image 030-61.jpg: ('positive', 2.0648720264434814, 0, 39.2)
+Image 075-119.jpg: negative
+Time: 2.0790300369262695 seconds
+Memory usage: 0
+CPU usage: 33.0%
+Image 075-119.jpg: ('negative', 2.0790300369262695, 0, 33.0)
+Image 005-31.jpg: positive
+Time: 2.098109006881714 seconds
+Memory usage: 0
+CPU usage: 73.0%
+Image 005-31.jpg: ('positive', 2.098109006881714, 0, 73.0)
+Image 001-216.jpg: negative
+Time: 2.136894941329956 seconds
+Memory usage: 0
+CPU usage: 53.0%
+Image 001-216.jpg: ('negative', 2.136894941329956, 0, 53.0)
+Image 005-154.jpg: negative
+Time: 2.0774998664855957 seconds
+Memory usage: 0
+CPU usage: 50.9%
+Image 005-154.jpg: ('negative', 2.0774998664855957, 0, 50.9)
+Image 001-82.jpg: positive
+Time: 2.1428921222686768 seconds
+Memory usage: 0
+CPU usage: 55.9%
+Image 001-82.jpg: ('positive', 2.1428921222686768, 0, 55.9)
+Image 001-69.jpg: negative
+Time: 2.1144139766693115 seconds
+Memory usage: 0
+CPU usage: 53.0%
+Image 001-69.jpg: ('negative', 2.1144139766693115, 0, 53.0)
+Image 001-54.jpg: negative
+Time: 2.1276628971099854 seconds
+Memory usage: 0
+CPU usage: 53.3%
+Image 001-54.jpg: ('negative', 2.1276628971099854, 0, 53.3)
+Image 030-60.jpg: negative
+Time: 2.095197916030884 seconds
+Memory usage: 0
+CPU usage: 52.6%
+Image 030-60.jpg: ('negative', 2.095197916030884, 0, 52.6)
+Image 005-223.jpg: negative
+Time: 2.0891330242156982 seconds
+Memory usage: 0
+CPU usage: 17.6%
+Image 005-223.jpg: ('negative', 2.0891330242156982, 0, 17.6)
+Image 001-161.jpg: negative
+Time: 2.0671439170837402 seconds
+Memory usage: 0
+CPU usage: 33.3%
+Image 001-161.jpg: ('negative', 2.0671439170837402, 0, 33.3)
+Image 006-121.jpg: negative
+Time: 2.1599249839782715 seconds
+Memory usage: 0
+CPU usage: 14.6%
+Image 006-121.jpg: ('negative', 2.1599249839782715, 0, 14.6)
+Image 030-137.jpg: negative
+Time: 2.0514168739318848 seconds
+Memory usage: 0
+CPU usage: 18.3%
+Image 030-137.jpg: ('negative', 2.0514168739318848, 0, 18.3)
+Image 020-109.jpg: negative
+Time: 2.078497886657715 seconds
+Memory usage: 0
+CPU usage: 71.4%
+Image 020-109.jpg: ('negative', 2.078497886657715, 0, 71.4)
+Image 006-137.jpg: negative
+Time: 2.0631768703460693 seconds
+Memory usage: 0
+CPU usage: 14.3%
+Image 006-137.jpg: ('negative', 2.0631768703460693, 0, 14.3)
+Image 001-177.jpg: negative
+Time: 2.0306599140167236 seconds
+Memory usage: 0
+CPU usage: 12.5%
+Image 001-177.jpg: ('negative', 2.0306599140167236, 0, 12.5)
+Image 012-103.jpg: negative
+Time: 2.031355142593384 seconds
+Memory usage: 0
+CPU usage: 8.8%
+Image 012-103.jpg: ('negative', 2.031355142593384, 0, 8.8)
+Image 001-81.jpg: positive
+Time: 2.1616170406341553 seconds
+Memory usage: 0
+CPU usage: 25.9%
+Image 001-81.jpg: ('positive', 2.1616170406341553, 0, 25.9)
+Image 006-88.jpg: positive
+Time: 2.042922019958496 seconds
+Memory usage: 0
+CPU usage: 26.1%
+Image 006-88.jpg: ('positive', 2.042922019958496, 0, 26.1)
+Image 001-215.jpg: negative
+Time: 2.1019389629364014 seconds
+Memory usage: 0
+CPU usage: 26.1%
+Image 001-215.jpg: ('negative', 2.1019389629364014, 0, 26.1)
+Image 020-99.jpg: negative
+Time: 2.0537919998168945 seconds
+Memory usage: 0
+CPU usage: 51.8%
+Image 020-99.jpg: ('negative', 2.0537919998168945, 0, 51.8)
+Image 001-214.jpg: negative
+Time: 2.0587220191955566 seconds
+Memory usage: 0
+CPU usage: 29.9%
+Image 001-214.jpg: ('negative', 2.0587220191955566, 0, 29.9)
+Image 006-89.jpg: negative
+Time: 2.0604240894317627 seconds
+Memory usage: 0
+CPU usage: 26.4%
+Image 006-89.jpg: ('negative', 2.0604240894317627, 0, 26.4)
+Image 001-162.jpg: negative
+Time: 2.0547149181365967 seconds
+Memory usage: 0
+CPU usage: 40.6%
+Image 001-162.jpg: ('negative', 2.0547149181365967, 0, 40.6)
+Image 001-176.jpg: positive
+Time: 2.0921590328216553 seconds
+Memory usage: 0
+CPU usage: 31.9%
+Image 001-176.jpg: ('positive', 2.0921590328216553, 0, 31.9)
+Image 006-136.jpg: positive
+Time: 2.0581490993499756 seconds
+Memory usage: 0
+CPU usage: 35.3%
+Image 006-136.jpg: ('positive', 2.0581490993499756, 0, 35.3)
+Image 030-118.jpg: negative
+Time: 2.0677130222320557 seconds
+Memory usage: 0
+CPU usage: 31.2%
+Image 030-118.jpg: ('negative', 2.0677130222320557, 0, 31.2)
+Image 041-144.jpg: positive
+Time: 2.1069929599761963 seconds
+Memory usage: 0
+CPU usage: 34.2%
+Image 041-144.jpg: ('positive', 2.1069929599761963, 0, 34.2)
+Image 077-99.jpg: negative
+Time: 2.0566329956054688 seconds
+Memory usage: 0
+CPU usage: 30.3%
+Image 077-99.jpg: ('negative', 2.0566329956054688, 0, 30.3)
+Image 005-224.jpg: negative
+Time: 2.0818402767181396 seconds
+Memory usage: 0
+CPU usage: 44.4%
+Image 005-224.jpg: ('negative', 2.0818402767181396, 0, 44.4)
+Image 012-106.jpg: negative
+Time: 2.186650037765503 seconds
+Memory usage: 0
+CPU usage: 58.3%
+Image 012-106.jpg: ('negative', 2.186650037765503, 0, 58.3)
+Image 002-16.jpg: negative
+Time: 2.1297760009765625 seconds
+Memory usage: 0
+CPU usage: 50.8%
+Image 002-16.jpg: ('negative', 2.1297760009765625, 0, 50.8)
+Image 039-80.jpg: negative
+Time: 2.0492348670959473 seconds
+Memory usage: 0
+CPU usage: 60.1%
+Image 039-80.jpg: ('negative', 2.0492348670959473, 0, 60.1)
+Image 001-90.jpg: negative
+Time: 2.165356159210205 seconds
+Memory usage: 0
+CPU usage: 56.1%
+Image 001-90.jpg: ('negative', 2.165356159210205, 0, 56.1)
+Image 020-62.jpg: negative
+Time: 2.1092753410339355 seconds
+Memory usage: 0
+CPU usage: 46.7%
+Image 020-62.jpg: ('negative', 2.1092753410339355, 0, 46.7)
+Image 001-53.jpg: negative
+Time: 2.0797629356384277 seconds
+Memory usage: 0
+CPU usage: 69.1%
+Image 001-53.jpg: ('negative', 2.0797629356384277, 0, 69.1)
+Image 035-100.jpg: negative
+Time: 2.099976062774658 seconds
+Memory usage: 0
+CPU usage: 45.5%
+Image 035-100.jpg: ('negative', 2.099976062774658, 0, 45.5)
+Image 075-62.jpg: positive
+Time: 2.118549108505249 seconds
+Memory usage: 0
+CPU usage: 18.5%
+Image 075-62.jpg: ('positive', 2.118549108505249, 0, 18.5)
+Image 002-17.jpg: negative
+Time: 2.0503592491149902 seconds
+Memory usage: 0
+CPU usage: 13.2%
+Image 002-17.jpg: ('negative', 2.0503592491149902, 0, 13.2)
+Image 012-107.jpg: positive
+Time: 2.0866219997406006 seconds
+Memory usage: 0
+CPU usage: 49.8%
+Image 012-107.jpg: ('positive', 2.0866219997406006, 0, 49.8)
+Image 018-73.jpg: positive
+Time: 2.307295083999634 seconds
+Memory usage: 0
+CPU usage: 71.7%
+Image 018-73.jpg: ('positive', 2.307295083999634, 0, 71.7)
+Image 001-198.jpg: negative
+Time: 2.087074041366577 seconds
+Memory usage: 0
+CPU usage: 15.6%
+Image 001-198.jpg: ('negative', 2.087074041366577, 0, 15.6)
+Image 085-115.jpg: positive
+Time: 2.423184871673584 seconds
+Memory usage: 0
+CPU usage: 58.3%
+Image 085-115.jpg: ('positive', 2.423184871673584, 0, 58.3)
+Image 001-159.jpg: negative
+Time: 2.1056840419769287 seconds
+Memory usage: 0
+CPU usage: 16.9%
+Image 001-159.jpg: ('negative', 2.1056840419769287, 0, 16.9)
+Image 002-29.jpg: positive
+Time: 2.19461727142334 seconds
+Memory usage: 0
+CPU usage: 24.2%
+Image 002-29.jpg: ('positive', 2.19461727142334, 0, 24.2)
+Image 002-15.jpg: negative
+Time: 2.069765329360962 seconds
+Memory usage: 0
+CPU usage: 30.5%
+Image 002-15.jpg: ('negative', 2.069765329360962, 0, 30.5)
+Image 001-213.jpg: negative
+Time: 2.08058500289917 seconds
+Memory usage: 0
+CPU usage: 33.9%
+Image 001-213.jpg: ('negative', 2.08058500289917, 0, 33.9)
+Image 002-28.jpg: negative
+Time: 2.1351890563964844 seconds
+Memory usage: 0
+CPU usage: 51.7%
+Image 002-28.jpg: ('negative', 2.1351890563964844, 0, 51.7)
