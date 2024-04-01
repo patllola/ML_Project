@@ -11,7 +11,7 @@ import numpy as np
 from memory_profiler import profile
 # Load the saved model
 # model = tf.keras.models.load_model("/root/inferences/modelfile/knn_model.joblib")
-model = joblib.load("/Users/sandeepreddy/Desktop/Differentmodels/models5k/knn_model.joblib")
+model = joblib.load("/Users/sandeepreddy/Desktop/Differentmodels/models40k/knn_model.joblib")
 
 
 desktop_path = "/Users/sandeepreddy/Desktop/results"

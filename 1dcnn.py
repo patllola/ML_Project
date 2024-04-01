@@ -11,7 +11,7 @@ from memory_profiler import memory_usage
 import re  # Import the regular expression module
 
 # Load the saved model
-model = tf.keras.models.load_model("/Users/sandeepreddy/Desktop/Differentmodels/models5k/cnn2D_image_classification_model.h5")
+model = tf.keras.models.load_model("/Users/sandeepreddy/Desktop/Differentmodels/models40k/cnn2D_image_classification_model.h5")
 
 desktop_path = "/Users/sandeepreddy/Desktop/results"
 

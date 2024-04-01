@@ -9,7 +9,7 @@ import csv
 from memory_profiler import profile
 
 # Load the saved model
-model = tf.keras.models.load_model("/Users/sandeepreddy/Desktop/Differentmodels/models5k/fine_tuned_model")
+model = tf.keras.models.load_model("/Users/sandeepreddy/Desktop/Differentmodels/models40k/fine_tuned_model")
 
 
 # desktop_path = "/Users/sandeepreddy/Desktop/Images/Images"

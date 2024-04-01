@@ -16,7 +16,7 @@ from memory_profiler import profile
 # import matplotlib.pyplot as plt
 
 # Load the saved model
-model = joblib.load("/Users/sandeepreddy/Desktop/Differentmodels/models5k/best_svm_model_split_data.joblib")
+model = joblib.load("/Users/sandeepreddy/Desktop/Differentmodels/models40k/best_svm_model_split_data.joblib")
 
 # model = joblib.load("/Users/sandeepreddy/Desktop/Differentmodels/models40k/logisticregression.pkl")
 
