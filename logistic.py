@@ -120,6 +120,6 @@ def write_results_to_csv(output_csv_path, all_predictions,batch_runtime,total_cp
             csv_writer.writerow(["Total batch time:", batch_runtime])
             csv_writer.writerow(["Total cpu time:",total_cpu_usage])
 
-output_csv_path = os.path.join(desktop_path, 'beaglebone_data_logistic.csv')
+output_csv_path = os.path.join(desktop_path, 'mac_data_logistic.csv')
 input_path = '/media/debian/2E6B-CD5D/test/newresults/'
 main(input_path, output_csv_path)
