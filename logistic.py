@@ -11,9 +11,9 @@ import matplotlib.pyplot as plt
 from memory_profiler import profile
 
 #  loading the model
-model_filename = "/media/debian/2E6B-CD5D/models40k/logisticregression.pkl"
+model_filename = "/Users/sandeepreddy/Desktop/Differentmodels/models40k/logisticregression.pkl"
 loaded_model = joblib.load(model_filename)
-desktop_path = "/media/debian/2E6B-CD5D/Images/"
+desktop_path = "/Users/sandeepreddy/Desktop/results"
 
 desired_size = (227,227)
 def preprocess_image(image_path):
@@ -121,5 +121,5 @@ def write_results_to_csv(output_csv_path, all_predictions,batch_runtime,total_cp
             csv_writer.writerow(["Total cpu time:",total_cpu_usage])
 
 output_csv_path = os.path.join(desktop_path, 'mac_data_logistic.csv')
-input_path = '/media/debian/2E6B-CD5D/test/newresults/'
+input_path = '/Users/sandeepreddy/Desktop/testsample/'
 main(input_path, output_csv_path)
