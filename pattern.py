@@ -4,7 +4,7 @@ import re
 pattern = r'\d+\s+(\d+\.\d+)\s+MiB'
 
 # Open the file and read its contents
-with open('/Users/sandeepreddy/Desktop/cloud/ML_Project/cnn.txt', 'r') as file:
+with open('/Users/sandeepreddy/Desktop/cloud/ML_Project/logistic.txt', 'r') as file:
     content = file.read()
 
 matches = re.findall(pattern, content)
@@ -20,6 +20,7 @@ for i in range(2, len(mem_usage_values), 4):
 average = sum(mem_usage_values) / len(mem_usage_values)
 
 print("Average memory usage:", average)
+print("knn")
 
 
 

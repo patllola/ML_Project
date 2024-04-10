@@ -30,19 +30,19 @@ def preprocess_image(image_path):
     # img /= 255.0  # Normalize pixel values to [0, 1]
     return features
 
-# @profile
-# def calling_decorators(image_path):
-#     features = preprocess_image(image_path)
-#     prediction = loaded_model.predict(features)
-#     return prediction 
+@profile
+def calling_decorators(image_path):
+    features = preprocess_image(image_path)
+    prediction = loaded_model.predict(features)
+    return prediction 
 
 def predict_single_image(image_path):
     # start_time = time.time()
     # psutil.cpu_percent(1)
     # initial_memory_usage =psutil.virtual_memory()[2]
-    # prediction= calling_decorators(image_path)
-    features = preprocess_image(image_path)
-    prediction = loaded_model.predict(features)
+    prediction= calling_decorators(image_path)
+    # features = preprocess_image(image_path)
+    # prediction = loaded_model.predict(features)
     # final_cpu_usage = psutil.cpu_percent(1)
     # end_time = time.time()
     # final_memory_usage = psutil.virtual_memory()[4]

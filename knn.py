@@ -30,19 +30,19 @@ def preprocess_image(image_path):
     return img
 
 
-# @profile
-# def calling_decorators(image_path):
-#     img = preprocess_image(image_path)
-#     prediction = model.predict(img)
-#     return prediction 
+@profile
+def calling_decorators(image_path):
+    img = preprocess_image(image_path)
+    prediction = model.predict(img)
+    return prediction 
 
 def predict_single_image(image_path):
     # start_time = time.time()
     # psutil.cpu_percent(1)
     # initial_memory_usage =psutil.virtual_memory()[2]
-    # prediction=calling_decorators(image_path)
-    img = preprocess_image(image_path)
-    prediction = model.predict(img)
+    prediction=calling_decorators(image_path)
+    # img = preprocess_image(image_path)
+    # prediction = model.predict(img)
     # final_cpu_usage = psutil.cpu_percent(1)
     # end_time = time.time()
     # final_memory_usage = psutil.virtual_memory()[4]
@@ -60,7 +60,7 @@ def main(input_path, output_csv_path):
         return
         
     elif os.path.isdir(input_path):
-        num_iterations = 10
+        num_iterations = 1
         batch_size = 100
         all_predictions = []
         all_runtimes = []
