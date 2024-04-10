@@ -6,6 +6,7 @@ import psutil
 import time
 import matplotlib.pyplot as plt
 import csv
+import random
 from memory_profiler import profile
 from memory_profiler import memory_usage
 import re  # Import the regular expression module
@@ -22,20 +23,20 @@ def preprocess_image(image_path):
     img /= 255.0  # Normalize pixel values to [0, 1]
     return img
 
-# @profile
-# def calling_decorators(image_path):
-#     img = preprocess_image(image_path)
-#     prediction =  model.predict(img)
-#     return prediction
+@profile
+def calling_decorators(image_path):
+    img = preprocess_image(image_path)
+    prediction =  model.predict(img)
+    return prediction
 
 def predict_single_image(image_path):
     # process = psutil.Process()
     # start_time = time.time()
     # psutil.cpu_percent(1)
     # initial_memory_usage = psutil.virtual_memory()[2]
-    # prediction = calling_decorators(image_path)
-    img = preprocess_image(image_path)
-    prediction =  model.predict(img)
+    prediction = calling_decorators(image_path)
+    # img = preprocess_image(image_path)
+    # prediction =  model.predict(img)
     # end_time = time.time()
     # final_cpu_usage = psutil.cpu_percent(1)
     # final_memory_usage = psutil.virtual_memory()[4]
@@ -53,7 +54,7 @@ def main(input_path, output_csv_path):
         return
         
     elif os.path.isdir(input_path):
-        num_iterations = 10
+        num_iterations = 1
         batch_size = 100
         all_predictions = []
         all_runtimes = []
@@ -63,10 +64,13 @@ def main(input_path, output_csv_path):
         for _ in range(num_iterations):
             batch_predictions = []
             start_time = time.time()
-            cpu_usage_start = psutil.cpu_percent(1)
+            cpu_usage_start = psutil.cpu_percent(5)
             print(f"CPU Usage (Before): {cpu_usage_start}%")
             
-            for i, filename in enumerate(os.listdir(input_path)):
+            files = os.listdir(input_path)
+            random.shuffle(files)
+            
+            for i, filename in enumerate(files):
                 if filename.endswith(".jpg") or filename.endswith(".jpeg") or filename.endswith(".png"):
                     image_path = os.path.join(input_path, filename)
                     predicted_class = predict_single_image(image_path)
@@ -77,8 +81,8 @@ def main(input_path, output_csv_path):
                         break
             
             end_time = time.time()
-            cpu_usage_end = psutil.cpu_percent(1)
-            print(f"CPU Usage (after): {cpu_usage_end}%")
+            cpu_usage_end = psutil.cpu_percent(5)
+            # print(f"CPU Usage (after): {cpu_usage_end}%")
             batch_runtime = end_time - start_time
             print(f"Batch Runtime: {batch_runtime} seconds")
             total_cpu_usage= cpu_usage_end

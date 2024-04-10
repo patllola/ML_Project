@@ -64,7 +64,7 @@ def main(input_path, output_csv_path):
         return
         
     elif os.path.isdir(input_path):
-        num_iterations = 10
+        num_iterations = 1
         batch_size = 100
         all_predictions = []
         all_runtimes = []
@@ -121,5 +121,5 @@ def write_results_to_csv(output_csv_path, all_predictions,batch_runtime,total_cp
             csv_writer.writerow(["Total cpu time:",total_cpu_usage])
 
 output_csv_path = os.path.join(desktop_path, 'mac_data_logistic.csv')
-input_path = '/Users/sandeepreddy/Desktop/testsample/'
+input_path = '/Users/sandeepreddy/Desktop/test/'
 main(input_path, output_csv_path)
