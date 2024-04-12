@@ -12,10 +12,14 @@ from memory_profiler import profile
 # from tensorflow.keras.preprocessing import image
 # import numpy as np
 # import psutil
-# import time
+import time
 # import matplotlib.pyplot as plt
 
 # Load the saved model
+
+
+start_time = time.time()
+print(f"Start time of cpu, {start_time} sec")
 model = joblib.load("/Users/sandeepreddy/Desktop/Differentmodels/models40k/best_svm_model_split_data.joblib")
 
 # model = joblib.load("/Users/sandeepreddy/Desktop/Differentmodels/models40k/logisticregression.pkl")
@@ -123,8 +127,12 @@ def write_results_to_csv(output_csv_path, all_predictions,batch_runtime,total_cp
                 
             csv_writer.writerow(["Total batch time:", batch_runtime])
             csv_writer.writerow(["Total cpu time:",total_cpu_usage])
-
+            end_time = time.time()
+            print(f"Start time of cpu, {end_time} sec")
 
 
 output_csv_path = os.path.join(desktop_path, 'mac_data_svm.csv')
 main(input_path,output_csv_path)
+
+
+
