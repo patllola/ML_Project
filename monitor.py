@@ -1,7 +1,6 @@
 import psutil
 import time
 import pandas as pd
-import matplotlib.pyplot as plt
 
 loads = []
 try:
@@ -9,26 +8,22 @@ try:
         cpu_percent = psutil.cpu_percent(interval=1)
         sampling_time = time.strftime("%I:%M:%S")
         loads.append((sampling_time, cpu_percent))
-        # print(loads)
 
-        loads_df = pd.DataFrame(loads).rename(columns={0: 'time', 1: 'cpu_percent'})
 except KeyboardInterrupt:
-    if len(loads_df) > 0:
-        # average_time = loads_df['time'].mean()
-        average_cpu_percent = loads_df['cpu_percent'].mean()
-        # print("Average time:", average_time)
-        print("Average CPU percent:", average_cpu_percent)
-    else:
-        print("No data collected.")
+    print("Experiment interrupted. Saving results.")
+    loads_df = pd.DataFrame(loads, columns=['time_stamp', 'cpu_percent'])
+    loads_df.to_csv("cpu_time_results.csv", index=False)
 
+    # Calculate average CPU usage before and during experiment
+    stime_when_you_start_experiment = "HH:MM:SS"  # Set the start time of your experiment
+    etime_when_you_end_experiment = "HH:MM:SS"     # Set the end time of your experiment
 
-    
-    # plt.fill_between(range(loads_df.shape[0]), loads_df.cpu_percent)
-    # plt.xlabel('Time')
-    # plt.ylabel('CPU Percent')
-    # plt.title('CPU Usage Over Time')
-    # plt.show()
+    before_experiment = loads_df[loads_df['time_stamp'] < stime_when_you_start_experiment]
+    during_experiment = loads_df[(loads_df['time_stamp'] >= stime_when_you_start_experiment) & 
+                                 (loads_df['time_stamp'] <= etime_when_you_end_experiment)]
 
- 
+    avg_cpu_before_experiment = before_experiment['cpu_percent'].mean()
+    avg_cpu_during_experiment = during_experiment['cpu_percent'].mean()
 
- 
+    print("Average CPU percent before experiment:", avg_cpu_before_experiment)
+    print("Average CPU percent during experiment:", avg_cpu_during_experiment)

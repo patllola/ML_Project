@@ -4,7 +4,7 @@ import re
 pattern = r'\d+\s+(\d+\.\d+)\s+MiB'
 
 # Open the file and read its contents
-with open('/Users/sandeepreddy/Desktop/cloud/ML_Project/logistic.txt', 'r') as file:
+with open('/Users/sandeepreddy/Desktop/cloud/ML_Project/svm.txt', 'r') as file:
     content = file.read()
 
 matches = re.findall(pattern, content)
