@@ -8,6 +8,10 @@ import matplotlib.pyplot as plt
 import csv
 from memory_profiler import profile
 
+
+
+start_time = time.time()
+print(f"Start time of cpu, {start_time} sec")
 # Load the saved model
 model = tf.keras.models.load_model("/Users/sandeepreddy/Desktop/Differentmodels/models40k/fine_tuned_model")
 
@@ -108,6 +112,8 @@ def write_results_to_csv(output_csv_path, all_predictions,batch_runtime,total_cp
                 
             csv_writer.writerow(["Total batch time:", batch_runtime])
             csv_writer.writerow(["Total cpu time:",total_cpu_usage])
+            end_time = time.time()
+            print(f"Start time of cpu, {end_time} sec")
 
 output_csv_path = os.path.join(desktop_path, 'mac_data_cnn.csv')
 input_path = '/Users/sandeepreddy/Desktop/test/'

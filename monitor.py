@@ -12,7 +12,7 @@ try:
 except KeyboardInterrupt:
     print("Experiment interrupted. Saving results.")
     loads_df = pd.DataFrame(loads, columns=['time_stamp', 'cpu_percent'])
-    loads_df.to_csv("/Users/sandeepreddy/Desktop/cpu_time_results.csv", index=False)
+    loads_df.to_csv("/Users/sandeepreddy/Desktop/cpu_time_cnn_results10.csv", index=False)
 
     # Calculate average CPU usage before and during experiment
     # stime_when_you_start_experiment = "11:01:56"  # Set the start time of your experiment

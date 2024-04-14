@@ -1,607 +1,1014 @@
-Start time of cpu, 1712898546.3837178 sec
-CPU Usage (Before): 16.9%
+Start time of cpu, 1713115547.421589 sec
+CPU Usage (Before): 10.8%
 Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    42    210.0 MiB    210.0 MiB           1   @profile
+    42    299.9 MiB    299.9 MiB           1   @profile
     43                                         def calling_decorators(image_path):
-    44    217.0 MiB      7.0 MiB           1       img = preprocess_image(image_path)
-    45    830.3 MiB    613.2 MiB           1       prediction = model.predict(img)
-    46    830.3 MiB      0.0 MiB           1       return prediction 
-
-
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    42    830.4 MiB    830.4 MiB           1   @profile
-    43                                         def calling_decorators(image_path):
-    44    830.4 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    830.4 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    830.4 MiB      0.0 MiB           1       return prediction 
+    44    305.8 MiB      6.0 MiB           1       img = preprocess_image(image_path)
+    45    836.7 MiB    530.9 MiB           1       prediction = model.predict(img)
+    46    836.7 MiB      0.0 MiB           1       return prediction 
 
 
 Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    42    830.4 MiB    830.4 MiB           1   @profile
+    42    836.8 MiB    836.8 MiB           1   @profile
     43                                         def calling_decorators(image_path):
-    44    834.2 MiB      3.8 MiB           1       img = preprocess_image(image_path)
-    45    834.2 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    834.2 MiB      0.0 MiB           1       return prediction 
+    44    840.3 MiB      3.6 MiB           1       img = preprocess_image(image_path)
+    45    840.3 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    840.3 MiB      0.0 MiB           1       return prediction 
 
 
 Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    42    834.2 MiB    834.2 MiB           1   @profile
+    42    840.3 MiB    840.3 MiB           1   @profile
     43                                         def calling_decorators(image_path):
-    44    834.2 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    834.2 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    834.2 MiB      0.0 MiB           1       return prediction 
+    44    840.4 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    840.4 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    840.4 MiB      0.0 MiB           1       return prediction 
 
 
 Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    42    834.2 MiB    834.2 MiB           1   @profile
+    42    840.4 MiB    840.4 MiB           1   @profile
     43                                         def calling_decorators(image_path):
-    44    835.7 MiB      1.5 MiB           1       img = preprocess_image(image_path)
-    45    835.7 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    835.7 MiB      0.0 MiB           1       return prediction 
+    44    840.4 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    840.4 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    840.4 MiB      0.0 MiB           1       return prediction 
 
 
 Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    42    835.7 MiB    835.7 MiB           1   @profile
+    42    840.4 MiB    840.4 MiB           1   @profile
     43                                         def calling_decorators(image_path):
-    44    835.7 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    835.7 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    835.7 MiB      0.0 MiB           1       return prediction 
+    44    840.4 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    840.4 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    840.4 MiB      0.0 MiB           1       return prediction 
 
 
 Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    42    835.7 MiB    835.7 MiB           1   @profile
+    42    840.4 MiB    840.4 MiB           1   @profile
     43                                         def calling_decorators(image_path):
-    44    835.7 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    835.7 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    835.7 MiB      0.0 MiB           1       return prediction 
+    44    840.4 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    840.4 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    840.4 MiB      0.0 MiB           1       return prediction 
 
 
 Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    42    835.7 MiB    835.7 MiB           1   @profile
+    42    840.4 MiB    840.4 MiB           1   @profile
     43                                         def calling_decorators(image_path):
-    44    835.7 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    835.7 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    835.7 MiB      0.0 MiB           1       return prediction 
+    44    840.4 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    840.4 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    840.4 MiB      0.0 MiB           1       return prediction 
 
 
 Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    42    835.7 MiB    835.7 MiB           1   @profile
+    42    840.4 MiB    840.4 MiB           1   @profile
     43                                         def calling_decorators(image_path):
-    44    835.8 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    835.8 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    835.8 MiB      0.0 MiB           1       return prediction 
+    44    840.4 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    840.4 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    840.4 MiB      0.0 MiB           1       return prediction 
 
 
 Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    42    835.8 MiB    835.8 MiB           1   @profile
+    42    840.4 MiB    840.4 MiB           1   @profile
     43                                         def calling_decorators(image_path):
-    44    835.8 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    835.8 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    835.8 MiB      0.0 MiB           1       return prediction 
+    44    840.4 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    840.4 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    840.4 MiB      0.0 MiB           1       return prediction 
 
 
 Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    42    835.8 MiB    835.8 MiB           1   @profile
+    42    840.4 MiB    840.4 MiB           1   @profile
     43                                         def calling_decorators(image_path):
-    44    835.8 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    835.8 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    835.8 MiB      0.0 MiB           1       return prediction 
+    44    840.4 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    840.4 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    840.4 MiB      0.0 MiB           1       return prediction 
 
 
 Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    42    835.8 MiB    835.8 MiB           1   @profile
+    42    840.4 MiB    840.4 MiB           1   @profile
     43                                         def calling_decorators(image_path):
-    44    835.8 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    835.8 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    835.8 MiB      0.0 MiB           1       return prediction 
+    44    840.4 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    840.4 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    840.4 MiB      0.0 MiB           1       return prediction 
 
 
 Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    42    835.8 MiB    835.8 MiB           1   @profile
+    42    840.4 MiB    840.4 MiB           1   @profile
     43                                         def calling_decorators(image_path):
-    44    835.8 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    835.8 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    835.8 MiB      0.0 MiB           1       return prediction 
+    44    840.4 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    840.4 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    840.4 MiB      0.0 MiB           1       return prediction 
 
 
 Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    42    835.8 MiB    835.8 MiB           1   @profile
+    42    840.4 MiB    840.4 MiB           1   @profile
     43                                         def calling_decorators(image_path):
-    44    836.0 MiB      0.3 MiB           1       img = preprocess_image(image_path)
-    45    836.0 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    836.0 MiB      0.0 MiB           1       return prediction 
+    44    840.4 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    840.4 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    840.4 MiB      0.0 MiB           1       return prediction 
 
 
 Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    42    836.0 MiB    836.0 MiB           1   @profile
+    42    840.4 MiB    840.4 MiB           1   @profile
     43                                         def calling_decorators(image_path):
-    44    836.0 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    836.0 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    836.0 MiB      0.0 MiB           1       return prediction 
+    44    840.4 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    840.4 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    840.4 MiB      0.0 MiB           1       return prediction 
 
 
 Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    42    836.0 MiB    836.0 MiB           1   @profile
+    42    840.4 MiB    840.4 MiB           1   @profile
     43                                         def calling_decorators(image_path):
-    44    836.0 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    836.0 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    836.0 MiB      0.0 MiB           1       return prediction 
+    44    840.4 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    840.3 MiB     -0.1 MiB           1       prediction = model.predict(img)
+    46    840.3 MiB      0.0 MiB           1       return prediction 
 
 
 Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    42    836.0 MiB    836.0 MiB           1   @profile
+    42    840.3 MiB    840.3 MiB           1   @profile
     43                                         def calling_decorators(image_path):
-    44    836.0 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    836.0 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    836.0 MiB      0.0 MiB           1       return prediction 
+    44    840.7 MiB      0.4 MiB           1       img = preprocess_image(image_path)
+    45    840.7 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    840.7 MiB      0.0 MiB           1       return prediction 
 
 
 Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    42    836.0 MiB    836.0 MiB           1   @profile
+    42    840.7 MiB    840.7 MiB           1   @profile
     43                                         def calling_decorators(image_path):
-    44    836.0 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    836.0 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    836.0 MiB      0.0 MiB           1       return prediction 
+    44    840.7 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    840.7 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    840.7 MiB      0.0 MiB           1       return prediction 
 
 
 Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    42    836.0 MiB    836.0 MiB           1   @profile
+    42    840.7 MiB    840.7 MiB           1   @profile
     43                                         def calling_decorators(image_path):
-    44    836.0 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    836.0 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    836.0 MiB      0.0 MiB           1       return prediction 
+    44    840.7 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    840.7 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    840.7 MiB      0.0 MiB           1       return prediction 
 
 
 Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    42    836.0 MiB    836.0 MiB           1   @profile
+    42    840.7 MiB    840.7 MiB           1   @profile
     43                                         def calling_decorators(image_path):
-    44    836.0 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    836.0 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    836.0 MiB      0.0 MiB           1       return prediction 
+    44    840.7 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    840.7 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    840.7 MiB      0.0 MiB           1       return prediction 
 
 
 Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    42    836.0 MiB    836.0 MiB           1   @profile
+    42    840.7 MiB    840.7 MiB           1   @profile
     43                                         def calling_decorators(image_path):
-    44    836.0 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    836.0 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    836.0 MiB      0.0 MiB           1       return prediction 
+    44    840.7 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    840.7 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    840.7 MiB      0.0 MiB           1       return prediction 
 
 
 Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    42    836.0 MiB    836.0 MiB           1   @profile
+    42    840.7 MiB    840.7 MiB           1   @profile
     43                                         def calling_decorators(image_path):
-    44    836.0 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    836.0 MiB     -0.1 MiB           1       prediction = model.predict(img)
-    46    836.0 MiB      0.0 MiB           1       return prediction 
+    44    840.7 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    840.7 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    840.7 MiB      0.0 MiB           1       return prediction 
 
 
 Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    42    836.0 MiB    836.0 MiB           1   @profile
+    42    840.7 MiB    840.7 MiB           1   @profile
     43                                         def calling_decorators(image_path):
-    44    836.0 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    836.0 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    836.0 MiB      0.0 MiB           1       return prediction 
+    44    840.9 MiB      0.2 MiB           1       img = preprocess_image(image_path)
+    45    840.9 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    840.9 MiB      0.0 MiB           1       return prediction 
 
 
 Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    42    836.0 MiB    836.0 MiB           1   @profile
+    42    840.9 MiB    840.9 MiB           1   @profile
     43                                         def calling_decorators(image_path):
-    44    836.0 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    836.0 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    836.0 MiB      0.0 MiB           1       return prediction 
+    44    840.9 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    840.9 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    840.9 MiB      0.0 MiB           1       return prediction 
 
 
 Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    42    836.0 MiB    836.0 MiB           1   @profile
+    42    840.9 MiB    840.9 MiB           1   @profile
     43                                         def calling_decorators(image_path):
-    44    836.0 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    836.0 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    836.0 MiB      0.0 MiB           1       return prediction 
+    44    840.9 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    840.9 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    840.9 MiB      0.0 MiB           1       return prediction 
 
 
 Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    42    836.0 MiB    836.0 MiB           1   @profile
+    42    840.9 MiB    840.9 MiB           1   @profile
     43                                         def calling_decorators(image_path):
-    44    836.0 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    836.0 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    836.0 MiB      0.0 MiB           1       return prediction 
+    44    841.0 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    841.0 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    841.0 MiB      0.0 MiB           1       return prediction 
 
 
 Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    42    836.0 MiB    836.0 MiB           1   @profile
+    42    841.0 MiB    841.0 MiB           1   @profile
     43                                         def calling_decorators(image_path):
-    44    836.0 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    836.0 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    836.0 MiB      0.0 MiB           1       return prediction 
+    44    841.0 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    841.0 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    841.0 MiB      0.0 MiB           1       return prediction 
 
 
 Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    42    836.0 MiB    836.0 MiB           1   @profile
+    42    841.0 MiB    841.0 MiB           1   @profile
     43                                         def calling_decorators(image_path):
-    44    836.0 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    836.0 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    836.0 MiB      0.0 MiB           1       return prediction 
+    44    841.0 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    841.0 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    841.0 MiB      0.0 MiB           1       return prediction 
 
 
 Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    42    836.0 MiB    836.0 MiB           1   @profile
+    42    841.0 MiB    841.0 MiB           1   @profile
     43                                         def calling_decorators(image_path):
-    44    836.0 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    829.6 MiB     -6.4 MiB           1       prediction = model.predict(img)
-    46    829.6 MiB      0.0 MiB           1       return prediction 
+    44    841.0 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    841.0 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    841.0 MiB      0.0 MiB           1       return prediction 
 
 
 Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    42    829.6 MiB    829.6 MiB           1   @profile
+    42    841.0 MiB    841.0 MiB           1   @profile
     43                                         def calling_decorators(image_path):
-    44    829.6 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    829.6 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    829.6 MiB      0.0 MiB           1       return prediction 
+    44    841.0 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    841.0 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    841.0 MiB      0.0 MiB           1       return prediction 
 
 
 Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    42    829.6 MiB    829.6 MiB           1   @profile
+    42    841.0 MiB    841.0 MiB           1   @profile
     43                                         def calling_decorators(image_path):
-    44    829.6 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    829.6 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    829.6 MiB      0.0 MiB           1       return prediction 
+    44    841.0 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    841.0 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    841.0 MiB      0.0 MiB           1       return prediction 
 
 
 Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    42    829.6 MiB    829.6 MiB           1   @profile
+    42    841.0 MiB    841.0 MiB           1   @profile
     43                                         def calling_decorators(image_path):
-    44    829.6 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    821.3 MiB     -8.3 MiB           1       prediction = model.predict(img)
-    46    821.3 MiB      0.0 MiB           1       return prediction 
+    44    841.0 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    841.0 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    841.0 MiB      0.0 MiB           1       return prediction 
 
 
 Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    42    821.3 MiB    821.3 MiB           1   @profile
+    42    841.0 MiB    841.0 MiB           1   @profile
     43                                         def calling_decorators(image_path):
-    44    821.3 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    821.3 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    821.3 MiB      0.0 MiB           1       return prediction 
+    44    841.0 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    841.0 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    841.0 MiB      0.0 MiB           1       return prediction 
 
 
 Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    42    821.3 MiB    821.3 MiB           1   @profile
+    42    841.0 MiB    841.0 MiB           1   @profile
     43                                         def calling_decorators(image_path):
-    44    821.4 MiB      0.1 MiB           1       img = preprocess_image(image_path)
-    45    821.4 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    821.4 MiB      0.0 MiB           1       return prediction 
+    44    841.0 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    841.0 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    841.0 MiB      0.0 MiB           1       return prediction 
 
 
 Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    42    821.4 MiB    821.4 MiB           1   @profile
+    42    841.0 MiB    841.0 MiB           1   @profile
     43                                         def calling_decorators(image_path):
-    44    821.4 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    821.4 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    821.4 MiB      0.0 MiB           1       return prediction 
+    44    841.0 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    841.0 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    841.0 MiB      0.0 MiB           1       return prediction 
 
 
 Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    42    821.4 MiB    821.4 MiB           1   @profile
+    42    841.0 MiB    841.0 MiB           1   @profile
     43                                         def calling_decorators(image_path):
-    44    821.4 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    821.4 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    821.4 MiB      0.0 MiB           1       return prediction 
+    44    841.0 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    841.0 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    841.0 MiB      0.0 MiB           1       return prediction 
 
 
 Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    42    821.4 MiB    821.4 MiB           1   @profile
+    42    841.0 MiB    841.0 MiB           1   @profile
     43                                         def calling_decorators(image_path):
-    44    821.4 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    821.4 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    821.4 MiB      0.0 MiB           1       return prediction 
+    44    841.0 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    841.0 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    841.0 MiB      0.0 MiB           1       return prediction 
 
 
 Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    42    821.4 MiB    821.4 MiB           1   @profile
+    42    841.0 MiB    841.0 MiB           1   @profile
     43                                         def calling_decorators(image_path):
-    44    821.4 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    821.4 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    821.4 MiB      0.0 MiB           1       return prediction 
+    44    841.0 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    841.0 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    841.0 MiB      0.0 MiB           1       return prediction 
 
 
 Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    42    821.4 MiB    821.4 MiB           1   @profile
+    42    841.0 MiB    841.0 MiB           1   @profile
     43                                         def calling_decorators(image_path):
-    44    821.4 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    821.4 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    821.4 MiB      0.0 MiB           1       return prediction 
+    44    841.0 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    841.0 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    841.0 MiB      0.0 MiB           1       return prediction 
 
 
 Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    42    821.4 MiB    821.4 MiB           1   @profile
+    42    841.0 MiB    841.0 MiB           1   @profile
     43                                         def calling_decorators(image_path):
-    44    821.4 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    821.4 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    821.4 MiB      0.0 MiB           1       return prediction 
+    44    841.0 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    841.0 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    841.0 MiB      0.0 MiB           1       return prediction 
 
 
 Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    42    821.4 MiB    821.4 MiB           1   @profile
+    42    841.0 MiB    841.0 MiB           1   @profile
     43                                         def calling_decorators(image_path):
-    44    821.4 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    821.4 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    821.4 MiB      0.0 MiB           1       return prediction 
+    44    841.0 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    841.0 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    841.0 MiB      0.0 MiB           1       return prediction 
 
 
 Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    42    821.4 MiB    821.4 MiB           1   @profile
+    42    841.0 MiB    841.0 MiB           1   @profile
     43                                         def calling_decorators(image_path):
-    44    821.4 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    821.4 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    821.4 MiB      0.0 MiB           1       return prediction 
+    44    844.5 MiB      3.6 MiB           1       img = preprocess_image(image_path)
+    45    844.5 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    844.5 MiB      0.0 MiB           1       return prediction 
 
 
 Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    42    821.4 MiB    821.4 MiB           1   @profile
+    42    844.5 MiB    844.5 MiB           1   @profile
     43                                         def calling_decorators(image_path):
-    44    821.4 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    821.4 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    821.4 MiB      0.0 MiB           1       return prediction 
+    44    844.5 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    844.5 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    844.5 MiB      0.0 MiB           1       return prediction 
 
 
 Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    42    821.4 MiB    821.4 MiB           1   @profile
+    42    844.5 MiB    844.5 MiB           1   @profile
     43                                         def calling_decorators(image_path):
-    44    821.4 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    821.4 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    821.4 MiB      0.0 MiB           1       return prediction 
+    44    844.5 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    844.5 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    844.5 MiB      0.0 MiB           1       return prediction 
 
 
 Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    42    821.4 MiB    821.4 MiB           1   @profile
+    42    844.5 MiB    844.5 MiB           1   @profile
     43                                         def calling_decorators(image_path):
-    44    821.4 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    821.4 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    821.4 MiB      0.0 MiB           1       return prediction 
+    44    844.5 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    844.5 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    844.5 MiB      0.0 MiB           1       return prediction 
 
 
 Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    42    821.4 MiB    821.4 MiB           1   @profile
+    42    844.5 MiB    844.5 MiB           1   @profile
     43                                         def calling_decorators(image_path):
-    44    821.4 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    821.4 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    821.4 MiB      0.0 MiB           1       return prediction 
+    44    844.5 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    844.5 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    844.5 MiB      0.0 MiB           1       return prediction 
 
 
 Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    42    821.4 MiB    821.4 MiB           1   @profile
+    42    844.5 MiB    844.5 MiB           1   @profile
     43                                         def calling_decorators(image_path):
-    44    821.4 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    821.4 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    821.4 MiB      0.0 MiB           1       return prediction 
+    44    844.5 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    844.5 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    844.5 MiB      0.0 MiB           1       return prediction 
 
 
 Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    42    821.4 MiB    821.4 MiB           1   @profile
+    42    844.5 MiB    844.5 MiB           1   @profile
     43                                         def calling_decorators(image_path):
-    44    821.4 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    821.4 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    821.4 MiB      0.0 MiB           1       return prediction 
+    44    844.5 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    844.5 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    844.5 MiB      0.0 MiB           1       return prediction 
 
 
 Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    42    821.4 MiB    821.4 MiB           1   @profile
+    42    844.5 MiB    844.5 MiB           1   @profile
     43                                         def calling_decorators(image_path):
-    44    821.4 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    821.4 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    821.4 MiB      0.0 MiB           1       return prediction 
+    44    844.5 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    844.5 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    844.5 MiB      0.0 MiB           1       return prediction 
 
 
 Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    42    821.4 MiB    821.4 MiB           1   @profile
+    42    844.5 MiB    844.5 MiB           1   @profile
     43                                         def calling_decorators(image_path):
-    44    821.4 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    821.4 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    821.4 MiB      0.0 MiB           1       return prediction 
+    44    844.5 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    844.5 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    844.5 MiB      0.0 MiB           1       return prediction 
 
 
 Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    42    821.4 MiB    821.4 MiB           1   @profile
+    42    844.5 MiB    844.5 MiB           1   @profile
     43                                         def calling_decorators(image_path):
-    44    821.4 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    821.4 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    821.4 MiB      0.0 MiB           1       return prediction 
+    44    844.5 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    844.5 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    844.5 MiB      0.0 MiB           1       return prediction 
 
 
 Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    42    821.4 MiB    821.4 MiB           1   @profile
+    42    844.5 MiB    844.5 MiB           1   @profile
     43                                         def calling_decorators(image_path):
-    44    821.4 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    821.4 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    821.4 MiB      0.0 MiB           1       return prediction 
+    44    844.5 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    844.5 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    844.5 MiB      0.0 MiB           1       return prediction 
 
 
 Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    42    821.4 MiB    821.4 MiB           1   @profile
+    42    844.5 MiB    844.5 MiB           1   @profile
     43                                         def calling_decorators(image_path):
-    44    821.4 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    789.6 MiB    -31.8 MiB           1       prediction = model.predict(img)
-    46    789.6 MiB      0.0 MiB           1       return prediction 
+    44    844.5 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    844.5 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    844.5 MiB      0.0 MiB           1       return prediction 
 
 
 Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    42    789.6 MiB    789.6 MiB           1   @profile
+    42    844.5 MiB    844.5 MiB           1   @profile
     43                                         def calling_decorators(image_path):
-    44    789.6 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    789.6 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    789.6 MiB      0.0 MiB           1       return prediction 
+    44    844.5 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    844.5 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    844.5 MiB      0.0 MiB           1       return prediction 
 
 
 Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    42    789.6 MiB    789.6 MiB           1   @profile
+    42    844.5 MiB    844.5 MiB           1   @profile
     43                                         def calling_decorators(image_path):
-    44    789.7 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    779.1 MiB    -10.5 MiB           1       prediction = model.predict(img)
+    44    844.5 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    844.5 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    844.5 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    42    844.5 MiB    844.5 MiB           1   @profile
+    43                                         def calling_decorators(image_path):
+    44    844.5 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    844.5 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    844.5 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    42    844.5 MiB    844.5 MiB           1   @profile
+    43                                         def calling_decorators(image_path):
+    44    844.5 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    844.5 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    844.5 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    42    844.5 MiB    844.5 MiB           1   @profile
+    43                                         def calling_decorators(image_path):
+    44    844.5 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    844.5 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    844.5 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    42    844.5 MiB    844.5 MiB           1   @profile
+    43                                         def calling_decorators(image_path):
+    44    844.5 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    844.5 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    844.5 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    42    844.5 MiB    844.5 MiB           1   @profile
+    43                                         def calling_decorators(image_path):
+    44    844.5 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    844.5 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    844.5 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    42    844.5 MiB    844.5 MiB           1   @profile
+    43                                         def calling_decorators(image_path):
+    44    844.5 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    844.5 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    844.5 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    42    844.5 MiB    844.5 MiB           1   @profile
+    43                                         def calling_decorators(image_path):
+    44    844.5 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    844.5 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    844.5 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    42    844.5 MiB    844.5 MiB           1   @profile
+    43                                         def calling_decorators(image_path):
+    44    844.5 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    844.5 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    844.5 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    42    844.5 MiB    844.5 MiB           1   @profile
+    43                                         def calling_decorators(image_path):
+    44    844.5 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    844.5 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    844.5 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    42    844.5 MiB    844.5 MiB           1   @profile
+    43                                         def calling_decorators(image_path):
+    44    844.5 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    844.5 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    844.5 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    42    844.5 MiB    844.5 MiB           1   @profile
+    43                                         def calling_decorators(image_path):
+    44    844.5 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    844.5 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    844.5 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    42    844.5 MiB    844.5 MiB           1   @profile
+    43                                         def calling_decorators(image_path):
+    44    844.5 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    837.5 MiB     -7.1 MiB           1       prediction = model.predict(img)
+    46    837.5 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    42    837.5 MiB    837.5 MiB           1   @profile
+    43                                         def calling_decorators(image_path):
+    44    815.4 MiB    -22.1 MiB           1       img = preprocess_image(image_path)
+    45    815.4 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    815.4 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    42    815.4 MiB    815.4 MiB           1   @profile
+    43                                         def calling_decorators(image_path):
+    44    815.4 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    815.4 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    815.4 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    42    815.4 MiB    815.4 MiB           1   @profile
+    43                                         def calling_decorators(image_path):
+    44    815.4 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    815.4 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    815.4 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    42    815.4 MiB    815.4 MiB           1   @profile
+    43                                         def calling_decorators(image_path):
+    44    815.4 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    815.4 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    815.4 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    42    815.4 MiB    815.4 MiB           1   @profile
+    43                                         def calling_decorators(image_path):
+    44    815.4 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    815.4 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    815.4 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    42    815.4 MiB    815.4 MiB           1   @profile
+    43                                         def calling_decorators(image_path):
+    44    815.4 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    815.4 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    815.4 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    42    815.4 MiB    815.4 MiB           1   @profile
+    43                                         def calling_decorators(image_path):
+    44    815.4 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    815.4 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    815.4 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    42    815.4 MiB    815.4 MiB           1   @profile
+    43                                         def calling_decorators(image_path):
+    44    815.4 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    815.4 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    815.4 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    42    815.4 MiB    815.4 MiB           1   @profile
+    43                                         def calling_decorators(image_path):
+    44    815.4 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    815.4 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    815.4 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    42    815.4 MiB    815.4 MiB           1   @profile
+    43                                         def calling_decorators(image_path):
+    44    815.5 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    815.5 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    815.5 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    42    815.5 MiB    815.5 MiB           1   @profile
+    43                                         def calling_decorators(image_path):
+    44    815.5 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    815.5 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    815.5 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    42    815.5 MiB    815.5 MiB           1   @profile
+    43                                         def calling_decorators(image_path):
+    44    815.5 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    815.5 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    815.5 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    42    815.5 MiB    815.5 MiB           1   @profile
+    43                                         def calling_decorators(image_path):
+    44    815.5 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    815.5 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    815.5 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    42    815.5 MiB    815.5 MiB           1   @profile
+    43                                         def calling_decorators(image_path):
+    44    815.5 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    801.4 MiB    -14.1 MiB           1       prediction = model.predict(img)
+    46    801.4 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    42    801.4 MiB    801.4 MiB           1   @profile
+    43                                         def calling_decorators(image_path):
+    44    804.5 MiB      3.1 MiB           1       img = preprocess_image(image_path)
+    45    804.5 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    804.5 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    42    804.5 MiB    804.5 MiB           1   @profile
+    43                                         def calling_decorators(image_path):
+    44    804.5 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    804.5 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    804.5 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    42    804.5 MiB    804.5 MiB           1   @profile
+    43                                         def calling_decorators(image_path):
+    44    804.5 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    804.5 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    804.5 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    42    804.5 MiB    804.5 MiB           1   @profile
+    43                                         def calling_decorators(image_path):
+    44    804.5 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    804.5 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    804.5 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    42    804.5 MiB    804.5 MiB           1   @profile
+    43                                         def calling_decorators(image_path):
+    44    804.5 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    804.5 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    804.5 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    42    804.5 MiB    804.5 MiB           1   @profile
+    43                                         def calling_decorators(image_path):
+    44    804.5 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    804.5 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    804.5 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    42    804.5 MiB    804.5 MiB           1   @profile
+    43                                         def calling_decorators(image_path):
+    44    804.5 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    804.5 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    804.5 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    42    804.5 MiB    804.5 MiB           1   @profile
+    43                                         def calling_decorators(image_path):
+    44    804.5 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    804.5 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    804.5 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    42    804.5 MiB    804.5 MiB           1   @profile
+    43                                         def calling_decorators(image_path):
+    44    804.5 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    804.5 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    804.5 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    42    804.5 MiB    804.5 MiB           1   @profile
+    43                                         def calling_decorators(image_path):
+    44    804.5 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    804.5 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    804.5 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    42    804.5 MiB    804.5 MiB           1   @profile
+    43                                         def calling_decorators(image_path):
+    44    804.6 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    804.6 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    804.6 MiB      0.0 MiB           1       return prediction 
+
+
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    42    804.6 MiB    804.6 MiB           1   @profile
+    43                                         def calling_decorators(image_path):
+    44    804.6 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    779.1 MiB    -25.4 MiB           1       prediction = model.predict(img)
     46    779.1 MiB      0.0 MiB           1       return prediction 
 
 
@@ -611,249 +1018,7 @@ Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
     42    779.1 MiB    779.1 MiB           1   @profile
     43                                         def calling_decorators(image_path):
-    44    781.7 MiB      2.6 MiB           1       img = preprocess_image(image_path)
-    45    780.8 MiB     -1.0 MiB           1       prediction = model.predict(img)
-    46    780.8 MiB      0.0 MiB           1       return prediction 
-
-
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    42    780.8 MiB    780.8 MiB           1   @profile
-    43                                         def calling_decorators(image_path):
-    44    784.0 MiB      3.2 MiB           1       img = preprocess_image(image_path)
-    45    784.0 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    784.0 MiB      0.0 MiB           1       return prediction 
-
-
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    42    784.0 MiB    784.0 MiB           1   @profile
-    43                                         def calling_decorators(image_path):
-    44    784.0 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    784.0 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    784.0 MiB      0.0 MiB           1       return prediction 
-
-
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    42    784.0 MiB    784.0 MiB           1   @profile
-    43                                         def calling_decorators(image_path):
-    44    787.3 MiB      3.3 MiB           1       img = preprocess_image(image_path)
-    45    787.3 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    787.3 MiB      0.0 MiB           1       return prediction 
-
-
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    42    787.3 MiB    787.3 MiB           1   @profile
-    43                                         def calling_decorators(image_path):
-    44    787.4 MiB      0.1 MiB           1       img = preprocess_image(image_path)
-    45    787.4 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    787.4 MiB      0.0 MiB           1       return prediction 
-
-
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    42    787.4 MiB    787.4 MiB           1   @profile
-    43                                         def calling_decorators(image_path):
-    44    787.4 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    787.4 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    787.4 MiB      0.0 MiB           1       return prediction 
-
-
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    42    787.4 MiB    787.4 MiB           1   @profile
-    43                                         def calling_decorators(image_path):
-    44    787.4 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    787.4 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    787.4 MiB      0.0 MiB           1       return prediction 
-
-
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    42    787.4 MiB    787.4 MiB           1   @profile
-    43                                         def calling_decorators(image_path):
-    44    787.9 MiB      0.5 MiB           1       img = preprocess_image(image_path)
-    45    787.9 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    787.9 MiB      0.0 MiB           1       return prediction 
-
-
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    42    787.9 MiB    787.9 MiB           1   @profile
-    43                                         def calling_decorators(image_path):
-    44    788.9 MiB      1.0 MiB           1       img = preprocess_image(image_path)
-    45    789.0 MiB      0.1 MiB           1       prediction = model.predict(img)
-    46    789.0 MiB      0.0 MiB           1       return prediction 
-
-
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    42    789.0 MiB    789.0 MiB           1   @profile
-    43                                         def calling_decorators(image_path):
-    44    789.0 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    789.0 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    789.0 MiB      0.0 MiB           1       return prediction 
-
-
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    42    789.0 MiB    789.0 MiB           1   @profile
-    43                                         def calling_decorators(image_path):
-    44    789.0 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    785.7 MiB     -3.3 MiB           1       prediction = model.predict(img)
-    46    785.7 MiB     -0.0 MiB           1       return prediction 
-
-
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    42    785.3 MiB    785.3 MiB           1   @profile
-    43                                         def calling_decorators(image_path):
-    44    782.2 MiB     -3.0 MiB           1       img = preprocess_image(image_path)
-    45    782.2 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    782.2 MiB      0.0 MiB           1       return prediction 
-
-
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    42    782.2 MiB    782.2 MiB           1   @profile
-    43                                         def calling_decorators(image_path):
-    44    782.2 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    782.2 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    782.2 MiB      0.0 MiB           1       return prediction 
-
-
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    42    782.2 MiB    782.2 MiB           1   @profile
-    43                                         def calling_decorators(image_path):
-    44    782.3 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    782.3 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    782.3 MiB      0.0 MiB           1       return prediction 
-
-
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    42    782.3 MiB    782.3 MiB           1   @profile
-    43                                         def calling_decorators(image_path):
-    44    782.3 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    782.3 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    782.3 MiB      0.0 MiB           1       return prediction 
-
-
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    42    782.3 MiB    782.3 MiB           1   @profile
-    43                                         def calling_decorators(image_path):
-    44    782.3 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    782.3 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    782.3 MiB      0.0 MiB           1       return prediction 
-
-
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    42    782.3 MiB    782.3 MiB           1   @profile
-    43                                         def calling_decorators(image_path):
-    44    782.3 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    782.3 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    782.3 MiB      0.0 MiB           1       return prediction 
-
-
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    42    782.3 MiB    782.3 MiB           1   @profile
-    43                                         def calling_decorators(image_path):
-    44    782.3 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    782.3 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    782.3 MiB      0.0 MiB           1       return prediction 
-
-
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    42    782.3 MiB    782.3 MiB           1   @profile
-    43                                         def calling_decorators(image_path):
-    44    782.4 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    782.4 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    782.4 MiB      0.0 MiB           1       return prediction 
-
-
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    42    782.4 MiB    782.4 MiB           1   @profile
-    43                                         def calling_decorators(image_path):
-    44    782.4 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    782.4 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    782.4 MiB      0.0 MiB           1       return prediction 
-
-
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    42    782.4 MiB    782.4 MiB           1   @profile
-    43                                         def calling_decorators(image_path):
-    44    782.4 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    661.4 MiB   -121.0 MiB           1       prediction = model.predict(img)
-    46    661.4 MiB      0.0 MiB           1       return prediction 
-
-
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    42    658.4 MiB    658.4 MiB           1   @profile
-    43                                         def calling_decorators(image_path):
-    44    622.7 MiB    -35.7 MiB           1       img = preprocess_image(image_path)
-    45    775.7 MiB    153.0 MiB           1       prediction = model.predict(img)
-    46    775.7 MiB      0.0 MiB           1       return prediction 
-
-
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    42    775.7 MiB    775.7 MiB           1   @profile
-    43                                         def calling_decorators(image_path):
-    44    779.1 MiB      3.4 MiB           1       img = preprocess_image(image_path)
+    44    779.1 MiB      0.0 MiB           1       img = preprocess_image(image_path)
     45    779.1 MiB      0.0 MiB           1       prediction = model.predict(img)
     46    779.1 MiB      0.0 MiB           1       return prediction 
 
@@ -864,234 +1029,69 @@ Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
     42    779.1 MiB    779.1 MiB           1   @profile
     43                                         def calling_decorators(image_path):
-    44    782.6 MiB      3.5 MiB           1       img = preprocess_image(image_path)
-    45    782.6 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    782.6 MiB      0.0 MiB           1       return prediction 
+    44    779.1 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    779.1 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    779.1 MiB      0.0 MiB           1       return prediction 
 
 
 Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    42    782.6 MiB    782.6 MiB           1   @profile
+    42    779.1 MiB    779.1 MiB           1   @profile
     43                                         def calling_decorators(image_path):
-    44    782.6 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    782.6 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    782.6 MiB      0.0 MiB           1       return prediction 
+    44    779.1 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    779.1 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    779.1 MiB      0.0 MiB           1       return prediction 
 
 
 Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    42    782.6 MiB    782.6 MiB           1   @profile
+    42    779.1 MiB    779.1 MiB           1   @profile
     43                                         def calling_decorators(image_path):
-    44    782.6 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    782.4 MiB     -0.2 MiB           1       prediction = model.predict(img)
-    46    782.4 MiB      0.0 MiB           1       return prediction 
+    44    779.1 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    779.1 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    779.1 MiB      0.0 MiB           1       return prediction 
 
 
 Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    42    782.4 MiB    782.4 MiB           1   @profile
+    42    779.1 MiB    779.1 MiB           1   @profile
     43                                         def calling_decorators(image_path):
-    44    782.4 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    782.4 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    782.4 MiB      0.0 MiB           1       return prediction 
+    44    779.2 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    779.2 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    779.2 MiB      0.0 MiB           1       return prediction 
 
 
 Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    42    782.4 MiB    782.4 MiB           1   @profile
+    42    779.2 MiB    779.2 MiB           1   @profile
     43                                         def calling_decorators(image_path):
-    44    782.4 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    782.4 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    782.4 MiB      0.0 MiB           1       return prediction 
+    44    779.2 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    779.2 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    779.2 MiB      0.0 MiB           1       return prediction 
 
 
 Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    42    782.4 MiB    782.4 MiB           1   @profile
+    42    779.2 MiB    779.2 MiB           1   @profile
     43                                         def calling_decorators(image_path):
-    44    782.4 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    782.4 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    782.4 MiB      0.0 MiB           1       return prediction 
+    44    779.2 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    45    779.2 MiB      0.0 MiB           1       prediction = model.predict(img)
+    46    779.2 MiB      0.0 MiB           1       return prediction 
 
 
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    42    782.4 MiB    782.4 MiB           1   @profile
-    43                                         def calling_decorators(image_path):
-    44    782.4 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    782.4 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    782.4 MiB      0.0 MiB           1       return prediction 
-
-
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    42    782.4 MiB    782.4 MiB           1   @profile
-    43                                         def calling_decorators(image_path):
-    44    782.4 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    782.4 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    782.4 MiB      0.0 MiB           1       return prediction 
-
-
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    42    782.4 MiB    782.4 MiB           1   @profile
-    43                                         def calling_decorators(image_path):
-    44    782.4 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    782.4 MiB     -0.0 MiB           1       prediction = model.predict(img)
-    46    782.4 MiB      0.0 MiB           1       return prediction 
-
-
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    42    782.4 MiB    782.4 MiB           1   @profile
-    43                                         def calling_decorators(image_path):
-    44    782.7 MiB      0.3 MiB           1       img = preprocess_image(image_path)
-    45    782.7 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    782.7 MiB      0.0 MiB           1       return prediction 
-
-
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    42    782.7 MiB    782.7 MiB           1   @profile
-    43                                         def calling_decorators(image_path):
-    44    782.7 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    782.7 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    782.7 MiB      0.0 MiB           1       return prediction 
-
-
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    42    782.7 MiB    782.7 MiB           1   @profile
-    43                                         def calling_decorators(image_path):
-    44    782.7 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    782.7 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    782.7 MiB      0.0 MiB           1       return prediction 
-
-
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    42    782.7 MiB    782.7 MiB           1   @profile
-    43                                         def calling_decorators(image_path):
-    44    782.7 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    782.7 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    782.7 MiB      0.0 MiB           1       return prediction 
-
-
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    42    782.7 MiB    782.7 MiB           1   @profile
-    43                                         def calling_decorators(image_path):
-    44    782.7 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    782.7 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    782.7 MiB      0.0 MiB           1       return prediction 
-
-
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    42    782.7 MiB    782.7 MiB           1   @profile
-    43                                         def calling_decorators(image_path):
-    44    782.7 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    782.7 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    782.7 MiB      0.0 MiB           1       return prediction 
-
-
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    42    782.7 MiB    782.7 MiB           1   @profile
-    43                                         def calling_decorators(image_path):
-    44    782.7 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    782.7 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    782.7 MiB      0.0 MiB           1       return prediction 
-
-
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    42    782.7 MiB    782.7 MiB           1   @profile
-    43                                         def calling_decorators(image_path):
-    44    782.7 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    782.7 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    782.7 MiB      0.0 MiB           1       return prediction 
-
-
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    42    782.7 MiB    782.7 MiB           1   @profile
-    43                                         def calling_decorators(image_path):
-    44    782.7 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    782.7 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    782.7 MiB      0.0 MiB           1       return prediction 
-
-
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    42    782.7 MiB    782.7 MiB           1   @profile
-    43                                         def calling_decorators(image_path):
-    44    782.7 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    782.7 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    782.7 MiB      0.0 MiB           1       return prediction 
-
-
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    42    782.7 MiB    782.7 MiB           1   @profile
-    43                                         def calling_decorators(image_path):
-    44    782.8 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    782.8 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    782.8 MiB      0.0 MiB           1       return prediction 
-
-
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/svm.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    42    782.8 MiB    782.8 MiB           1   @profile
-    43                                         def calling_decorators(image_path):
-    44    782.8 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    45    782.8 MiB      0.0 MiB           1       prediction = model.predict(img)
-    46    782.8 MiB      0.0 MiB           1       return prediction 
-
-
-CPU Usage (after): 9.4%
-Batch Runtime: 10.17460584640503 seconds
-CPU Usage (total): 9.4%
+CPU Usage (after): 6.1%
+Batch Runtime: 9.392819881439209 seconds
+CPU Usage (total): 6.1%
 Iteration 1:
 --------------------------------------
-Start time of cpu, 1712898558.2786078 sec
+Start time of cpu, 1713115558.3203998 sec
