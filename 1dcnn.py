@@ -116,7 +116,7 @@ def write_results_to_csv(output_csv_path, all_predictions,batch_runtime,total_cp
             csv_writer.writerow(["Total batch time:", batch_runtime])
             csv_writer.writerow(["Total cpu time:",total_cpu_usage])
             end_time = time.time()
-            print(f"Start time of cpu, {end_time} sec")
+            print(f"end time of cpu, {end_time} sec")
 
 output_csv_path = os.path.join(desktop_path, 'mac_data_1dcnn.csv')
 input_path = '/Users/sandeepreddy/Desktop/test/'

@@ -1,27 +1,185 @@
-Start time of cpu, 1713134713.371638 sec
-CPU Usage (Before): 6.9%
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 222ms/step
+Start time of cpu, 1713219357.334215 sec
+CPU Usage (Before): 16.6%
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 326ms/step
 Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    29    704.8 MiB    704.8 MiB           1   @profile
+    29    141.9 MiB    141.9 MiB           1   @profile
     30                                         def calling_decorators(image_path):
-    31    706.8 MiB      2.0 MiB           1       img = preprocess_image(image_path)
-    32    733.8 MiB     27.0 MiB           1       prediction =  model.predict(img)
-    33    733.8 MiB      0.0 MiB           1       return prediction
+    31    155.3 MiB     13.4 MiB           1       img = preprocess_image(image_path)
+    32    324.6 MiB    169.3 MiB           1       prediction =  model.predict(img)
+    33    324.6 MiB      0.0 MiB         101       for i in range(100):
+    34    324.6 MiB      0.0 MiB         100           j = i**1000
+    35    324.6 MiB      0.0 MiB           1       return prediction
 
 
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 24ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 22ms/step
 Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    29    733.9 MiB    733.9 MiB           1   @profile
+    29    324.7 MiB    324.7 MiB           1   @profile
     30                                         def calling_decorators(image_path):
-    31    733.9 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    732.2 MiB     -1.7 MiB           1       prediction =  model.predict(img)
-    33    732.2 MiB      0.0 MiB           1       return prediction
+    31    324.7 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    326.7 MiB      2.0 MiB           1       prediction =  model.predict(img)
+    33    326.7 MiB      0.0 MiB         101       for i in range(100):
+    34    326.7 MiB      0.0 MiB         100           j = i**1000
+    35    326.7 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 22ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    326.6 MiB    326.6 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    326.7 MiB      0.1 MiB           1       img = preprocess_image(image_path)
+    32    332.8 MiB      6.1 MiB           1       prediction =  model.predict(img)
+    33    332.8 MiB      0.0 MiB         101       for i in range(100):
+    34    332.8 MiB      0.0 MiB         100           j = i**1000
+    35    332.8 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 22ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    332.8 MiB    332.8 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    332.8 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    336.6 MiB      3.8 MiB           1       prediction =  model.predict(img)
+    33    336.6 MiB      0.0 MiB         101       for i in range(100):
+    34    336.6 MiB      0.0 MiB         100           j = i**1000
+    35    336.6 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 28ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    336.6 MiB    336.6 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    336.6 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    338.2 MiB      1.6 MiB           1       prediction =  model.predict(img)
+    33    338.2 MiB      0.0 MiB         101       for i in range(100):
+    34    338.2 MiB      0.0 MiB         100           j = i**1000
+    35    338.2 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 22ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    338.2 MiB    338.2 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    338.2 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    339.5 MiB      1.2 MiB           1       prediction =  model.predict(img)
+    33    339.5 MiB      0.0 MiB         101       for i in range(100):
+    34    339.5 MiB      0.0 MiB         100           j = i**1000
+    35    339.5 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 21ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    339.5 MiB    339.5 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    339.5 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    342.1 MiB      2.6 MiB           1       prediction =  model.predict(img)
+    33    342.1 MiB      0.0 MiB         101       for i in range(100):
+    34    342.1 MiB      0.0 MiB         100           j = i**1000
+    35    342.1 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 21ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    342.1 MiB    342.1 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    342.1 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    342.6 MiB      0.5 MiB           1       prediction =  model.predict(img)
+    33    342.6 MiB      0.0 MiB         101       for i in range(100):
+    34    342.6 MiB      0.0 MiB         100           j = i**1000
+    35    342.6 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 21ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    342.6 MiB    342.6 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    342.6 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    344.0 MiB      1.3 MiB           1       prediction =  model.predict(img)
+    33    344.0 MiB      0.0 MiB         101       for i in range(100):
+    34    344.0 MiB      0.0 MiB         100           j = i**1000
+    35    344.0 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 21ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    344.0 MiB    344.0 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    344.0 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    344.4 MiB      0.4 MiB           1       prediction =  model.predict(img)
+    33    344.4 MiB      0.0 MiB         101       for i in range(100):
+    34    344.4 MiB      0.0 MiB         100           j = i**1000
+    35    344.4 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 21ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    344.4 MiB    344.4 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    344.4 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    345.9 MiB      1.5 MiB           1       prediction =  model.predict(img)
+    33    345.9 MiB      0.0 MiB         101       for i in range(100):
+    34    345.9 MiB      0.0 MiB         100           j = i**1000
+    35    345.9 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 22ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    345.9 MiB    345.9 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    345.9 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    346.7 MiB      0.8 MiB           1       prediction =  model.predict(img)
+    33    346.7 MiB      0.0 MiB         101       for i in range(100):
+    34    346.7 MiB      0.0 MiB         100           j = i**1000
+    35    346.7 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 27ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    346.7 MiB    346.7 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    346.7 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    348.6 MiB      1.9 MiB           1       prediction =  model.predict(img)
+    33    348.6 MiB      0.0 MiB         101       for i in range(100):
+    34    348.6 MiB      0.0 MiB         100           j = i**1000
+    35    348.6 MiB      0.0 MiB           1       return prediction
 
 
 1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 23ms/step
@@ -29,71 +187,13 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    29    732.2 MiB    732.2 MiB           1   @profile
+    29    348.6 MiB    348.6 MiB           1   @profile
     30                                         def calling_decorators(image_path):
-    31    732.5 MiB      0.2 MiB           1       img = preprocess_image(image_path)
-    32    716.9 MiB    -15.5 MiB           1       prediction =  model.predict(img)
-    33    716.9 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    716.9 MiB    716.9 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    716.9 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    714.2 MiB     -2.7 MiB           1       prediction =  model.predict(img)
-    33    714.2 MiB     -0.1 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 21ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    713.7 MiB    713.7 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    707.0 MiB     -6.7 MiB           1       img = preprocess_image(image_path)
-    32    613.5 MiB    -93.5 MiB           1       prediction =  model.predict(img)
-    33    613.5 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 21ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    613.6 MiB    613.6 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    613.6 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    586.2 MiB    -27.3 MiB           1       prediction =  model.predict(img)
-    33    586.2 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 21ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    586.2 MiB    586.2 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    586.3 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    591.2 MiB      5.0 MiB           1       prediction =  model.predict(img)
-    33    591.2 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    591.3 MiB    591.3 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    591.3 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    564.3 MiB    -27.0 MiB           1       prediction =  model.predict(img)
-    33    564.3 MiB      0.0 MiB           1       return prediction
+    31    348.6 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    349.7 MiB      1.1 MiB           1       prediction =  model.predict(img)
+    33    349.7 MiB      0.0 MiB         101       for i in range(100):
+    34    349.7 MiB      0.0 MiB         100           j = i**1000
+    35    349.7 MiB      0.0 MiB           1       return prediction
 
 
 1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 22ms/step
@@ -101,1067 +201,13 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    29    564.3 MiB    564.3 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    564.3 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    565.4 MiB      1.0 MiB           1       prediction =  model.predict(img)
-    33    565.4 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    565.4 MiB    565.4 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    565.4 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    535.9 MiB    -29.5 MiB           1       prediction =  model.predict(img)
-    33    535.9 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    535.9 MiB    535.9 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    535.9 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    537.8 MiB      1.9 MiB           1       prediction =  model.predict(img)
-    33    537.8 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    537.8 MiB    537.8 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    537.8 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    538.7 MiB      0.9 MiB           1       prediction =  model.predict(img)
-    33    538.7 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    538.7 MiB    538.7 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    538.7 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    540.0 MiB      1.3 MiB           1       prediction =  model.predict(img)
-    33    540.0 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    540.0 MiB    540.0 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    540.0 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    540.5 MiB      0.5 MiB           1       prediction =  model.predict(img)
-    33    540.5 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    540.5 MiB    540.5 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    540.5 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    540.8 MiB      0.2 MiB           1       prediction =  model.predict(img)
-    33    540.8 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    540.8 MiB    540.8 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    540.8 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    540.8 MiB      0.0 MiB           1       prediction =  model.predict(img)
-    33    540.8 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    540.8 MiB    540.8 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    540.8 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    541.3 MiB      0.5 MiB           1       prediction =  model.predict(img)
-    33    541.3 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    541.3 MiB    541.3 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    541.3 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    541.6 MiB      0.2 MiB           1       prediction =  model.predict(img)
-    33    541.6 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    541.6 MiB    541.6 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    541.6 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    534.6 MiB     -6.9 MiB           1       prediction =  model.predict(img)
-    33    534.6 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    534.7 MiB    534.7 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    534.7 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    535.2 MiB      0.5 MiB           1       prediction =  model.predict(img)
-    33    535.2 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    535.2 MiB    535.2 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    535.2 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    535.7 MiB      0.6 MiB           1       prediction =  model.predict(img)
-    33    535.7 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    535.8 MiB    535.8 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    535.8 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    538.6 MiB      2.9 MiB           1       prediction =  model.predict(img)
-    33    538.6 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    538.6 MiB    538.6 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    538.6 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    538.7 MiB      0.1 MiB           1       prediction =  model.predict(img)
-    33    538.7 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    538.8 MiB    538.8 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    538.8 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    538.8 MiB      0.0 MiB           1       prediction =  model.predict(img)
-    33    538.8 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    538.8 MiB    538.8 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    538.8 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    538.8 MiB      0.0 MiB           1       prediction =  model.predict(img)
-    33    538.8 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    538.8 MiB    538.8 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    538.8 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    539.1 MiB      0.3 MiB           1       prediction =  model.predict(img)
-    33    539.1 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    539.1 MiB    539.1 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    539.1 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    539.9 MiB      0.8 MiB           1       prediction =  model.predict(img)
-    33    539.9 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    539.9 MiB    539.9 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    539.9 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    540.4 MiB      0.5 MiB           1       prediction =  model.predict(img)
-    33    540.4 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 21ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    540.4 MiB    540.4 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    540.4 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    515.3 MiB    -25.1 MiB           1       prediction =  model.predict(img)
-    33    515.3 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    515.3 MiB    515.3 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    515.3 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    516.2 MiB      0.8 MiB           1       prediction =  model.predict(img)
-    33    516.2 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    516.2 MiB    516.2 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    516.2 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    517.8 MiB      1.7 MiB           1       prediction =  model.predict(img)
-    33    517.8 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    517.9 MiB    517.9 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    517.9 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    519.9 MiB      2.1 MiB           1       prediction =  model.predict(img)
-    33    519.9 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    519.9 MiB    519.9 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    519.9 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    520.2 MiB      0.3 MiB           1       prediction =  model.predict(img)
-    33    520.2 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    520.3 MiB    520.3 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    520.3 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    520.3 MiB      0.0 MiB           1       prediction =  model.predict(img)
-    33    520.3 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    520.3 MiB    520.3 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    520.3 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    490.2 MiB    -30.1 MiB           1       prediction =  model.predict(img)
-    33    490.2 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 21ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    490.2 MiB    490.2 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    490.2 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    490.6 MiB      0.4 MiB           1       prediction =  model.predict(img)
-    33    490.6 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    490.7 MiB    490.7 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    490.7 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    490.8 MiB      0.2 MiB           1       prediction =  model.predict(img)
-    33    490.8 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    490.9 MiB    490.9 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    490.9 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    491.0 MiB      0.2 MiB           1       prediction =  model.predict(img)
-    33    491.0 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 21ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    491.0 MiB    491.0 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    491.0 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    492.0 MiB      1.0 MiB           1       prediction =  model.predict(img)
-    33    492.0 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    492.1 MiB    492.1 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    492.1 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    492.1 MiB      0.0 MiB           1       prediction =  model.predict(img)
-    33    492.1 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    492.1 MiB    492.1 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    492.1 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    492.4 MiB      0.3 MiB           1       prediction =  model.predict(img)
-    33    492.4 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 21ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    492.4 MiB    492.4 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    492.4 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    443.0 MiB    -49.4 MiB           1       prediction =  model.predict(img)
-    33    443.0 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    443.0 MiB    443.0 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    443.0 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    443.4 MiB      0.4 MiB           1       prediction =  model.predict(img)
-    33    443.4 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 21ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    443.4 MiB    443.4 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    443.4 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    443.6 MiB      0.2 MiB           1       prediction =  model.predict(img)
-    33    443.6 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    443.6 MiB    443.6 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    443.6 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    444.0 MiB      0.4 MiB           1       prediction =  model.predict(img)
-    33    444.0 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    444.1 MiB    444.1 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    444.1 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    444.5 MiB      0.4 MiB           1       prediction =  model.predict(img)
-    33    444.5 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    444.5 MiB    444.5 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    444.5 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    445.0 MiB      0.5 MiB           1       prediction =  model.predict(img)
-    33    445.0 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    445.0 MiB    445.0 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    445.0 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    445.5 MiB      0.5 MiB           1       prediction =  model.predict(img)
-    33    445.5 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    445.5 MiB    445.5 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    445.5 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    446.0 MiB      0.5 MiB           1       prediction =  model.predict(img)
-    33    446.0 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 21ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    446.0 MiB    446.0 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    446.0 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    446.2 MiB      0.2 MiB           1       prediction =  model.predict(img)
-    33    446.2 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    446.2 MiB    446.2 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    446.2 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    446.2 MiB      0.0 MiB           1       prediction =  model.predict(img)
-    33    446.2 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    446.2 MiB    446.2 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    446.2 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    446.4 MiB      0.2 MiB           1       prediction =  model.predict(img)
-    33    446.4 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    446.4 MiB    446.4 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    446.4 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    446.4 MiB      0.0 MiB           1       prediction =  model.predict(img)
-    33    446.4 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    446.4 MiB    446.4 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    446.4 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    446.5 MiB      0.1 MiB           1       prediction =  model.predict(img)
-    33    446.5 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    446.5 MiB    446.5 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    446.5 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    446.9 MiB      0.4 MiB           1       prediction =  model.predict(img)
-    33    446.9 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    446.9 MiB    446.9 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    446.9 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    447.4 MiB      0.5 MiB           1       prediction =  model.predict(img)
-    33    447.4 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    447.4 MiB    447.4 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    447.4 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    447.9 MiB      0.5 MiB           1       prediction =  model.predict(img)
-    33    447.9 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    447.9 MiB    447.9 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    447.9 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    448.4 MiB      0.5 MiB           1       prediction =  model.predict(img)
-    33    448.4 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 21ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    448.4 MiB    448.4 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    448.4 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    448.7 MiB      0.3 MiB           1       prediction =  model.predict(img)
-    33    448.7 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    448.7 MiB    448.7 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    448.7 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    449.2 MiB      0.5 MiB           1       prediction =  model.predict(img)
-    33    449.2 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    449.2 MiB    449.2 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    449.2 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    449.2 MiB      0.0 MiB           1       prediction =  model.predict(img)
-    33    449.2 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    449.3 MiB    449.3 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    449.3 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    449.4 MiB      0.2 MiB           1       prediction =  model.predict(img)
-    33    449.4 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    449.4 MiB    449.4 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    449.4 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    449.5 MiB      0.1 MiB           1       prediction =  model.predict(img)
-    33    449.5 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    449.5 MiB    449.5 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    449.5 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    450.4 MiB      0.8 MiB           1       prediction =  model.predict(img)
-    33    450.4 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    450.4 MiB    450.4 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    450.4 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    450.7 MiB      0.3 MiB           1       prediction =  model.predict(img)
-    33    450.7 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    450.7 MiB    450.7 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    450.7 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    451.7 MiB      1.0 MiB           1       prediction =  model.predict(img)
-    33    451.7 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 21ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    451.7 MiB    451.7 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    451.7 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    451.9 MiB      0.2 MiB           1       prediction =  model.predict(img)
-    33    451.9 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    452.0 MiB    452.0 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    452.0 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    452.3 MiB      0.3 MiB           1       prediction =  model.predict(img)
-    33    452.3 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    452.3 MiB    452.3 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    452.3 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    452.3 MiB      0.0 MiB           1       prediction =  model.predict(img)
-    33    452.3 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    452.3 MiB    452.3 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    452.3 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    452.3 MiB      0.0 MiB           1       prediction =  model.predict(img)
-    33    452.3 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    452.3 MiB    452.3 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    452.3 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    452.4 MiB      0.0 MiB           1       prediction =  model.predict(img)
-    33    452.4 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    452.4 MiB    452.4 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    452.4 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    452.7 MiB      0.3 MiB           1       prediction =  model.predict(img)
-    33    452.7 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    452.7 MiB    452.7 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    452.7 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    453.1 MiB      0.5 MiB           1       prediction =  model.predict(img)
-    33    453.1 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    453.2 MiB    453.2 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    453.2 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    453.6 MiB      0.5 MiB           1       prediction =  model.predict(img)
-    33    453.6 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    453.6 MiB    453.6 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    453.6 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    454.6 MiB      1.0 MiB           1       prediction =  model.predict(img)
-    33    454.6 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    454.6 MiB    454.6 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    454.6 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    455.1 MiB      0.5 MiB           1       prediction =  model.predict(img)
-    33    455.1 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 21ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    455.1 MiB    455.1 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    455.1 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    455.3 MiB      0.1 MiB           1       prediction =  model.predict(img)
-    33    455.3 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    455.3 MiB    455.3 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    455.3 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    455.3 MiB      0.0 MiB           1       prediction =  model.predict(img)
-    33    455.3 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    455.3 MiB    455.3 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    455.3 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    455.6 MiB      0.3 MiB           1       prediction =  model.predict(img)
-    33    455.6 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    455.6 MiB    455.6 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    455.6 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    455.7 MiB      0.1 MiB           1       prediction =  model.predict(img)
-    33    455.7 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    455.7 MiB    455.7 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    455.7 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    455.8 MiB      0.1 MiB           1       prediction =  model.predict(img)
-    33    455.8 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    455.8 MiB    455.8 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    455.8 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    456.5 MiB      0.7 MiB           1       prediction =  model.predict(img)
-    33    456.5 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    456.5 MiB    456.5 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    456.5 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    457.0 MiB      0.5 MiB           1       prediction =  model.predict(img)
-    33    457.0 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    457.0 MiB    457.0 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    457.0 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    457.5 MiB      0.5 MiB           1       prediction =  model.predict(img)
-    33    457.5 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    457.5 MiB    457.5 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    457.5 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    457.6 MiB      0.2 MiB           1       prediction =  model.predict(img)
-    33    457.6 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 21ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    457.7 MiB    457.7 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    457.7 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    458.1 MiB      0.4 MiB           1       prediction =  model.predict(img)
-    33    458.1 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    458.1 MiB    458.1 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    458.1 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    458.1 MiB      0.0 MiB           1       prediction =  model.predict(img)
-    33    458.1 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    458.1 MiB    458.1 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    458.1 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    458.1 MiB      0.0 MiB           1       prediction =  model.predict(img)
-    33    458.1 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    458.1 MiB    458.1 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    458.1 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    458.2 MiB      0.1 MiB           1       prediction =  model.predict(img)
-    33    458.2 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    458.2 MiB    458.2 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    458.2 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    458.5 MiB      0.3 MiB           1       prediction =  model.predict(img)
-    33    458.5 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    458.5 MiB    458.5 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    458.5 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    459.0 MiB      0.5 MiB           1       prediction =  model.predict(img)
-    33    459.0 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    459.0 MiB    459.0 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    459.0 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    459.5 MiB      0.5 MiB           1       prediction =  model.predict(img)
-    33    459.5 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    459.5 MiB    459.5 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    459.5 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    460.0 MiB      0.5 MiB           1       prediction =  model.predict(img)
-    33    460.0 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    460.0 MiB    460.0 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    460.0 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    460.5 MiB      0.5 MiB           1       prediction =  model.predict(img)
-    33    460.5 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    460.5 MiB    460.5 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    460.5 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    460.6 MiB      0.1 MiB           1       prediction =  model.predict(img)
-    33    460.6 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    460.6 MiB    460.6 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    460.6 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    460.6 MiB      0.0 MiB           1       prediction =  model.predict(img)
-    33    460.6 MiB      0.0 MiB           1       return prediction
-
-
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
-Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
-
-Line #    Mem usage    Increment  Occurrences   Line Contents
-=============================================================
-    29    460.6 MiB    460.6 MiB           1   @profile
-    30                                         def calling_decorators(image_path):
-    31    460.6 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    460.6 MiB      0.0 MiB           1       prediction =  model.predict(img)
-    33    460.6 MiB      0.0 MiB           1       return prediction
+    29    349.7 MiB    349.7 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    349.7 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    349.8 MiB      0.0 MiB           1       prediction =  model.predict(img)
+    33    349.8 MiB      0.0 MiB         101       for i in range(100):
+    34    349.8 MiB      0.0 MiB         100           j = i**1000
+    35    349.8 MiB      0.0 MiB           1       return prediction
 
 
 1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 22ms/step
@@ -1169,39 +215,1251 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    29    460.6 MiB    460.6 MiB           1   @profile
+    29    349.8 MiB    349.8 MiB           1   @profile
     30                                         def calling_decorators(image_path):
-    31    460.6 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    460.7 MiB      0.1 MiB           1       prediction =  model.predict(img)
-    33    460.7 MiB      0.0 MiB           1       return prediction
+    31    349.8 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    350.2 MiB      0.5 MiB           1       prediction =  model.predict(img)
+    33    350.2 MiB      0.0 MiB         101       for i in range(100):
+    34    350.2 MiB      0.0 MiB         100           j = i**1000
+    35    350.2 MiB      0.0 MiB           1       return prediction
 
 
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 22ms/step
 Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    29    460.8 MiB    460.8 MiB           1   @profile
+    29    350.2 MiB    350.2 MiB           1   @profile
     30                                         def calling_decorators(image_path):
-    31    460.8 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    461.1 MiB      0.4 MiB           1       prediction =  model.predict(img)
-    33    461.1 MiB      0.0 MiB           1       return prediction
+    31    350.2 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    351.0 MiB      0.8 MiB           1       prediction =  model.predict(img)
+    33    351.0 MiB      0.0 MiB         101       for i in range(100):
+    34    351.0 MiB      0.0 MiB         100           j = i**1000
+    35    351.0 MiB      0.0 MiB           1       return prediction
 
 
-1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 20ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 22ms/step
 Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    29    461.1 MiB    461.1 MiB           1   @profile
+    29    351.0 MiB    351.0 MiB           1   @profile
     30                                         def calling_decorators(image_path):
-    31    461.1 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    32    461.6 MiB      0.5 MiB           1       prediction =  model.predict(img)
-    33    461.6 MiB      0.0 MiB           1       return prediction
+    31    351.0 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    347.5 MiB     -3.5 MiB           1       prediction =  model.predict(img)
+    33    347.5 MiB      0.0 MiB         101       for i in range(100):
+    34    347.5 MiB      0.0 MiB         100           j = i**1000
+    35    347.5 MiB      0.0 MiB           1       return prediction
 
 
-Batch Runtime: 12.237982988357544 seconds
-CPU Usage (total): 4.5%
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 22ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    347.5 MiB    347.5 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    347.5 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    349.2 MiB      1.7 MiB           1       prediction =  model.predict(img)
+    33    349.2 MiB      0.0 MiB         101       for i in range(100):
+    34    349.2 MiB      0.0 MiB         100           j = i**1000
+    35    349.2 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 22ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    349.2 MiB    349.2 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    349.2 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    349.5 MiB      0.2 MiB           1       prediction =  model.predict(img)
+    33    349.5 MiB      0.0 MiB         101       for i in range(100):
+    34    349.5 MiB      0.0 MiB         100           j = i**1000
+    35    349.5 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 30ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    349.5 MiB    349.5 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    349.5 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    343.2 MiB     -6.2 MiB           1       prediction =  model.predict(img)
+    33    343.1 MiB   -411.6 MiB         101       for i in range(100):
+    34    343.0 MiB   -418.6 MiB         100           j = i**1000
+    35    337.7 MiB     -5.4 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 28ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    337.7 MiB    337.7 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    337.6 MiB     -0.1 MiB           1       img = preprocess_image(image_path)
+    32    336.1 MiB     -1.5 MiB           1       prediction =  model.predict(img)
+    33    336.1 MiB      0.0 MiB         101       for i in range(100):
+    34    336.1 MiB      0.0 MiB         100           j = i**1000
+    35    336.1 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 22ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    336.1 MiB    336.1 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    336.3 MiB      0.2 MiB           1       img = preprocess_image(image_path)
+    32    342.3 MiB      6.0 MiB           1       prediction =  model.predict(img)
+    33    342.3 MiB      0.0 MiB         101       for i in range(100):
+    34    342.3 MiB      0.0 MiB         100           j = i**1000
+    35    342.3 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 22ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    342.3 MiB    342.3 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    342.3 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    346.8 MiB      4.5 MiB           1       prediction =  model.predict(img)
+    33    346.8 MiB      0.0 MiB         101       for i in range(100):
+    34    346.8 MiB      0.0 MiB         100           j = i**1000
+    35    346.8 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 26ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    346.8 MiB    346.8 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    346.8 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    348.5 MiB      1.7 MiB           1       prediction =  model.predict(img)
+    33    348.5 MiB      0.0 MiB         101       for i in range(100):
+    34    348.5 MiB      0.0 MiB         100           j = i**1000
+    35    348.5 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 33ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    348.5 MiB    348.5 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    348.5 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    344.7 MiB     -3.8 MiB           1       prediction =  model.predict(img)
+    33    344.7 MiB      0.0 MiB         101       for i in range(100):
+    34    344.7 MiB      0.0 MiB         100           j = i**1000
+    35    344.7 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 24ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    344.7 MiB    344.7 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    344.7 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    330.6 MiB    -14.1 MiB           1       prediction =  model.predict(img)
+    33    330.6 MiB    -28.6 MiB         101       for i in range(100):
+    34    330.6 MiB    -27.2 MiB         100           j = i**1000
+    35    326.9 MiB     -3.7 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 22ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    326.1 MiB    326.1 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    319.8 MiB     -6.3 MiB           1       img = preprocess_image(image_path)
+    32    273.1 MiB    -46.7 MiB           1       prediction =  model.predict(img)
+    33    273.1 MiB      0.0 MiB         101       for i in range(100):
+    34    273.1 MiB      0.0 MiB         100           j = i**1000
+    35    273.1 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 21ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    273.1 MiB    273.1 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    273.1 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    274.3 MiB      1.2 MiB           1       prediction =  model.predict(img)
+    33    274.3 MiB    -16.8 MiB         101       for i in range(100):
+    34    274.3 MiB    -16.3 MiB         100           j = i**1000
+    35    272.8 MiB     -1.5 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 22ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    272.8 MiB    272.8 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    272.9 MiB      0.1 MiB           1       img = preprocess_image(image_path)
+    32    277.8 MiB      4.9 MiB           1       prediction =  model.predict(img)
+    33    277.8 MiB      0.0 MiB         101       for i in range(100):
+    34    277.8 MiB      0.0 MiB         100           j = i**1000
+    35    277.8 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 21ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    277.9 MiB    277.9 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    277.9 MiB      0.1 MiB           1       img = preprocess_image(image_path)
+    32    278.8 MiB      0.8 MiB           1       prediction =  model.predict(img)
+    33    278.8 MiB      0.0 MiB         101       for i in range(100):
+    34    278.8 MiB      0.0 MiB         100           j = i**1000
+    35    278.8 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 22ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    278.8 MiB    278.8 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    278.8 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    280.4 MiB      1.7 MiB           1       prediction =  model.predict(img)
+    33    280.4 MiB      0.0 MiB         101       for i in range(100):
+    34    280.4 MiB      0.0 MiB         100           j = i**1000
+    35    280.4 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 21ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    280.4 MiB    280.4 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    280.5 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    280.3 MiB     -0.1 MiB           1       prediction =  model.predict(img)
+    33    280.3 MiB     -2.3 MiB         101       for i in range(100):
+    34    280.3 MiB     -2.3 MiB         100           j = i**1000
+    35    280.3 MiB     -0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 21ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    280.3 MiB    280.3 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    279.0 MiB     -1.4 MiB           1       img = preprocess_image(image_path)
+    32    281.7 MiB      2.7 MiB           1       prediction =  model.predict(img)
+    33    281.7 MiB      0.0 MiB         101       for i in range(100):
+    34    281.7 MiB      0.0 MiB         100           j = i**1000
+    35    281.7 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 21ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    281.7 MiB    281.7 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    281.7 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    283.6 MiB      1.9 MiB           1       prediction =  model.predict(img)
+    33    283.6 MiB      0.0 MiB         101       for i in range(100):
+    34    283.6 MiB      0.0 MiB         100           j = i**1000
+    35    283.6 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 21ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    283.6 MiB    283.6 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    283.6 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    284.2 MiB      0.6 MiB           1       prediction =  model.predict(img)
+    33    284.2 MiB      0.0 MiB         101       for i in range(100):
+    34    284.2 MiB      0.0 MiB         100           j = i**1000
+    35    284.2 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 21ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    284.2 MiB    284.2 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    284.2 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    286.2 MiB      1.9 MiB           1       prediction =  model.predict(img)
+    33    286.2 MiB      0.0 MiB         101       for i in range(100):
+    34    286.2 MiB      0.0 MiB         100           j = i**1000
+    35    286.2 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 21ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    286.2 MiB    286.2 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    286.2 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    288.5 MiB      2.3 MiB           1       prediction =  model.predict(img)
+    33    288.5 MiB      0.0 MiB         101       for i in range(100):
+    34    288.5 MiB      0.0 MiB         100           j = i**1000
+    35    288.5 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 21ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    288.5 MiB    288.5 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    288.5 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    289.8 MiB      1.3 MiB           1       prediction =  model.predict(img)
+    33    289.8 MiB      0.0 MiB         101       for i in range(100):
+    34    289.8 MiB      0.0 MiB         100           j = i**1000
+    35    289.8 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 21ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    289.9 MiB    289.9 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    289.9 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    290.3 MiB      0.4 MiB           1       prediction =  model.predict(img)
+    33    290.3 MiB      0.0 MiB         101       for i in range(100):
+    34    290.3 MiB      0.0 MiB         100           j = i**1000
+    35    290.3 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 23ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    290.3 MiB    290.3 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    290.3 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    291.2 MiB      0.9 MiB           1       prediction =  model.predict(img)
+    33    291.2 MiB      0.0 MiB         101       for i in range(100):
+    34    291.2 MiB      0.0 MiB         100           j = i**1000
+    35    291.2 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 22ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    291.2 MiB    291.2 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    291.2 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    291.3 MiB      0.1 MiB           1       prediction =  model.predict(img)
+    33    291.3 MiB      0.0 MiB         101       for i in range(100):
+    34    291.3 MiB      0.0 MiB         100           j = i**1000
+    35    291.3 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 22ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    291.3 MiB    291.3 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    291.3 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    291.4 MiB      0.1 MiB           1       prediction =  model.predict(img)
+    33    291.4 MiB      0.0 MiB         101       for i in range(100):
+    34    291.4 MiB      0.0 MiB         100           j = i**1000
+    35    291.4 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 21ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    291.4 MiB    291.4 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    291.4 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    291.8 MiB      0.4 MiB           1       prediction =  model.predict(img)
+    33    291.8 MiB      0.0 MiB         101       for i in range(100):
+    34    291.8 MiB      0.0 MiB         100           j = i**1000
+    35    291.8 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 22ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    291.8 MiB    291.8 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    291.8 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    292.7 MiB      1.0 MiB           1       prediction =  model.predict(img)
+    33    292.7 MiB      0.0 MiB         101       for i in range(100):
+    34    292.7 MiB      0.0 MiB         100           j = i**1000
+    35    292.7 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 21ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    292.8 MiB    292.8 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    292.8 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    293.0 MiB      0.3 MiB           1       prediction =  model.predict(img)
+    33    293.0 MiB      0.0 MiB         101       for i in range(100):
+    34    293.0 MiB      0.0 MiB         100           j = i**1000
+    35    293.0 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 21ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    293.0 MiB    293.0 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    293.0 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    293.8 MiB      0.8 MiB           1       prediction =  model.predict(img)
+    33    293.8 MiB      0.0 MiB         101       for i in range(100):
+    34    293.8 MiB      0.0 MiB         100           j = i**1000
+    35    293.8 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 21ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    293.8 MiB    293.8 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    293.8 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    294.1 MiB      0.3 MiB           1       prediction =  model.predict(img)
+    33    294.1 MiB      0.0 MiB         101       for i in range(100):
+    34    294.1 MiB      0.0 MiB         100           j = i**1000
+    35    294.1 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 21ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    294.1 MiB    294.1 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    294.1 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    294.8 MiB      0.7 MiB           1       prediction =  model.predict(img)
+    33    294.8 MiB      0.0 MiB         101       for i in range(100):
+    34    294.8 MiB      0.0 MiB         100           j = i**1000
+    35    294.8 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 21ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    294.8 MiB    294.8 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    294.8 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    295.3 MiB      0.5 MiB           1       prediction =  model.predict(img)
+    33    295.3 MiB      0.0 MiB         101       for i in range(100):
+    34    295.3 MiB      0.0 MiB         100           j = i**1000
+    35    295.3 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 21ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    295.4 MiB    295.4 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    295.4 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    295.4 MiB      0.0 MiB           1       prediction =  model.predict(img)
+    33    295.4 MiB      0.0 MiB         101       for i in range(100):
+    34    295.4 MiB      0.0 MiB         100           j = i**1000
+    35    295.4 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 21ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    295.4 MiB    295.4 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    295.4 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    295.4 MiB      0.0 MiB           1       prediction =  model.predict(img)
+    33    295.4 MiB      0.0 MiB         101       for i in range(100):
+    34    295.4 MiB      0.0 MiB         100           j = i**1000
+    35    295.4 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 21ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    295.5 MiB    295.5 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    295.5 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    296.1 MiB      0.7 MiB           1       prediction =  model.predict(img)
+    33    296.1 MiB      0.0 MiB         101       for i in range(100):
+    34    296.1 MiB      0.0 MiB         100           j = i**1000
+    35    296.1 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 21ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    296.1 MiB    296.1 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    296.1 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    297.1 MiB      0.9 MiB           1       prediction =  model.predict(img)
+    33    297.1 MiB      0.0 MiB         101       for i in range(100):
+    34    297.1 MiB      0.0 MiB         100           j = i**1000
+    35    297.1 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 22ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    297.1 MiB    297.1 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    297.1 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    297.1 MiB      0.0 MiB           1       prediction =  model.predict(img)
+    33    297.1 MiB    -31.4 MiB         101       for i in range(100):
+    34    297.1 MiB    -31.3 MiB         100           j = i**1000
+    35    296.6 MiB     -0.6 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 22ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    296.6 MiB    296.6 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    296.6 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    297.2 MiB      0.6 MiB           1       prediction =  model.predict(img)
+    33    297.2 MiB      0.0 MiB         101       for i in range(100):
+    34    297.2 MiB      0.0 MiB         100           j = i**1000
+    35    297.2 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 21ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    297.2 MiB    297.2 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    297.2 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    297.2 MiB      0.0 MiB           1       prediction =  model.predict(img)
+    33    297.2 MiB      0.0 MiB         101       for i in range(100):
+    34    297.2 MiB      0.0 MiB         100           j = i**1000
+    35    297.2 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 21ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    297.2 MiB    297.2 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    297.2 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    297.9 MiB      0.7 MiB           1       prediction =  model.predict(img)
+    33    297.9 MiB      0.0 MiB         101       for i in range(100):
+    34    297.9 MiB      0.0 MiB         100           j = i**1000
+    35    297.9 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 21ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    297.9 MiB    297.9 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    297.9 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    298.0 MiB      0.1 MiB           1       prediction =  model.predict(img)
+    33    298.0 MiB      0.0 MiB         101       for i in range(100):
+    34    298.0 MiB      0.0 MiB         100           j = i**1000
+    35    298.0 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 21ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    298.0 MiB    298.0 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    298.0 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    297.7 MiB     -0.3 MiB           1       prediction =  model.predict(img)
+    33    297.7 MiB      0.0 MiB         101       for i in range(100):
+    34    297.7 MiB      0.0 MiB         100           j = i**1000
+    35    297.7 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 22ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    297.7 MiB    297.7 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    297.8 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    297.8 MiB      0.0 MiB           1       prediction =  model.predict(img)
+    33    297.8 MiB      0.0 MiB         101       for i in range(100):
+    34    297.8 MiB      0.0 MiB         100           j = i**1000
+    35    297.8 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 23ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    297.8 MiB    297.8 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    297.8 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    293.0 MiB     -4.8 MiB           1       prediction =  model.predict(img)
+    33    293.0 MiB      0.0 MiB         101       for i in range(100):
+    34    293.0 MiB      0.0 MiB         100           j = i**1000
+    35    293.0 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 22ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    293.0 MiB    293.0 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    293.0 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    296.0 MiB      2.9 MiB           1       prediction =  model.predict(img)
+    33    296.0 MiB      0.0 MiB         101       for i in range(100):
+    34    296.0 MiB      0.0 MiB         100           j = i**1000
+    35    296.0 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 22ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    296.0 MiB    296.0 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    296.0 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    289.8 MiB     -6.2 MiB           1       prediction =  model.predict(img)
+    33    289.8 MiB      0.0 MiB         101       for i in range(100):
+    34    289.8 MiB      0.0 MiB         100           j = i**1000
+    35    289.8 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 22ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    289.8 MiB    289.8 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    289.8 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    292.4 MiB      2.6 MiB           1       prediction =  model.predict(img)
+    33    292.4 MiB      0.0 MiB         101       for i in range(100):
+    34    292.4 MiB      0.0 MiB         100           j = i**1000
+    35    292.4 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 25ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    292.4 MiB    292.4 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    292.4 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    297.5 MiB      5.1 MiB           1       prediction =  model.predict(img)
+    33    297.5 MiB      0.0 MiB         101       for i in range(100):
+    34    297.5 MiB      0.0 MiB         100           j = i**1000
+    35    297.5 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 21ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    297.5 MiB    297.5 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    297.5 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    298.9 MiB      1.4 MiB           1       prediction =  model.predict(img)
+    33    298.9 MiB      0.0 MiB         101       for i in range(100):
+    34    298.9 MiB      0.0 MiB         100           j = i**1000
+    35    298.9 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 22ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    298.9 MiB    298.9 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    298.9 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    299.7 MiB      0.7 MiB           1       prediction =  model.predict(img)
+    33    299.7 MiB      0.0 MiB         101       for i in range(100):
+    34    299.7 MiB      0.0 MiB         100           j = i**1000
+    35    299.7 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 21ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    299.7 MiB    299.7 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    299.7 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    299.8 MiB      0.2 MiB           1       prediction =  model.predict(img)
+    33    299.8 MiB      0.0 MiB         101       for i in range(100):
+    34    299.8 MiB      0.0 MiB         100           j = i**1000
+    35    299.8 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 21ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    299.8 MiB    299.8 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    299.8 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    302.4 MiB      2.5 MiB           1       prediction =  model.predict(img)
+    33    302.4 MiB      0.0 MiB         101       for i in range(100):
+    34    302.4 MiB      0.0 MiB         100           j = i**1000
+    35    302.4 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 21ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    302.4 MiB    302.4 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    302.4 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    303.0 MiB      0.6 MiB           1       prediction =  model.predict(img)
+    33    303.0 MiB      0.0 MiB         101       for i in range(100):
+    34    303.0 MiB      0.0 MiB         100           j = i**1000
+    35    303.0 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 21ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    303.0 MiB    303.0 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    303.0 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    304.9 MiB      1.9 MiB           1       prediction =  model.predict(img)
+    33    304.9 MiB      0.0 MiB         101       for i in range(100):
+    34    304.9 MiB      0.0 MiB         100           j = i**1000
+    35    304.9 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 21ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    304.9 MiB    304.9 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    304.9 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    306.1 MiB      1.2 MiB           1       prediction =  model.predict(img)
+    33    306.1 MiB      0.0 MiB         101       for i in range(100):
+    34    306.1 MiB      0.0 MiB         100           j = i**1000
+    35    306.1 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 21ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    306.1 MiB    306.1 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    306.1 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    306.6 MiB      0.5 MiB           1       prediction =  model.predict(img)
+    33    306.6 MiB      0.0 MiB         101       for i in range(100):
+    34    306.6 MiB      0.0 MiB         100           j = i**1000
+    35    306.6 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 22ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    306.6 MiB    306.6 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    306.6 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    307.0 MiB      0.5 MiB           1       prediction =  model.predict(img)
+    33    307.0 MiB      0.0 MiB         101       for i in range(100):
+    34    307.0 MiB      0.0 MiB         100           j = i**1000
+    35    307.0 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 23ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    307.0 MiB    307.0 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    307.0 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    307.1 MiB      0.0 MiB           1       prediction =  model.predict(img)
+    33    307.1 MiB      0.0 MiB         101       for i in range(100):
+    34    307.1 MiB      0.0 MiB         100           j = i**1000
+    35    307.1 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 22ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    307.1 MiB    307.1 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    307.1 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    307.3 MiB      0.2 MiB           1       prediction =  model.predict(img)
+    33    307.3 MiB      0.0 MiB         101       for i in range(100):
+    34    307.3 MiB      0.0 MiB         100           j = i**1000
+    35    307.3 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 21ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    307.3 MiB    307.3 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    307.3 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    307.3 MiB      0.0 MiB           1       prediction =  model.predict(img)
+    33    307.3 MiB      0.0 MiB         101       for i in range(100):
+    34    307.3 MiB      0.0 MiB         100           j = i**1000
+    35    307.3 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 21ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    307.3 MiB    307.3 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    307.3 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    307.3 MiB      0.0 MiB           1       prediction =  model.predict(img)
+    33    307.3 MiB      0.0 MiB         101       for i in range(100):
+    34    307.3 MiB      0.0 MiB         100           j = i**1000
+    35    307.3 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 21ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    307.3 MiB    307.3 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    307.3 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    307.5 MiB      0.2 MiB           1       prediction =  model.predict(img)
+    33    307.5 MiB      0.0 MiB         101       for i in range(100):
+    34    307.5 MiB      0.0 MiB         100           j = i**1000
+    35    307.5 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 21ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    307.5 MiB    307.5 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    307.5 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    307.5 MiB      0.0 MiB           1       prediction =  model.predict(img)
+    33    307.5 MiB      0.0 MiB         101       for i in range(100):
+    34    307.5 MiB      0.0 MiB         100           j = i**1000
+    35    307.5 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 24ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    307.5 MiB    307.5 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    307.5 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    308.7 MiB      1.1 MiB           1       prediction =  model.predict(img)
+    33    308.7 MiB      0.0 MiB         101       for i in range(100):
+    34    308.7 MiB      0.0 MiB         100           j = i**1000
+    35    308.7 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 22ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    308.7 MiB    308.7 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    308.7 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    310.6 MiB      1.9 MiB           1       prediction =  model.predict(img)
+    33    310.6 MiB      0.0 MiB         101       for i in range(100):
+    34    310.6 MiB      0.0 MiB         100           j = i**1000
+    35    310.6 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 21ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    310.6 MiB    310.6 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    310.6 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    311.2 MiB      0.6 MiB           1       prediction =  model.predict(img)
+    33    311.2 MiB      0.0 MiB         101       for i in range(100):
+    34    311.2 MiB      0.0 MiB         100           j = i**1000
+    35    311.2 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 22ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    311.2 MiB    311.2 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    311.2 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    312.5 MiB      1.3 MiB           1       prediction =  model.predict(img)
+    33    312.5 MiB      0.0 MiB         101       for i in range(100):
+    34    312.5 MiB      0.0 MiB         100           j = i**1000
+    35    312.5 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 21ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    312.5 MiB    312.5 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    312.5 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    312.7 MiB      0.2 MiB           1       prediction =  model.predict(img)
+    33    312.7 MiB      0.0 MiB         101       for i in range(100):
+    34    312.7 MiB      0.0 MiB         100           j = i**1000
+    35    312.7 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 22ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    312.7 MiB    312.7 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    312.7 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    310.8 MiB     -1.9 MiB           1       prediction =  model.predict(img)
+    33    310.8 MiB      0.0 MiB         101       for i in range(100):
+    34    310.8 MiB      0.0 MiB         100           j = i**1000
+    35    310.8 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 21ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    310.8 MiB    310.8 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    310.8 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    311.7 MiB      0.9 MiB           1       prediction =  model.predict(img)
+    33    311.7 MiB      0.0 MiB         101       for i in range(100):
+    34    311.7 MiB      0.0 MiB         100           j = i**1000
+    35    311.7 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 21ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    311.7 MiB    311.7 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    311.7 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    311.8 MiB      0.1 MiB           1       prediction =  model.predict(img)
+    33    311.8 MiB      0.0 MiB         101       for i in range(100):
+    34    311.8 MiB      0.0 MiB         100           j = i**1000
+    35    311.8 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 21ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    311.8 MiB    311.8 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    311.8 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    312.6 MiB      0.8 MiB           1       prediction =  model.predict(img)
+    33    312.6 MiB      0.0 MiB         101       for i in range(100):
+    34    312.6 MiB      0.0 MiB         100           j = i**1000
+    35    312.6 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 21ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    312.7 MiB    312.7 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    312.7 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    312.8 MiB      0.1 MiB           1       prediction =  model.predict(img)
+    33    312.8 MiB      0.0 MiB         101       for i in range(100):
+    34    312.8 MiB      0.0 MiB         100           j = i**1000
+    35    312.8 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 21ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    312.8 MiB    312.8 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    312.8 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    313.3 MiB      0.5 MiB           1       prediction =  model.predict(img)
+    33    313.3 MiB      0.0 MiB         101       for i in range(100):
+    34    313.3 MiB      0.0 MiB         100           j = i**1000
+    35    313.3 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 21ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    313.3 MiB    313.3 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    313.3 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    314.1 MiB      0.8 MiB           1       prediction =  model.predict(img)
+    33    314.1 MiB      0.0 MiB         101       for i in range(100):
+    34    314.1 MiB      0.0 MiB         100           j = i**1000
+    35    314.1 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 21ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    314.1 MiB    314.1 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    314.1 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    314.8 MiB      0.6 MiB           1       prediction =  model.predict(img)
+    33    314.8 MiB      0.0 MiB         101       for i in range(100):
+    34    314.8 MiB      0.0 MiB         100           j = i**1000
+    35    314.8 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 22ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    314.8 MiB    314.8 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    314.8 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    315.0 MiB      0.2 MiB           1       prediction =  model.predict(img)
+    33    315.0 MiB      0.0 MiB         101       for i in range(100):
+    34    315.0 MiB      0.0 MiB         100           j = i**1000
+    35    315.0 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 21ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    315.0 MiB    315.0 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    315.0 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    315.0 MiB      0.0 MiB           1       prediction =  model.predict(img)
+    33    315.0 MiB      0.0 MiB         101       for i in range(100):
+    34    315.0 MiB      0.0 MiB         100           j = i**1000
+    35    315.0 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 21ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    315.0 MiB    315.0 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    315.0 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    315.0 MiB      0.0 MiB           1       prediction =  model.predict(img)
+    33    315.0 MiB      0.0 MiB         101       for i in range(100):
+    34    315.0 MiB      0.0 MiB         100           j = i**1000
+    35    315.0 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 21ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    315.0 MiB    315.0 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    315.0 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    315.2 MiB      0.2 MiB           1       prediction =  model.predict(img)
+    33    315.2 MiB      0.0 MiB         101       for i in range(100):
+    34    315.2 MiB      0.0 MiB         100           j = i**1000
+    35    315.2 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 21ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    315.2 MiB    315.2 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    315.2 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    315.6 MiB      0.4 MiB           1       prediction =  model.predict(img)
+    33    315.6 MiB      0.0 MiB         101       for i in range(100):
+    34    315.6 MiB      0.0 MiB         100           j = i**1000
+    35    315.6 MiB      0.0 MiB           1       return prediction
+
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 21ms/step
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    29    315.6 MiB    315.6 MiB           1   @profile
+    30                                         def calling_decorators(image_path):
+    31    315.6 MiB      0.0 MiB           1       img = preprocess_image(image_path)
+    32    315.9 MiB      0.3 MiB           1       prediction =  model.predict(img)
+    33    315.9 MiB      0.0 MiB         101       for i in range(100):
+    34    315.9 MiB      0.0 MiB         100           j = i**1000
+    35    315.9 MiB      0.0 MiB           1       return prediction
+
+
+Batch Runtime: 15.639688968658447 seconds
+CPU Usage (total): 5.1%
 Iteration 1:
 --------------------------------------
-Start time of cpu, 1713134731.110948 sec
+end time of cpu, 1713219378.888443 sec
+Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/1dcnn.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    56    341.4 MiB    341.4 MiB           1   @profile
+    57                                         def main1(input_path, output_csv_path):
+    58    341.4 MiB      0.1 MiB           1       if os.path.isfile(input_path):
+    59                                                 print("Input should be a directory containing images.")
+    60                                                 return
+    61                                                 
+    62    341.4 MiB      0.0 MiB           1       elif os.path.isdir(input_path):
+    63    341.4 MiB      0.0 MiB           1           num_iterations = 1
+    64    341.4 MiB      0.0 MiB           1           batch_size = 100
+    65    341.4 MiB      0.0 MiB           1           all_predictions = []
+    66    341.4 MiB      0.0 MiB           1           all_runtimes = []
+    67    341.4 MiB      0.0 MiB           1           total_cpu =[]
+    68                                                 
+    69                                         
+    70    341.4 MiB      0.0 MiB           2           for _ in range(num_iterations):
+    71    341.4 MiB      0.0 MiB           1               batch_predictions = []
+    72    341.4 MiB      0.0 MiB           1               start_time = time.time()
+    73    135.3 MiB   -206.1 MiB           1               cpu_usage_start = psutil.cpu_percent(5)
+    74    135.5 MiB      0.2 MiB           1               print(f"CPU Usage (Before): {cpu_usage_start}%")
+    75                                                     
+    76    138.4 MiB      2.8 MiB           1               files = os.listdir(input_path)
+    77    138.7 MiB      0.3 MiB           1               random.shuffle(files)
+    78                                                     
+    79    351.0 MiB  -3818.9 MiB         100               for i, filename in enumerate(files):
+    80    351.0 MiB  -3818.8 MiB         100                   if filename.endswith(".jpg") or filename.endswith(".jpeg") or filename.endswith(".png"):
+    81    351.0 MiB  -3818.7 MiB         100                       image_path = os.path.join(input_path, filename)
+    82    351.0 MiB  -3642.7 MiB         100                       predicted_class = predict_single_image(image_path)
+    83    351.0 MiB  -3854.9 MiB         100                       batch_predictions.append((filename, predicted_class))
+    84                                                             
+    85                                                             
+    86    351.0 MiB  -3854.9 MiB         100                       if (i + 1) % batch_size == 0:
+    87    315.9 MiB    -35.2 MiB           1                           break
+    88                                                     
+    89    315.9 MiB      0.0 MiB           1               end_time = time.time()
+    90    296.5 MiB    -19.3 MiB           1               cpu_usage_end = psutil.cpu_percent(5)
+    91                                                     # print(f"CPU Usage (after): {cpu_usage_end}%")
+    92    296.5 MiB      0.0 MiB           1               batch_runtime = end_time - start_time
+    93    296.5 MiB      0.0 MiB           1               print(f"Batch Runtime: {batch_runtime} seconds")
+    94    296.5 MiB      0.0 MiB           1               total_cpu_usage= cpu_usage_end
+    95    296.5 MiB      0.0 MiB           1               print(f"CPU Usage (total): {total_cpu_usage}%")
+    96                                                     
+    97    296.5 MiB      0.0 MiB           1               all_predictions.append(batch_predictions)
+    98    296.5 MiB      0.0 MiB           1               all_runtimes.append(batch_runtime)
+    99    296.5 MiB      0.0 MiB           1               total_cpu.append(total_cpu_usage)
+   100                                         
+   101    296.5 MiB      0.0 MiB           1               print(f"Iteration {len(all_runtimes)}:")
+   102    296.5 MiB      0.0 MiB           1               print("--------------------------------------")
+   103                                                 
+   104    296.9 MiB      0.4 MiB           1               write_results_to_csv(output_csv_path, all_predictions, batch_runtime, total_cpu_usage)
+   105                                                 
+   106                                             else:
+   107                                                 print("Invalid input path.")
+
+
