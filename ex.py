@@ -1,11 +1,11 @@
 import pandas as pd
 import time
 
-cpu_data = pd.read_csv("/Users/sandeepreddy/Desktop/cpu_time_cnn_results10.csv")
+cpu_data = pd.read_csv("/Users/sandeepreddy/Desktop/cpu_time_logistic_results10.csv")
 
     # Set the start and end times of the experiment
-stime_when_you_start_experiment = "06:27:56"  
-etime_when_you_end_experiment = "06:28:06"     
+stime_when_you_start_experiment = "10:54:08"  
+etime_when_you_end_experiment = "10:54:19"     
 
 # Filter CPU data for before and during the experiment
 before_experiment = cpu_data[cpu_data['time_stamp'] < stime_when_you_start_experiment]

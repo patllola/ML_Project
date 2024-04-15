@@ -10,6 +10,10 @@ import time  # Import the time module for timing and sleeping
 import matplotlib.pyplot as plt
 from memory_profiler import profile
 
+
+start_time = time.time()
+print(f"Start time of cpu, {start_time} sec")
+
 #  loading the model
 model_filename = "/Users/sandeepreddy/Desktop/Differentmodels/models40k/logisticregression.pkl"
 loaded_model = joblib.load(model_filename)
@@ -119,6 +123,8 @@ def write_results_to_csv(output_csv_path, all_predictions,batch_runtime,total_cp
                 
             csv_writer.writerow(["Total batch time:", batch_runtime])
             csv_writer.writerow(["Total cpu time:",total_cpu_usage])
+            end_time = time.time()
+            print(f"Start time of cpu, {end_time} sec")
 
 output_csv_path = os.path.join(desktop_path, 'mac_data_logistic.csv')
 input_path = '/Users/sandeepreddy/Desktop/test/'
