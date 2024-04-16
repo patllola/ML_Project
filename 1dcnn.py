@@ -12,7 +12,7 @@ from memory_profiler import memory_usage
 import re  # Import the regular expression module
 
 
-start_time = time.time()
+start_time = time.strftime("%I:%M:%S")
 print(f"Start time of cpu, {start_time} sec")
 # Load the saved model
 model = tf.keras.models.load_model("/Users/sandeepreddy/Desktop/Differentmodels/models40k/cnn2D_image_classification_model.h5")
@@ -31,6 +31,7 @@ def calling_decorators(image_path):
     img = preprocess_image(image_path)
     prediction =  model.predict(img)
     return prediction
+
 
 def predict_single_image(image_path):
     # process = psutil.Process()
@@ -51,6 +52,7 @@ def predict_single_image(image_path):
     else:
         return "Negative"
 
+# @profile
 def main(input_path, output_csv_path):
     if os.path.isfile(input_path):
         print("Input should be a directory containing images.")
@@ -115,7 +117,7 @@ def write_results_to_csv(output_csv_path, all_predictions,batch_runtime,total_cp
                 
             csv_writer.writerow(["Total batch time:", batch_runtime])
             csv_writer.writerow(["Total cpu time:",total_cpu_usage])
-            end_time = time.time()
+            end_time = time.strftime("%I:%M:%S")
             print(f"end time of cpu, {end_time} sec")
 
 output_csv_path = os.path.join(desktop_path, 'mac_data_1dcnn.csv')

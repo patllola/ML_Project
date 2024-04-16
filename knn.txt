@@ -1,14 +1,14 @@
-Start time of cpu, 1713139458.9027998 sec
-CPU Usage (Before): 19.7%
+Start time of cpu, 09:57:27 sec
+CPU Usage (Before): 42.1%
 Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38     61.5 MiB     61.5 MiB           1   @profile
+    38     47.4 MiB     47.4 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40     84.4 MiB     22.9 MiB           1       img = preprocess_image(image_path)
-    41   2929.4 MiB   2845.0 MiB           1       prediction = model.predict(img)
-    42   2929.4 MiB      0.0 MiB           1       return prediction 
+    40     70.3 MiB     22.9 MiB           1       img = preprocess_image(image_path)
+    41   2928.2 MiB   2857.9 MiB           1       prediction = model.predict(img)
+    42   2928.2 MiB      0.0 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/14147.jpg ['negative']
@@ -16,11 +16,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2929.5 MiB   2929.5 MiB           1   @profile
+    38   2928.3 MiB   2928.3 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2932.2 MiB      2.6 MiB           1       img = preprocess_image(image_path)
-    41   2932.2 MiB      0.0 MiB           1       prediction = model.predict(img)
-    42   2932.2 MiB      0.0 MiB           1       return prediction 
+    40   2930.8 MiB      2.5 MiB           1       img = preprocess_image(image_path)
+    41   2930.9 MiB      0.1 MiB           1       prediction = model.predict(img)
+    42   2930.9 MiB      0.0 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/16679_1.jpg ['positive']
@@ -28,11 +28,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2932.2 MiB   2932.2 MiB           1   @profile
+    38   2930.9 MiB   2930.9 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2934.4 MiB      2.2 MiB           1       img = preprocess_image(image_path)
-    41   2934.5 MiB      0.1 MiB           1       prediction = model.predict(img)
-    42   2934.5 MiB      0.0 MiB           1       return prediction 
+    40   2935.0 MiB      4.1 MiB           1       img = preprocess_image(image_path)
+    41   2935.1 MiB      0.1 MiB           1       prediction = model.predict(img)
+    42   2935.1 MiB      0.0 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/04354.jpg ['positive']
@@ -40,11 +40,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2934.5 MiB   2934.5 MiB           1   @profile
+    38   2935.1 MiB   2935.1 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2935.7 MiB      1.2 MiB           1       img = preprocess_image(image_path)
-    41   2935.8 MiB      0.1 MiB           1       prediction = model.predict(img)
-    42   2935.8 MiB      0.0 MiB           1       return prediction 
+    40   2936.5 MiB      1.4 MiB           1       img = preprocess_image(image_path)
+    41   2936.5 MiB      0.0 MiB           1       prediction = model.predict(img)
+    42   2936.5 MiB      0.0 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/13628.jpg ['negative']
@@ -52,11 +52,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2935.8 MiB   2935.8 MiB           1   @profile
+    38   2936.5 MiB   2936.5 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2935.8 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    41   2935.8 MiB      0.0 MiB           1       prediction = model.predict(img)
-    42   2935.8 MiB      0.0 MiB           1       return prediction 
+    40   2935.4 MiB     -1.1 MiB           1       img = preprocess_image(image_path)
+    41   2913.3 MiB    -22.2 MiB           1       prediction = model.predict(img)
+    42   2913.3 MiB      0.0 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/12536.jpg ['negative']
@@ -64,11 +64,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2935.8 MiB   2935.8 MiB           1   @profile
+    38   2913.3 MiB   2913.3 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2938.7 MiB      2.9 MiB           1       img = preprocess_image(image_path)
-    41   2938.7 MiB      0.0 MiB           1       prediction = model.predict(img)
-    42   2938.7 MiB      0.0 MiB           1       return prediction 
+    40   2914.6 MiB      1.3 MiB           1       img = preprocess_image(image_path)
+    41   2914.6 MiB      0.0 MiB           1       prediction = model.predict(img)
+    42   2914.6 MiB      0.0 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/15259.jpg ['negative']
@@ -76,11 +76,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2938.7 MiB   2938.7 MiB           1   @profile
+    38   2914.7 MiB   2914.7 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2938.8 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    41   2938.8 MiB      0.0 MiB           1       prediction = model.predict(img)
-    42   2938.8 MiB      0.0 MiB           1       return prediction 
+    40   2916.7 MiB      2.0 MiB           1       img = preprocess_image(image_path)
+    41   2916.7 MiB      0.1 MiB           1       prediction = model.predict(img)
+    42   2916.7 MiB      0.0 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/02725.jpg ['positive']
@@ -88,11 +88,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2938.8 MiB   2938.8 MiB           1   @profile
+    38   2916.7 MiB   2916.7 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2939.2 MiB      0.4 MiB           1       img = preprocess_image(image_path)
-    41   2939.2 MiB      0.0 MiB           1       prediction = model.predict(img)
-    42   2939.2 MiB      0.0 MiB           1       return prediction 
+    40   2917.6 MiB      0.8 MiB           1       img = preprocess_image(image_path)
+    41   2916.5 MiB     -1.1 MiB           1       prediction = model.predict(img)
+    42   2916.5 MiB      0.0 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/11369_1.jpg ['positive']
@@ -100,11 +100,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2939.2 MiB   2939.2 MiB           1   @profile
+    38   2916.5 MiB   2916.5 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2939.2 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    41   2939.2 MiB      0.0 MiB           1       prediction = model.predict(img)
-    42   2939.2 MiB      0.0 MiB           1       return prediction 
+    40   2917.5 MiB      1.0 MiB           1       img = preprocess_image(image_path)
+    41   2917.5 MiB      0.0 MiB           1       prediction = model.predict(img)
+    42   2917.5 MiB      0.0 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/19463.jpg ['negative']
@@ -112,11 +112,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2939.2 MiB   2939.2 MiB           1   @profile
+    38   2917.5 MiB   2917.5 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2939.6 MiB      0.4 MiB           1       img = preprocess_image(image_path)
-    41   2939.6 MiB      0.0 MiB           1       prediction = model.predict(img)
-    42   2939.6 MiB      0.0 MiB           1       return prediction 
+    40   2918.9 MiB      1.4 MiB           1       img = preprocess_image(image_path)
+    41   2493.5 MiB   -425.4 MiB           1       prediction = model.predict(img)
+    42   2492.2 MiB     -1.3 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/07885.jpg ['negative']
@@ -124,11 +124,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2939.6 MiB   2939.6 MiB           1   @profile
+    38   2486.5 MiB   2486.5 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2939.6 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    41   2939.7 MiB      0.0 MiB           1       prediction = model.predict(img)
-    42   2939.7 MiB      0.0 MiB           1       return prediction 
+    40   2335.3 MiB   -151.2 MiB           1       img = preprocess_image(image_path)
+    41   2913.4 MiB    578.1 MiB           1       prediction = model.predict(img)
+    42   2913.4 MiB      0.0 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/16750.jpg ['negative']
@@ -136,11 +136,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2939.7 MiB   2939.7 MiB           1   @profile
+    38   2913.4 MiB   2913.4 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2939.7 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    41   2939.7 MiB      0.0 MiB           1       prediction = model.predict(img)
-    42   2939.7 MiB      0.0 MiB           1       return prediction 
+    40   2917.0 MiB      3.6 MiB           1       img = preprocess_image(image_path)
+    41   2915.6 MiB     -1.4 MiB           1       prediction = model.predict(img)
+    42   2915.6 MiB      0.0 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/09670.jpg ['positive']
@@ -148,11 +148,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2939.7 MiB   2939.7 MiB           1   @profile
+    38   2915.6 MiB   2915.6 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2939.7 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    41   2939.7 MiB      0.0 MiB           1       prediction = model.predict(img)
-    42   2939.7 MiB      0.0 MiB           1       return prediction 
+    40   2917.6 MiB      2.0 MiB           1       img = preprocess_image(image_path)
+    41   2907.0 MiB    -10.6 MiB           1       prediction = model.predict(img)
+    42   2907.0 MiB      0.0 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/19041_1.jpg ['positive']
@@ -160,11 +160,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2939.7 MiB   2939.7 MiB           1   @profile
+    38   2907.0 MiB   2907.0 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2939.7 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    41   2939.7 MiB      0.0 MiB           1       prediction = model.predict(img)
-    42   2939.7 MiB      0.0 MiB           1       return prediction 
+    40   2909.5 MiB      2.5 MiB           1       img = preprocess_image(image_path)
+    41   2909.5 MiB      0.1 MiB           1       prediction = model.predict(img)
+    42   2909.5 MiB      0.0 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/06543.jpg ['positive']
@@ -172,11 +172,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2939.7 MiB   2939.7 MiB           1   @profile
+    38   2909.5 MiB   2909.5 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2939.7 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    41   2939.7 MiB      0.0 MiB           1       prediction = model.predict(img)
-    42   2939.7 MiB      0.0 MiB           1       return prediction 
+    40   2909.6 MiB      0.1 MiB           1       img = preprocess_image(image_path)
+    41   2555.1 MiB   -354.5 MiB           1       prediction = model.predict(img)
+    42   2555.1 MiB      0.0 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/10321.jpg ['negative']
@@ -184,11 +184,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2939.7 MiB   2939.7 MiB           1   @profile
+    38   2547.4 MiB   2547.4 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2942.0 MiB      2.3 MiB           1       img = preprocess_image(image_path)
-    41   2942.1 MiB      0.1 MiB           1       prediction = model.predict(img)
-    42   2942.1 MiB      0.0 MiB           1       return prediction 
+    40   2402.5 MiB   -144.9 MiB           1       img = preprocess_image(image_path)
+    41   2895.7 MiB    493.2 MiB           1       prediction = model.predict(img)
+    42   2895.7 MiB      0.0 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/16988.jpg ['negative']
@@ -196,11 +196,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2942.1 MiB   2942.1 MiB           1   @profile
+    38   2895.8 MiB   2895.8 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2943.7 MiB      1.6 MiB           1       img = preprocess_image(image_path)
-    41   2943.7 MiB      0.0 MiB           1       prediction = model.predict(img)
-    42   2943.7 MiB      0.0 MiB           1       return prediction 
+    40   2900.3 MiB      4.5 MiB           1       img = preprocess_image(image_path)
+    41   2900.2 MiB     -0.1 MiB           1       prediction = model.predict(img)
+    42   2900.2 MiB      0.0 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/00132.jpg ['positive']
@@ -208,11 +208,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2943.7 MiB   2943.7 MiB           1   @profile
+    38   2900.2 MiB   2900.2 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2943.7 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    41   2943.7 MiB      0.0 MiB           1       prediction = model.predict(img)
-    42   2943.7 MiB      0.0 MiB           1       return prediction 
+    40   2904.4 MiB      4.2 MiB           1       img = preprocess_image(image_path)
+    41   2865.3 MiB    -39.0 MiB           1       prediction = model.predict(img)
+    42   2865.3 MiB      0.0 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/11981.jpg ['negative']
@@ -220,11 +220,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2943.7 MiB   2943.7 MiB           1   @profile
+    38   2865.6 MiB   2865.6 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2950.1 MiB      6.3 MiB           1       img = preprocess_image(image_path)
-    41   2950.4 MiB      0.3 MiB           1       prediction = model.predict(img)
-    42   2950.4 MiB      0.0 MiB           1       return prediction 
+    40   2872.9 MiB      7.3 MiB           1       img = preprocess_image(image_path)
+    41   2905.7 MiB     32.8 MiB           1       prediction = model.predict(img)
+    42   2905.7 MiB      0.0 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/00654.jpg ['negative']
@@ -232,11 +232,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2950.4 MiB   2950.4 MiB           1   @profile
+    38   2905.7 MiB   2905.7 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2953.3 MiB      3.0 MiB           1       img = preprocess_image(image_path)
-    41   2950.3 MiB     -3.0 MiB           1       prediction = model.predict(img)
-    42   2950.3 MiB      0.0 MiB           1       return prediction 
+    40   2907.5 MiB      1.7 MiB           1       img = preprocess_image(image_path)
+    41   2895.8 MiB    -11.7 MiB           1       prediction = model.predict(img)
+    42   2895.1 MiB     -0.7 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/17328.jpg ['negative']
@@ -244,11 +244,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2950.3 MiB   2950.3 MiB           1   @profile
+    38   2891.1 MiB   2891.1 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2953.8 MiB      3.5 MiB           1       img = preprocess_image(image_path)
-    41   2953.8 MiB      0.0 MiB           1       prediction = model.predict(img)
-    42   2953.8 MiB      0.0 MiB           1       return prediction 
+    40   2737.1 MiB   -154.0 MiB           1       img = preprocess_image(image_path)
+    41   1143.0 MiB  -1594.1 MiB           1       prediction = model.predict(img)
+    42   1142.1 MiB     -1.0 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/10447.jpg ['negative']
@@ -256,11 +256,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2953.8 MiB   2953.8 MiB           1   @profile
+    38   1134.5 MiB   1134.5 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2953.8 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    41   2953.8 MiB      0.0 MiB           1       prediction = model.predict(img)
-    42   2953.8 MiB      0.0 MiB           1       return prediction 
+    40   1045.8 MiB    -88.7 MiB           1       img = preprocess_image(image_path)
+    41    819.1 MiB   -226.7 MiB           1       prediction = model.predict(img)
+    42    819.2 MiB      0.1 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/08208.jpg ['positive']
@@ -268,11 +268,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2953.8 MiB   2953.8 MiB           1   @profile
+    38    822.1 MiB    822.1 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2955.0 MiB      1.2 MiB           1       img = preprocess_image(image_path)
-    41   2954.9 MiB     -0.1 MiB           1       prediction = model.predict(img)
-    42   2954.9 MiB      0.0 MiB           1       return prediction 
+    40    666.3 MiB   -155.8 MiB           1       img = preprocess_image(image_path)
+    41    715.8 MiB     49.5 MiB           1       prediction = model.predict(img)
+    42    715.9 MiB      0.1 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/09116.jpg ['positive']
@@ -280,11 +280,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2954.9 MiB   2954.9 MiB           1   @profile
+    38    718.8 MiB    718.8 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2956.2 MiB      1.3 MiB           1       img = preprocess_image(image_path)
-    41   2956.2 MiB     -0.0 MiB           1       prediction = model.predict(img)
-    42   2956.2 MiB      0.0 MiB           1       return prediction 
+    40    737.5 MiB     18.7 MiB           1       img = preprocess_image(image_path)
+    41   2867.6 MiB   2130.1 MiB           1       prediction = model.predict(img)
+    42   2867.8 MiB      0.1 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/11759.jpg ['negative']
@@ -292,11 +292,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2956.2 MiB   2956.2 MiB           1   @profile
+    38   2870.3 MiB   2870.3 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2956.2 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    41   2956.2 MiB      0.0 MiB           1       prediction = model.predict(img)
-    42   2956.2 MiB      0.0 MiB           1       return prediction 
+    40   2636.0 MiB   -234.4 MiB           1       img = preprocess_image(image_path)
+    41   2581.5 MiB    -54.5 MiB           1       prediction = model.predict(img)
+    42   2581.3 MiB     -0.2 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/13819_1.jpg ['positive']
@@ -304,11 +304,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2956.2 MiB   2956.2 MiB           1   @profile
+    38   2580.9 MiB   2580.9 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2956.2 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    41   2956.2 MiB      0.0 MiB           1       prediction = model.predict(img)
-    42   2956.2 MiB      0.0 MiB           1       return prediction 
+    40   2411.6 MiB   -169.3 MiB           1       img = preprocess_image(image_path)
+    41   1336.1 MiB  -1075.5 MiB           1       prediction = model.predict(img)
+    42   1334.6 MiB     -1.5 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/06225.jpg ['positive']
@@ -316,11 +316,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2956.2 MiB   2956.2 MiB           1   @profile
+    38   1273.7 MiB   1273.7 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2956.2 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    41   2956.2 MiB      0.0 MiB           1       prediction = model.predict(img)
-    42   2956.2 MiB      0.0 MiB           1       return prediction 
+    40   1243.3 MiB    -30.4 MiB           1       img = preprocess_image(image_path)
+    41   2609.6 MiB   1366.4 MiB           1       prediction = model.predict(img)
+    42   2609.8 MiB      0.1 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/19305.jpg ['negative']
@@ -328,11 +328,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2956.2 MiB   2956.2 MiB           1   @profile
+    38   2592.7 MiB   2592.7 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2956.2 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    41   2956.2 MiB      0.0 MiB           1       prediction = model.predict(img)
-    42   2956.2 MiB      0.0 MiB           1       return prediction 
+    40   2406.5 MiB   -186.2 MiB           1       img = preprocess_image(image_path)
+    41   1387.3 MiB  -1019.1 MiB           1       prediction = model.predict(img)
+    42   1387.5 MiB      0.1 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/16036.jpg ['negative']
@@ -340,11 +340,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2956.2 MiB   2956.2 MiB           1   @profile
+    38   1390.2 MiB   1390.2 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2956.2 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    41   2956.2 MiB      0.0 MiB           1       prediction = model.predict(img)
-    42   2956.2 MiB      0.0 MiB           1       return prediction 
+    40   1288.6 MiB   -101.6 MiB           1       img = preprocess_image(image_path)
+    41   2594.1 MiB   1305.5 MiB           1       prediction = model.predict(img)
+    42   2593.3 MiB     -0.8 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/19004_1.jpg ['positive']
@@ -352,11 +352,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2956.2 MiB   2956.2 MiB           1   @profile
+    38   2580.4 MiB   2580.4 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2956.2 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    41   2933.7 MiB    -22.5 MiB           1       prediction = model.predict(img)
-    42   2933.7 MiB      0.0 MiB           1       return prediction 
+    40   2303.3 MiB   -277.0 MiB           1       img = preprocess_image(image_path)
+    41   2685.0 MiB    381.6 MiB           1       prediction = model.predict(img)
+    42   2678.8 MiB     -6.1 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/02043.jpg ['positive']
@@ -364,11 +364,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2933.7 MiB   2933.7 MiB           1   @profile
+    38   2559.8 MiB   2559.8 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2933.7 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    41   2891.4 MiB    -42.3 MiB           1       prediction = model.predict(img)
-    42   2890.7 MiB     -0.8 MiB           1       return prediction 
+    40   2031.3 MiB   -528.5 MiB           1       img = preprocess_image(image_path)
+    41   1427.1 MiB   -604.2 MiB           1       prediction = model.predict(img)
+    42   1427.2 MiB      0.1 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/12250.jpg ['negative']
@@ -376,11 +376,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2886.7 MiB   2886.7 MiB           1   @profile
+    38   1430.1 MiB   1430.1 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2662.4 MiB   -224.4 MiB           1       img = preprocess_image(image_path)
-    41   2929.2 MiB    266.9 MiB           1       prediction = model.predict(img)
-    42   2929.2 MiB      0.0 MiB           1       return prediction 
+    40   1275.1 MiB   -155.0 MiB           1       img = preprocess_image(image_path)
+    41   2869.5 MiB   1594.4 MiB           1       prediction = model.predict(img)
+    42   2869.6 MiB      0.1 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/04432.jpg ['positive']
@@ -388,11 +388,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2929.4 MiB   2929.4 MiB           1   @profile
+    38   2872.3 MiB   2872.3 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2927.1 MiB     -2.3 MiB           1       img = preprocess_image(image_path)
-    41   2926.5 MiB     -0.7 MiB           1       prediction = model.predict(img)
-    42   2926.5 MiB      0.0 MiB           1       return prediction 
+    40   2887.0 MiB     14.7 MiB           1       img = preprocess_image(image_path)
+    41   2889.4 MiB      2.3 MiB           1       prediction = model.predict(img)
+    42   2889.4 MiB      0.0 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/14621.jpg ['negative']
@@ -400,11 +400,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2926.5 MiB   2926.5 MiB           1   @profile
+    38   2889.4 MiB   2889.4 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2927.2 MiB      0.7 MiB           1       img = preprocess_image(image_path)
-    41   2925.6 MiB     -1.5 MiB           1       prediction = model.predict(img)
-    42   2925.6 MiB      0.0 MiB           1       return prediction 
+    40   2892.5 MiB      3.1 MiB           1       img = preprocess_image(image_path)
+    41   2892.7 MiB      0.2 MiB           1       prediction = model.predict(img)
+    42   2892.7 MiB      0.0 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/18041_1.jpg ['negative']
@@ -412,11 +412,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2925.6 MiB   2925.6 MiB           1   @profile
+    38   2892.7 MiB   2892.7 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2927.2 MiB      1.5 MiB           1       img = preprocess_image(image_path)
-    41   2927.2 MiB      0.0 MiB           1       prediction = model.predict(img)
-    42   2927.2 MiB      0.0 MiB           1       return prediction 
+    40   2895.4 MiB      2.7 MiB           1       img = preprocess_image(image_path)
+    41   2895.4 MiB      0.0 MiB           1       prediction = model.predict(img)
+    42   2895.4 MiB      0.0 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/02057.jpg ['positive']
@@ -424,11 +424,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2927.2 MiB   2927.2 MiB           1   @profile
+    38   2895.4 MiB   2895.4 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2928.2 MiB      1.0 MiB           1       img = preprocess_image(image_path)
-    41   2928.2 MiB      0.0 MiB           1       prediction = model.predict(img)
-    42   2928.2 MiB      0.0 MiB           1       return prediction 
+    40   2896.8 MiB      1.4 MiB           1       img = preprocess_image(image_path)
+    41   2896.9 MiB      0.1 MiB           1       prediction = model.predict(img)
+    42   2896.9 MiB      0.0 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/05738.jpg ['positive']
@@ -436,11 +436,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2928.2 MiB   2928.2 MiB           1   @profile
+    38   2896.9 MiB   2896.9 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2928.3 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    41   2928.3 MiB      0.0 MiB           1       prediction = model.predict(img)
-    42   2928.3 MiB      0.0 MiB           1       return prediction 
+    40   2896.9 MiB      0.1 MiB           1       img = preprocess_image(image_path)
+    41   2896.9 MiB      0.0 MiB           1       prediction = model.predict(img)
+    42   2896.9 MiB      0.0 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/12244.jpg ['negative']
@@ -448,11 +448,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2928.3 MiB   2928.3 MiB           1   @profile
+    38   2896.9 MiB   2896.9 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2928.3 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    41   2928.3 MiB      0.0 MiB           1       prediction = model.predict(img)
-    42   2928.3 MiB      0.0 MiB           1       return prediction 
+    40   2899.7 MiB      2.8 MiB           1       img = preprocess_image(image_path)
+    41   2898.0 MiB     -1.7 MiB           1       prediction = model.predict(img)
+    42   2898.0 MiB      0.0 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/04426.jpg ['positive']
@@ -460,11 +460,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2928.3 MiB   2928.3 MiB           1   @profile
+    38   2898.0 MiB   2898.0 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2928.7 MiB      0.4 MiB           1       img = preprocess_image(image_path)
-    41   2928.7 MiB      0.0 MiB           1       prediction = model.predict(img)
-    42   2928.7 MiB      0.0 MiB           1       return prediction 
+    40   2903.3 MiB      5.3 MiB           1       img = preprocess_image(image_path)
+    41   2903.3 MiB      0.0 MiB           1       prediction = model.predict(img)
+    42   2903.3 MiB      0.0 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/14635.jpg ['negative']
@@ -472,11 +472,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2928.7 MiB   2928.7 MiB           1   @profile
+    38   2903.3 MiB   2903.3 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2929.1 MiB      0.4 MiB           1       img = preprocess_image(image_path)
-    41   2929.1 MiB      0.0 MiB           1       prediction = model.predict(img)
-    42   2929.1 MiB      0.0 MiB           1       return prediction 
+    40   2903.5 MiB      0.1 MiB           1       img = preprocess_image(image_path)
+    41   2248.5 MiB   -655.0 MiB           1       prediction = model.predict(img)
+    42   2248.0 MiB     -0.4 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/18802_1.jpg ['positive']
@@ -484,11 +484,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2929.1 MiB   2929.1 MiB           1   @profile
+    38   2236.9 MiB   2236.9 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2929.2 MiB      0.1 MiB           1       img = preprocess_image(image_path)
-    41   2926.4 MiB     -2.8 MiB           1       prediction = model.predict(img)
-    42   2926.4 MiB      0.0 MiB           1       return prediction 
+    40   1800.2 MiB   -436.7 MiB           1       img = preprocess_image(image_path)
+    41   2868.4 MiB   1068.2 MiB           1       prediction = model.predict(img)
+    42   2868.5 MiB      0.1 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/03349.jpg ['positive']
@@ -496,11 +496,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2926.4 MiB   2926.4 MiB           1   @profile
+    38   2871.1 MiB   2871.1 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2926.4 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    41   2926.4 MiB      0.0 MiB           1       prediction = model.predict(img)
-    42   2926.4 MiB      0.0 MiB           1       return prediction 
+    40   2886.4 MiB     15.3 MiB           1       img = preprocess_image(image_path)
+    41   2887.8 MiB      1.4 MiB           1       prediction = model.predict(img)
+    42   2887.8 MiB      0.0 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/00640.jpg ['positive']
@@ -508,11 +508,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2926.4 MiB   2926.4 MiB           1   @profile
+    38   2887.8 MiB   2887.8 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2926.4 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    41   2926.4 MiB      0.0 MiB           1       prediction = model.predict(img)
-    42   2926.4 MiB      0.0 MiB           1       return prediction 
+    40   2891.5 MiB      3.7 MiB           1       img = preprocess_image(image_path)
+    41   2890.8 MiB     -0.7 MiB           1       prediction = model.predict(img)
+    42   2890.8 MiB      0.0 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/11995.jpg ['negative']
@@ -520,11 +520,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2926.4 MiB   2926.4 MiB           1   @profile
+    38   2890.8 MiB   2890.8 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2926.5 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    41   2926.5 MiB      0.0 MiB           1       prediction = model.predict(img)
-    42   2926.5 MiB      0.0 MiB           1       return prediction 
+    40   2892.0 MiB      1.2 MiB           1       img = preprocess_image(image_path)
+    41   2892.1 MiB      0.0 MiB           1       prediction = model.predict(img)
+    42   2892.1 MiB      0.0 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/10453.jpg ['negative']
@@ -532,11 +532,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2926.5 MiB   2926.5 MiB           1   @profile
+    38   2892.1 MiB   2892.1 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2926.5 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    41   2926.5 MiB      0.0 MiB           1       prediction = model.predict(img)
-    42   2926.5 MiB      0.0 MiB           1       return prediction 
+    40   2852.9 MiB    -39.2 MiB           1       img = preprocess_image(image_path)
+    41   2831.2 MiB    -21.7 MiB           1       prediction = model.predict(img)
+    42   2831.2 MiB      0.0 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/17679_1.jpg ['positive']
@@ -544,11 +544,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2926.5 MiB   2926.5 MiB           1   @profile
+    38   2831.2 MiB   2831.2 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2926.7 MiB      0.2 MiB           1       img = preprocess_image(image_path)
-    41   2926.7 MiB      0.0 MiB           1       prediction = model.predict(img)
-    42   2926.7 MiB      0.0 MiB           1       return prediction 
+    40   2835.8 MiB      4.5 MiB           1       img = preprocess_image(image_path)
+    41   2665.0 MiB   -170.8 MiB           1       prediction = model.predict(img)
+    42   2665.0 MiB      0.0 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/00898.jpg ['negative']
@@ -556,11 +556,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2926.7 MiB   2926.7 MiB           1   @profile
+    38   2661.1 MiB   2661.1 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2926.7 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    41   2926.7 MiB      0.0 MiB           1       prediction = model.predict(img)
-    42   2926.7 MiB      0.0 MiB           1       return prediction 
+    40   2374.7 MiB   -286.4 MiB           1       img = preprocess_image(image_path)
+    41   2890.3 MiB    515.6 MiB           1       prediction = model.predict(img)
+    42   2890.3 MiB      0.0 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/09102.jpg ['positive']
@@ -568,11 +568,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2926.7 MiB   2926.7 MiB           1   @profile
+    38   2892.0 MiB   2892.0 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2927.1 MiB      0.4 MiB           1       img = preprocess_image(image_path)
-    41   2927.1 MiB      0.0 MiB           1       prediction = model.predict(img)
-    42   2927.1 MiB      0.0 MiB           1       return prediction 
+    40   2899.5 MiB      7.4 MiB           1       img = preprocess_image(image_path)
+    41   2688.6 MiB   -210.9 MiB           1       prediction = model.predict(img)
+    42   2688.6 MiB      0.0 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/06231.jpg ['positive']
@@ -580,11 +580,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2927.1 MiB   2927.1 MiB           1   @profile
+    38   2688.6 MiB   2688.6 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2927.1 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    41   2927.1 MiB      0.0 MiB           1       prediction = model.predict(img)
-    42   2927.1 MiB      0.0 MiB           1       return prediction 
+    40   2690.1 MiB      1.5 MiB           1       img = preprocess_image(image_path)
+    41   2898.9 MiB    208.8 MiB           1       prediction = model.predict(img)
+    42   2898.9 MiB      0.0 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/10369_1.jpg ['positive']
@@ -592,11 +592,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2927.1 MiB   2927.1 MiB           1   @profile
+    38   2898.9 MiB   2898.9 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2927.1 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    41   2927.1 MiB      0.0 MiB           1       prediction = model.predict(img)
-    42   2927.1 MiB      0.0 MiB           1       return prediction 
+    40   2879.5 MiB    -19.5 MiB           1       img = preprocess_image(image_path)
+    41   2426.3 MiB   -453.2 MiB           1       prediction = model.predict(img)
+    42   2424.4 MiB     -1.9 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/18490_1.jpg ['negative']
@@ -604,11 +604,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2927.1 MiB   2927.1 MiB           1   @profile
+    38   2413.5 MiB   2413.5 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2927.2 MiB      0.1 MiB           1       img = preprocess_image(image_path)
-    41   2927.2 MiB      0.0 MiB           1       prediction = model.predict(img)
-    42   2927.2 MiB      0.0 MiB           1       return prediction 
+    40   2187.9 MiB   -225.5 MiB           1       img = preprocess_image(image_path)
+    41   2089.8 MiB    -98.1 MiB           1       prediction = model.predict(img)
+    42   2086.7 MiB     -3.1 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/19311.jpg ['negative']
@@ -616,11 +616,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2927.2 MiB   2927.2 MiB           1   @profile
+    38   2054.0 MiB   2054.0 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2927.7 MiB      0.5 MiB           1       img = preprocess_image(image_path)
-    41   2927.7 MiB      0.0 MiB           1       prediction = model.predict(img)
-    42   2927.7 MiB      0.0 MiB           1       return prediction 
+    40   1853.8 MiB   -200.2 MiB           1       img = preprocess_image(image_path)
+    41    681.4 MiB  -1172.5 MiB           1       prediction = model.predict(img)
+    42    681.5 MiB      0.1 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/16022.jpg ['negative']
@@ -628,11 +628,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2927.7 MiB   2927.7 MiB           1   @profile
+    38    684.4 MiB    684.4 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2927.7 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    41   2927.7 MiB      0.0 MiB           1       prediction = model.predict(img)
-    42   2927.7 MiB      0.0 MiB           1       return prediction 
+    40    702.8 MiB     18.4 MiB           1       img = preprocess_image(image_path)
+    41   2238.9 MiB   1536.1 MiB           1       prediction = model.predict(img)
+    42   2239.0 MiB      0.1 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/19477.jpg ['positive']
@@ -640,11 +640,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2927.7 MiB   2927.7 MiB           1   @profile
+    38   2220.9 MiB   2220.9 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2927.7 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    41   2927.7 MiB      0.0 MiB           1       prediction = model.predict(img)
-    42   2927.7 MiB      0.0 MiB           1       return prediction 
+    40   1960.8 MiB   -260.0 MiB           1       img = preprocess_image(image_path)
+    41   1069.6 MiB   -891.2 MiB           1       prediction = model.predict(img)
+    42   1069.8 MiB      0.2 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/01238.jpg ['positive']
@@ -652,11 +652,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2927.7 MiB   2927.7 MiB           1   @profile
+    38   1072.6 MiB   1072.6 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2927.7 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    41   2926.5 MiB     -1.2 MiB           1       prediction = model.predict(img)
-    42   2926.5 MiB      0.0 MiB           1       return prediction 
+    40   1089.9 MiB     17.3 MiB           1       img = preprocess_image(image_path)
+    41   1210.7 MiB    120.8 MiB           1       prediction = model.predict(img)
+    42   1210.8 MiB      0.1 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/16744.jpg ['negative']
@@ -664,11 +664,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2926.5 MiB   2926.5 MiB           1   @profile
+    38   1213.5 MiB   1213.5 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2927.4 MiB      0.8 MiB           1       img = preprocess_image(image_path)
-    41   2927.4 MiB      0.0 MiB           1       prediction = model.predict(img)
-    42   2927.4 MiB      0.0 MiB           1       return prediction 
+    40   1225.6 MiB     12.1 MiB           1       img = preprocess_image(image_path)
+    41   2886.7 MiB   1661.1 MiB           1       prediction = model.predict(img)
+    42   2886.7 MiB      0.0 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/07891.jpg ['positive']
@@ -676,11 +676,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2927.4 MiB   2927.4 MiB           1   @profile
+    38   2886.8 MiB   2886.8 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2927.4 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    41   2927.4 MiB      0.0 MiB           1       prediction = model.predict(img)
-    42   2927.4 MiB      0.0 MiB           1       return prediction 
+    40   2894.6 MiB      7.8 MiB           1       img = preprocess_image(image_path)
+    41   2894.7 MiB      0.1 MiB           1       prediction = model.predict(img)
+    42   2894.7 MiB      0.0 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/18004_1.jpg ['positive']
@@ -688,11 +688,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2927.4 MiB   2927.4 MiB           1   @profile
+    38   2894.7 MiB   2894.7 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2927.4 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    41   2747.7 MiB   -179.7 MiB           1       prediction = model.predict(img)
-    42   2747.7 MiB      0.0 MiB           1       return prediction 
+    40   2897.6 MiB      2.9 MiB           1       img = preprocess_image(image_path)
+    41   2897.7 MiB      0.0 MiB           1       prediction = model.predict(img)
+    42   2897.7 MiB      0.0 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/09664.jpg ['positive']
@@ -700,11 +700,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2747.7 MiB   2747.7 MiB           1   @profile
+    38   2897.7 MiB   2897.7 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2751.7 MiB      4.0 MiB           1       img = preprocess_image(image_path)
-    41   2916.9 MiB    165.2 MiB           1       prediction = model.predict(img)
-    42   2916.9 MiB      0.0 MiB           1       return prediction 
+    40   2898.0 MiB      0.3 MiB           1       img = preprocess_image(image_path)
+    41   2898.0 MiB      0.0 MiB           1       prediction = model.predict(img)
+    42   2898.0 MiB      0.0 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/06557.jpg ['positive']
@@ -712,11 +712,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2916.9 MiB   2916.9 MiB           1   @profile
+    38   2898.0 MiB   2898.0 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2919.0 MiB      2.1 MiB           1       img = preprocess_image(image_path)
-    41   2919.0 MiB      0.0 MiB           1       prediction = model.predict(img)
-    42   2919.0 MiB      0.0 MiB           1       return prediction 
+    40   2899.3 MiB      1.3 MiB           1       img = preprocess_image(image_path)
+    41   2896.7 MiB     -2.6 MiB           1       prediction = model.predict(img)
+    42   2896.7 MiB      0.0 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/10335.jpg ['negative']
@@ -724,11 +724,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2919.0 MiB   2919.0 MiB           1   @profile
+    38   2896.7 MiB   2896.7 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2920.3 MiB      1.2 MiB           1       img = preprocess_image(image_path)
-    41   2920.2 MiB     -0.0 MiB           1       prediction = model.predict(img)
-    42   2920.2 MiB      0.0 MiB           1       return prediction 
+    40   2896.9 MiB      0.2 MiB           1       img = preprocess_image(image_path)
+    41   2797.3 MiB    -99.6 MiB           1       prediction = model.predict(img)
+    42   2797.3 MiB      0.0 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/18847_1.jpg ['negative']
@@ -736,11 +736,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2920.2 MiB   2920.2 MiB           1   @profile
+    38   2792.3 MiB   2792.3 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2833.8 MiB    -86.4 MiB           1       img = preprocess_image(image_path)
-    41   2914.7 MiB     80.9 MiB           1       prediction = model.predict(img)
-    42   2914.7 MiB      0.0 MiB           1       return prediction 
+    40   2637.0 MiB   -155.2 MiB           1       img = preprocess_image(image_path)
+    41   1299.1 MiB  -1338.0 MiB           1       prediction = model.predict(img)
+    42   1299.3 MiB      0.2 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/07649.jpg ['positive']
@@ -748,11 +748,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2914.7 MiB   2914.7 MiB           1   @profile
+    38   1302.1 MiB   1302.1 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2917.6 MiB      2.9 MiB           1       img = preprocess_image(image_path)
-    41   2917.6 MiB      0.0 MiB           1       prediction = model.predict(img)
-    42   2917.6 MiB      0.0 MiB           1       return prediction 
+    40   1319.7 MiB     17.6 MiB           1       img = preprocess_image(image_path)
+    41   2783.3 MiB   1463.6 MiB           1       prediction = model.predict(img)
+    42   2783.4 MiB      0.1 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/00126.jpg ['positive']
@@ -760,11 +760,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2917.6 MiB   2917.6 MiB           1   @profile
+    38   2786.3 MiB   2786.3 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2919.8 MiB      2.2 MiB           1       img = preprocess_image(image_path)
-    41   2919.8 MiB      0.0 MiB           1       prediction = model.predict(img)
-    42   2919.8 MiB      0.0 MiB           1       return prediction 
+    40   2804.5 MiB     18.2 MiB           1       img = preprocess_image(image_path)
+    41   2888.6 MiB     84.1 MiB           1       prediction = model.predict(img)
+    42   2888.6 MiB      0.0 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/18769.jpg ['negative']
@@ -772,11 +772,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2919.8 MiB   2919.8 MiB           1   @profile
+    38   2888.6 MiB   2888.6 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2920.5 MiB      0.7 MiB           1       img = preprocess_image(image_path)
-    41   2920.5 MiB      0.0 MiB           1       prediction = model.predict(img)
-    42   2920.5 MiB      0.0 MiB           1       return prediction 
+    40   2893.1 MiB      4.5 MiB           1       img = preprocess_image(image_path)
+    41   2893.1 MiB      0.0 MiB           1       prediction = model.predict(img)
+    42   2893.1 MiB      0.0 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/14153.jpg ['negative']
@@ -784,11 +784,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2920.5 MiB   2920.5 MiB           1   @profile
+    38   2893.1 MiB   2893.1 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2920.5 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    41   2919.0 MiB     -1.4 MiB           1       prediction = model.predict(img)
-    42   2919.0 MiB      0.0 MiB           1       return prediction 
+    40   2895.6 MiB      2.5 MiB           1       img = preprocess_image(image_path)
+    41   2895.9 MiB      0.3 MiB           1       prediction = model.predict(img)
+    42   2895.9 MiB      0.0 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/04340.jpg ['positive']
@@ -796,11 +796,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2919.0 MiB   2919.0 MiB           1   @profile
+    38   2895.9 MiB   2895.9 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2919.0 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    41   2918.8 MiB     -0.2 MiB           1       prediction = model.predict(img)
-    42   2918.8 MiB      0.0 MiB           1       return prediction 
+    40   2852.2 MiB    -43.7 MiB           1       img = preprocess_image(image_path)
+    41   1154.9 MiB  -1697.3 MiB           1       prediction = model.predict(img)
+    42   1155.1 MiB      0.2 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/835_00460.jpg ['negative']
@@ -808,11 +808,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2918.8 MiB   2918.8 MiB           1   @profile
+    38   1157.9 MiB   1157.9 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2920.1 MiB      1.3 MiB           1       img = preprocess_image(image_path)
-    41   2920.1 MiB      0.0 MiB           1       prediction = model.predict(img)
-    42   2920.1 MiB      0.0 MiB           1       return prediction 
+    40   1120.5 MiB    -37.5 MiB           1       img = preprocess_image(image_path)
+    41   1871.7 MiB    751.3 MiB           1       prediction = model.predict(img)
+    42   1871.9 MiB      0.2 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/12522.jpg ['negative']
@@ -820,11 +820,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2920.1 MiB   2920.1 MiB           1   @profile
+    38   1874.8 MiB   1874.8 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2920.1 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    41   2920.1 MiB      0.0 MiB           1       prediction = model.predict(img)
-    42   2920.1 MiB      0.0 MiB           1       return prediction 
+    40   1889.3 MiB     14.6 MiB           1       img = preprocess_image(image_path)
+    41   2886.8 MiB    997.5 MiB           1       prediction = model.predict(img)
+    42   2886.8 MiB      0.0 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/02731.jpg ['positive']
@@ -832,11 +832,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2920.1 MiB   2920.1 MiB           1   @profile
+    38   2886.8 MiB   2886.8 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2922.2 MiB      2.1 MiB           1       img = preprocess_image(image_path)
-    41   2922.3 MiB      0.0 MiB           1       prediction = model.predict(img)
-    42   2922.3 MiB      0.0 MiB           1       return prediction 
+    40   2892.9 MiB      6.1 MiB           1       img = preprocess_image(image_path)
+    41   2893.2 MiB      0.3 MiB           1       prediction = model.predict(img)
+    42   2893.2 MiB      0.0 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/12819_1.jpg ['positive']
@@ -844,11 +844,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2922.3 MiB   2922.3 MiB           1   @profile
+    38   2893.2 MiB   2893.2 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2922.3 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    41   2922.3 MiB      0.0 MiB           1       prediction = model.predict(img)
-    42   2922.3 MiB      0.0 MiB           1       return prediction 
+    40   2897.0 MiB      3.8 MiB           1       img = preprocess_image(image_path)
+    41   2897.2 MiB      0.3 MiB           1       prediction = model.predict(img)
+    42   2897.2 MiB      0.0 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/01210.jpg ['positive']
@@ -856,11 +856,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2922.3 MiB   2922.3 MiB           1   @profile
+    38   2897.2 MiB   2897.2 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2924.0 MiB      1.6 MiB           1       img = preprocess_image(image_path)
-    41   2924.0 MiB      0.0 MiB           1       prediction = model.predict(img)
-    42   2924.0 MiB      0.0 MiB           1       return prediction 
+    40   2755.2 MiB   -142.0 MiB           1       img = preprocess_image(image_path)
+    41   2891.4 MiB    136.1 MiB           1       prediction = model.predict(img)
+    42   2891.4 MiB      0.0 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/819_00648.jpg ['negative']
@@ -868,11 +868,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2924.0 MiB   2924.0 MiB           1   @profile
+    38   2891.4 MiB   2891.4 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2924.0 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    41   2924.0 MiB      0.0 MiB           1       prediction = model.predict(img)
-    42   2924.0 MiB      0.0 MiB           1       return prediction 
+    40   2890.4 MiB     -1.0 MiB           1       img = preprocess_image(image_path)
+    41   1359.2 MiB  -1531.2 MiB           1       prediction = model.predict(img)
+    42   1359.3 MiB      0.1 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/17111_1.jpg ['positive']
@@ -880,11 +880,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2924.0 MiB   2924.0 MiB           1   @profile
+    38   1362.0 MiB   1362.0 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2924.0 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    41   2924.0 MiB      0.0 MiB           1       prediction = model.predict(img)
-    42   2924.0 MiB      0.0 MiB           1       return prediction 
+    40   1256.0 MiB   -106.0 MiB           1       img = preprocess_image(image_path)
+    41   2865.0 MiB   1609.0 MiB           1       prediction = model.predict(img)
+    42   2865.1 MiB      0.1 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/12777_1.jpg ['positive']
@@ -892,11 +892,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2924.0 MiB   2924.0 MiB           1   @profile
+    38   2867.9 MiB   2867.9 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2924.7 MiB      0.8 MiB           1       img = preprocess_image(image_path)
-    41   2924.7 MiB      0.0 MiB           1       prediction = model.predict(img)
-    42   2924.7 MiB      0.0 MiB           1       return prediction 
+    40   2883.7 MiB     15.8 MiB           1       img = preprocess_image(image_path)
+    41   2885.9 MiB      2.2 MiB           1       prediction = model.predict(img)
+    42   2885.9 MiB      0.0 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/18999.jpg ['negative']
@@ -904,11 +904,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2924.7 MiB   2924.7 MiB           1   @profile
+    38   2885.9 MiB   2885.9 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2924.7 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    41   2924.7 MiB      0.0 MiB           1       prediction = model.predict(img)
-    42   2924.7 MiB      0.0 MiB           1       return prediction 
+    40   2892.6 MiB      6.7 MiB           1       img = preprocess_image(image_path)
+    41   2893.1 MiB      0.5 MiB           1       prediction = model.predict(img)
+    42   2893.1 MiB      0.0 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/11003.jpg ['negative']
@@ -916,11 +916,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2924.7 MiB   2924.7 MiB           1   @profile
+    38   2893.1 MiB   2893.1 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2924.8 MiB      0.1 MiB           1       img = preprocess_image(image_path)
-    41   2924.8 MiB      0.0 MiB           1       prediction = model.predict(img)
-    42   2924.8 MiB      0.0 MiB           1       return prediction 
+    40   2878.8 MiB    -14.3 MiB           1       img = preprocess_image(image_path)
+    41   2893.5 MiB     14.7 MiB           1       prediction = model.predict(img)
+    42   2893.5 MiB      0.0 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/07661.jpg ['positive']
@@ -928,11 +928,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2924.8 MiB   2924.8 MiB           1   @profile
+    38   2893.5 MiB   2893.5 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2924.8 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    41   2924.8 MiB      0.0 MiB           1       prediction = model.predict(img)
-    42   2924.8 MiB      0.0 MiB           1       return prediction 
+    40   2844.2 MiB    -49.3 MiB           1       img = preprocess_image(image_path)
+    41   2868.7 MiB     24.5 MiB           1       prediction = model.predict(img)
+    42   2868.8 MiB      0.1 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/10401_1.jpg ['positive']
@@ -940,11 +940,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2924.8 MiB   2924.8 MiB           1   @profile
+    38   2871.5 MiB   2871.5 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2924.9 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    41   2924.9 MiB      0.0 MiB           1       prediction = model.predict(img)
-    42   2924.9 MiB      0.0 MiB           1       return prediction 
+    40   2776.0 MiB    -95.6 MiB           1       img = preprocess_image(image_path)
+    41   2531.8 MiB   -244.1 MiB           1       prediction = model.predict(img)
+    42   2531.8 MiB      0.0 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/15267_1.jpg ['negative']
@@ -952,11 +952,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2924.9 MiB   2924.9 MiB           1   @profile
+    38   2531.9 MiB   2531.9 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2924.9 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    41   2924.9 MiB      0.0 MiB           1       prediction = model.predict(img)
-    42   2924.9 MiB      0.0 MiB           1       return prediction 
+    40   2538.2 MiB      6.3 MiB           1       img = preprocess_image(image_path)
+    41   2117.4 MiB   -420.8 MiB           1       prediction = model.predict(img)
+    42   2117.6 MiB      0.2 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/17952_1.jpg ['positive']
@@ -964,11 +964,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2924.9 MiB   2924.9 MiB           1   @profile
+    38   2120.3 MiB   2120.3 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2925.3 MiB      0.5 MiB           1       img = preprocess_image(image_path)
-    41   2925.3 MiB      0.0 MiB           1       prediction = model.predict(img)
-    42   2925.3 MiB      0.0 MiB           1       return prediction 
+    40   2090.1 MiB    -30.2 MiB           1       img = preprocess_image(image_path)
+    41   2514.3 MiB    424.1 MiB           1       prediction = model.predict(img)
+    42   2514.4 MiB      0.1 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/08552.jpg ['positive']
@@ -976,11 +976,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2925.3 MiB   2925.3 MiB           1   @profile
+    38   2517.1 MiB   2517.1 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2925.4 MiB      0.1 MiB           1       img = preprocess_image(image_path)
-    41   2925.4 MiB      0.0 MiB           1       prediction = model.predict(img)
-    42   2925.4 MiB      0.0 MiB           1       return prediction 
+    40   2532.3 MiB     15.2 MiB           1       img = preprocess_image(image_path)
+    41   2885.2 MiB    352.9 MiB           1       prediction = model.predict(img)
+    42   2885.2 MiB      0.0 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/17472.jpg ['negative']
@@ -988,11 +988,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2925.4 MiB   2925.4 MiB           1   @profile
+    38   2885.2 MiB   2885.2 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2925.4 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    41   2925.4 MiB      0.0 MiB           1       prediction = model.predict(img)
-    42   2925.4 MiB      0.0 MiB           1       return prediction 
+    40   2892.3 MiB      7.2 MiB           1       img = preprocess_image(image_path)
+    41   2892.6 MiB      0.3 MiB           1       prediction = model.predict(img)
+    42   2892.6 MiB      0.0 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/18741.jpg ['negative']
@@ -1000,11 +1000,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2925.4 MiB   2925.4 MiB           1   @profile
+    38   2892.6 MiB   2892.6 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2925.4 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    41   2925.4 MiB      0.0 MiB           1       prediction = model.predict(img)
-    42   2925.4 MiB      0.0 MiB           1       return prediction 
+    40   2895.5 MiB      2.8 MiB           1       img = preprocess_image(image_path)
+    41   2895.5 MiB      0.1 MiB           1       prediction = model.predict(img)
+    42   2895.5 MiB      0.0 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/09894.jpg ['positive']
@@ -1012,11 +1012,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2925.4 MiB   2925.4 MiB           1   @profile
+    38   2895.5 MiB   2895.5 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2925.5 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    41   2925.4 MiB     -0.0 MiB           1       prediction = model.predict(img)
-    42   2925.4 MiB      0.0 MiB           1       return prediction 
+    40   2898.3 MiB      2.8 MiB           1       img = preprocess_image(image_path)
+    41   2620.3 MiB   -278.0 MiB           1       prediction = model.predict(img)
+    42   2620.3 MiB      0.0 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/03407.jpg ['positive']
@@ -1024,11 +1024,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2925.4 MiB   2925.4 MiB           1   @profile
+    38   2620.3 MiB   2620.3 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2925.4 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    41   2925.0 MiB     -0.4 MiB           1       prediction = model.predict(img)
-    42   2925.0 MiB      0.0 MiB           1       return prediction 
+    40   2624.2 MiB      3.9 MiB           1       img = preprocess_image(image_path)
+    41   2892.5 MiB    268.3 MiB           1       prediction = model.predict(img)
+    42   2892.5 MiB      0.0 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/18729_1.jpg ['negative']
@@ -1036,11 +1036,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2925.0 MiB   2925.0 MiB           1   @profile
+    38   2892.5 MiB   2892.5 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2925.0 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    41   2925.0 MiB      0.0 MiB           1       prediction = model.predict(img)
-    42   2925.0 MiB      0.0 MiB           1       return prediction 
+    40   2895.8 MiB      3.3 MiB           1       img = preprocess_image(image_path)
+    41   2895.8 MiB      0.0 MiB           1       prediction = model.predict(img)
+    42   2895.8 MiB      0.0 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/13614.jpg ['negative']
@@ -1048,11 +1048,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2925.0 MiB   2925.0 MiB           1   @profile
+    38   2895.8 MiB   2895.8 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2925.0 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    41   2925.0 MiB      0.0 MiB           1       prediction = model.predict(img)
-    42   2925.0 MiB      0.0 MiB           1       return prediction 
+    40   2830.4 MiB    -65.4 MiB           1       img = preprocess_image(image_path)
+    41   2540.5 MiB   -289.9 MiB           1       prediction = model.predict(img)
+    42   2540.7 MiB      0.2 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/04368.jpg ['positive']
@@ -1060,11 +1060,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2925.0 MiB   2925.0 MiB           1   @profile
+    38   2543.4 MiB   2543.4 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2925.0 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    41   2925.0 MiB      0.0 MiB           1       prediction = model.predict(img)
-    42   2925.0 MiB      0.0 MiB           1       return prediction 
+    40   2554.6 MiB     11.2 MiB           1       img = preprocess_image(image_path)
+    41   2894.8 MiB    340.1 MiB           1       prediction = model.predict(img)
+    42   2894.8 MiB      0.0 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/05076.jpg ['positive']
@@ -1072,11 +1072,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2925.0 MiB   2925.0 MiB           1   @profile
+    38   2894.8 MiB   2894.8 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2925.0 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    41   2925.0 MiB      0.0 MiB           1       prediction = model.predict(img)
-    42   2925.0 MiB      0.0 MiB           1       return prediction 
+    40   2898.5 MiB      3.7 MiB           1       img = preprocess_image(image_path)
+    41   2898.5 MiB      0.0 MiB           1       prediction = model.predict(img)
+    42   2898.5 MiB      0.0 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/02719.jpg ['positive']
@@ -1084,11 +1084,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2925.0 MiB   2925.0 MiB           1   @profile
+    38   2898.5 MiB   2898.5 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2923.3 MiB     -1.7 MiB           1       img = preprocess_image(image_path)
-    41   2923.3 MiB      0.0 MiB           1       prediction = model.predict(img)
-    42   2923.3 MiB      0.0 MiB           1       return prediction 
+    40   2899.7 MiB      1.2 MiB           1       img = preprocess_image(image_path)
+    41   2899.7 MiB      0.0 MiB           1       prediction = model.predict(img)
+    42   2899.7 MiB      0.0 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/15265.jpg ['negative']
@@ -1096,11 +1096,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2923.3 MiB   2923.3 MiB           1   @profile
+    38   2899.7 MiB   2899.7 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2923.3 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    41   2923.3 MiB      0.0 MiB           1       prediction = model.predict(img)
-    42   2923.3 MiB      0.0 MiB           1       return prediction 
+    40   2900.0 MiB      0.3 MiB           1       img = preprocess_image(image_path)
+    41   2900.0 MiB      0.0 MiB           1       prediction = model.predict(img)
+    42   2900.0 MiB      0.0 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/10893_1.jpg ['negative']
@@ -1108,11 +1108,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2923.3 MiB   2923.3 MiB           1   @profile
+    38   2900.0 MiB   2900.0 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2921.5 MiB     -1.9 MiB           1       img = preprocess_image(image_path)
-    41   2921.5 MiB      0.0 MiB           1       prediction = model.predict(img)
-    42   2921.5 MiB      0.0 MiB           1       return prediction 
+    40   2749.1 MiB   -150.9 MiB           1       img = preprocess_image(image_path)
+    41   2821.5 MiB     72.3 MiB           1       prediction = model.predict(img)
+    42   2821.5 MiB      0.0 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/12732_1.jpg ['positive']
@@ -1120,11 +1120,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2921.5 MiB   2921.5 MiB           1   @profile
+    38   2821.5 MiB   2821.5 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2921.5 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    41   2921.5 MiB      0.0 MiB           1       prediction = model.predict(img)
-    42   2921.5 MiB      0.0 MiB           1       return prediction 
+    40   2826.6 MiB      5.1 MiB           1       img = preprocess_image(image_path)
+    41   2715.0 MiB   -111.6 MiB           1       prediction = model.predict(img)
+    42   2715.1 MiB      0.1 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/17154_1.jpg ['positive']
@@ -1132,11 +1132,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2921.5 MiB   2921.5 MiB           1   @profile
+    38   2717.9 MiB   2717.9 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2921.5 MiB      0.1 MiB           1       img = preprocess_image(image_path)
-    41   2921.5 MiB      0.0 MiB           1       prediction = model.predict(img)
-    42   2921.5 MiB      0.0 MiB           1       return prediction 
+    40   2731.6 MiB     13.7 MiB           1       img = preprocess_image(image_path)
+    41   2891.5 MiB    159.9 MiB           1       prediction = model.predict(img)
+    42   2891.5 MiB      0.0 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/15503.jpg ['negative']
@@ -1144,11 +1144,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2921.5 MiB   2921.5 MiB           1   @profile
+    38   2891.5 MiB   2891.5 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2921.5 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    41   2921.5 MiB      0.0 MiB           1       prediction = model.predict(img)
-    42   2921.5 MiB      0.0 MiB           1       return prediction 
+    40   2894.3 MiB      2.8 MiB           1       img = preprocess_image(image_path)
+    41   2894.4 MiB      0.0 MiB           1       prediction = model.predict(img)
+    42   2894.4 MiB      0.0 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/05710.jpg ['positive']
@@ -1156,11 +1156,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2921.5 MiB   2921.5 MiB           1   @profile
+    38   2894.4 MiB   2894.4 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2921.5 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    41   2921.5 MiB      0.0 MiB           1       prediction = model.predict(img)
-    42   2921.5 MiB      0.0 MiB           1       return prediction 
+    40   2867.2 MiB    -27.3 MiB           1       img = preprocess_image(image_path)
+    41   2533.7 MiB   -333.5 MiB           1       prediction = model.predict(img)
+    42   2533.8 MiB      0.1 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/13172.jpg ['negative']
@@ -1168,11 +1168,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2921.5 MiB   2921.5 MiB           1   @profile
+    38   2536.5 MiB   2536.5 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2921.5 MiB      0.0 MiB           1       img = preprocess_image(image_path)
-    41   2918.6 MiB     -2.9 MiB           1       prediction = model.predict(img)
-    42   2918.6 MiB      0.0 MiB           1       return prediction 
+    40   2549.2 MiB     12.7 MiB           1       img = preprocess_image(image_path)
+    41   2892.3 MiB    343.1 MiB           1       prediction = model.predict(img)
+    42   2892.3 MiB      0.0 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/03361.jpg ['positive']
@@ -1180,11 +1180,11 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2918.6 MiB   2918.6 MiB           1   @profile
+    38   2892.3 MiB   2892.3 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2920.7 MiB      2.1 MiB           1       img = preprocess_image(image_path)
-    41   2920.7 MiB      0.0 MiB           1       prediction = model.predict(img)
-    42   2920.7 MiB      0.0 MiB           1       return prediction 
+    40   2830.9 MiB    -61.5 MiB           1       img = preprocess_image(image_path)
+    41   2891.5 MiB     60.6 MiB           1       prediction = model.predict(img)
+    42   2891.5 MiB      0.0 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/17917_1.jpg ['negative']
@@ -1192,17 +1192,17 @@ Filename: /Users/sandeepreddy/Desktop/cloud/ML_Project/knn.py
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
-    38   2920.7 MiB   2920.7 MiB           1   @profile
+    38   2891.5 MiB   2891.5 MiB           1   @profile
     39                                         def calling_decorators(image_path):
-    40   2921.0 MiB      0.3 MiB           1       img = preprocess_image(image_path)
-    41   2921.0 MiB      0.0 MiB           1       prediction = model.predict(img)
-    42   2921.0 MiB      0.0 MiB           1       return prediction 
+    40   2797.1 MiB    -94.4 MiB           1       img = preprocess_image(image_path)
+    41   2457.5 MiB   -339.6 MiB           1       prediction = model.predict(img)
+    42   2457.6 MiB      0.1 MiB           1       return prediction 
 
 
 /Users/sandeepreddy/Desktop/test/15222_1.jpg ['negative']
-CPU Usage (after): 15.5%
-Batch Runtime: 34.26040029525757 seconds
-CPU Usage (total): 15.5%
+CPU Usage (after): 47.5%
+Batch Runtime: 99.11005306243896 seconds
+CPU Usage (total): 47.5%
 Iteration 1:
 --------------------------------------
-Start time of cpu, 1713139498.3856971 sec
+Start time of cpu, 09:59:12 sec

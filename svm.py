@@ -18,7 +18,7 @@ import time
 # Load the saved model
 
 
-start_time = time.time()
+start_time = time.strftime("%I:%M:%S")
 print(f"Start time of cpu, {start_time} sec")
 model = joblib.load("/Users/sandeepreddy/Desktop/Differentmodels/models40k/best_svm_model_split_data.joblib")
 
@@ -127,7 +127,7 @@ def write_results_to_csv(output_csv_path, all_predictions,batch_runtime,total_cp
                 
             csv_writer.writerow(["Total batch time:", batch_runtime])
             csv_writer.writerow(["Total cpu time:",total_cpu_usage])
-            end_time = time.time()
+            end_time = time.strftime("%I:%M:%S")
             print(f"Start time of cpu, {end_time} sec")
 
 
