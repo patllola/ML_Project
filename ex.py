@@ -1,7 +1,7 @@
 import pandas as pd
 import time
 
-cpu_data = pd.read_csv("/Users/sandeepreddy/Desktop/cpu_time_knn_results.csv")
+cpu_data = pd.read_csv("/Users/sandeepreddy/Desktop/cpu_time_logistic_results.csv")
 
     # Set the start and end times of the experiment
 stime_when_you_start_experiment = "10:54:08"  
